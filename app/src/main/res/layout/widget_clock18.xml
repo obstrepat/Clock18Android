@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:padding="16dp"
+    android:background="@drawable/widget_bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="18 SAAT"
+        android:textColor="@color/muted"
+        android:textSize="11sp"
+        android:letterSpacing="0.16"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/widgetCustomTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="00:00"
+        android:textColor="@color/text"
+        android:textSize="38sp"
+        android:textStyle="bold"
+        android:fontFamily="sans" />
+
+    <TextView
+        android:id="@+id/widgetRealTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="Adi vaxt 00:00"
+        android:textColor="@color/muted"
+        android:textSize="12sp" />
+</LinearLayout>
