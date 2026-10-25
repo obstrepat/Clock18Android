@@ -139,6 +139,1866 @@
       "Du bist für jemanden der glücklichste Zufall.",
       "Auch ein wenig Ruhe gehört zur Arbeit. Mach dir Vorwürfe – aber nein, lieber nicht.",
       "Auch wenn nicht alles leicht ist, machst du das richtig gut 💛"
+    ],
+    "ar": [
+      "لا أحد يستطيع أن يفعل أفضل منك اليوم. ولا حتى أنت 😄",
+      "ابتسامتك تضيء الغرفة. جربه، انظر في المرآة!",
+      "كل إنجاز عظيم بدأ بخطوة صغيرة. أنت بالفعل في طريقك.",
+      "تمر الأيام الصعبة ولكنك باقي. هذه هي القوة.",
+      "أنت مدين لنفسك بفنجان شاي اليوم ☕",
+      "أنت قادر على أكثر مما تعتقد.",
+      "خذ نفساً عميقاً. كل شيء سوف يقع في مكانه.",
+      "ربما فكر فيك أحدهم وابتسم اليوم، ربما الآن فقط.",
+      "ليس من الضروري أن تكون مثالياً. أنت تكفي كما أنت.",
+      "ابحث عن القليل من الفرح اليوم: أشعة الشمس، الموسيقى، شيء جميل 🍫",
+      "طاقتك توفر على بعض الناس يوم كامل.",
+      "الأشياء الجيدة في الطريق. إنهم ينتظرون فقط أن تكون جاهزًا.",
+      "كن فخوراً بنفسك. لقد انتهى الأمس، واليوم هو لك!",
+      "كل صباح صفحة جديدة. القلم في يدك ✏️",
+      "ابتسم ولو قليلاً. دماغك يلاحظ ذلك 😊",
+      "أنت أسعد صدفة لشخص ما.",
+      "القليل من الراحة جزء من العمل أيضًا. ألوم نفسك، ولكن في الواقع، لا تفعل ذلك.",
+      "حتى عندما لا تكون الأمور سهلة، فأنت تقوم بعمل جيد حقًا 💛"
+    ],
+    "hi": [
+      "आज आपसे बेहतर कोई नहीं कर सकता था। तुम भी नहीं 😄",
+      "आपकी मुस्कान कमरे को रोशन कर देती है। इसे आज़माएं, दर्पण में देखें!",
+      "हर बड़ी उपलब्धि की शुरुआत एक छोटे कदम से होती है। आप पहले से ही अपने रास्ते पर हैं.",
+      "कठिन दिन बीत जाते हैं, लेकिन आप बने रहते हैं। वह ताकत है.",
+      "आज आपको एक कप चाय देनी है ☕",
+      "आप जितना सोचते हैं उससे कहीं अधिक सक्षम हैं।",
+      "गहरी सांस लें। सब कुछ ठीक हो जाएगा.",
+      "हो सकता है किसी ने आपके बारे में सोचा हो और आज मुस्कुराया हो, शायद अभी।",
+      "आपको परफेक्ट होने की जरूरत नहीं है। आप जैसे हैं वैसे ही काफी हैं.",
+      "आज एक छोटी सी खुशी खोजें: धूप, संगीत, कुछ मीठा 🍫",
+      "आपकी ऊर्जा कुछ लोगों का पूरा दिन बचाती है।",
+      "अच्छी चीज़ें आने वाली हैं। वे बस आपके तैयार होने का इंतजार कर रहे हैं।",
+      "खुद पर गर्व करें। कल ख़त्म हो गया, आज तुम्हारा है!",
+      "हर सुबह एक नया पन्ना है. कलम आपके हाथ में है ✏️",
+      "मुस्कुराएं, भले ही थोड़ा सा। आपका मस्तिष्क इसे नोटिस करता है 😊",
+      "आप किसी के लिए सबसे सुखद संयोग हैं।",
+      "थोड़ा आराम भी काम का हिस्सा है. स्वयं को दोष दें-लेकिन वास्तव में ऐसा न करें।",
+      "यहां तक कि जब चीजें आसान नहीं हैं, तब भी आप वास्तव में अच्छा कर रहे हैं 💛"
+    ],
+    "zh": [
+      "今天没有人能比你做得更好。连你也不行😄",
+      "你的微笑照亮了房间。试试看，照照镜子！",
+      "每一个伟大的成就都是从一小步开始的。你已经在路上了。",
+      "艰难的日子过去了，但你依然存在。那就是力量。",
+      "今天欠自己一杯茶☕",
+      "你的能力超乎你的想象。",
+      "深吸一口气。一切都会水到渠成。",
+      "也许今天有人想起了你并对你微笑，也许就在此时。",
+      "你不需要完美。你现在这样就足够了。",
+      "今天找一点小快乐：阳光、音乐、甜蜜的东西🍫",
+      "您的精力可以节省一些人一整天的时间。",
+      "美好的事情正在路上。他们只是在等你准备好。",
+      "为自己感到骄傲。昨天已经过去了，今天是你的了！",
+      "每个早晨都是新的一页。笔在你手中✏️",
+      "微笑，哪怕只是一点点。你的大脑注意到了它😊",
+      "你是某人最幸福的巧合。",
+      "稍微休息也是工作的一部分。责怪自己——但实际上，不要责怪自己。",
+      "即使事情并不容易，你也做得很好💛"
+    ],
+    "pt": [
+      "Ninguém poderia ter feito melhor do que você hoje. Nem você 😄",
+      "Seu sorriso ilumina a sala. Experimente, olhe-se no espelho!",
+      "Toda grande conquista começou com um pequeno passo. Você já está a caminho.",
+      "Os dias difíceis passam, mas você permanece. Isso é força.",
+      "Você deve uma xícara de chá hoje ☕",
+      "Você é capaz de mais do que pensa.",
+      "Respire fundo. Tudo vai se encaixar.",
+      "Talvez alguém tenha pensado em você e sorrido hoje, talvez agora mesmo.",
+      "Você não precisa ser perfeito. Você é suficiente como você é.",
+      "Encontre um pouco de alegria hoje: sol, música, algo doce 🍫",
+      "Sua energia economiza o dia inteiro de algumas pessoas.",
+      "Coisas boas estão a caminho. Eles estão apenas esperando que você esteja pronto.",
+      "Tenha orgulho de si mesmo. Ontem acabou, hoje é seu!",
+      "Cada manhã é uma nova página. A caneta está na sua mão ✏️",
+      "Sorria, mesmo que só um pouquinho. Seu cérebro percebe isso 😊",
+      "Você é a coincidência mais feliz de alguém.",
+      "Um pouco de descanso também faz parte do trabalho. Culpe-se - mas, na verdade, não faça isso.",
+      "Mesmo quando as coisas não estão fáceis, você está indo muito bem 💛"
+    ],
+    "bn": [
+      "আজ আপনার চেয়ে ভালো কাজ আর কেউ করতে পারত না। এমনকি তুমিও না 😄",
+      "তোমার হাসি ঘর আলো করে। চেষ্টা করুন, আয়নায় দেখুন!",
+      "প্রতিটি মহান অর্জন একটি ছোট পদক্ষেপ দিয়ে শুরু হয়। আপনি ইতিমধ্যে আপনার পথে আছে.",
+      "কষ্টের দিন কেটে গেলেও তুমি রয়ে যাবে। এটাই শক্তি।",
+      "তুমি আজ এক কাপ চা পাওনা ☕",
+      "আপনি যা ভাবেন তার চেয়েও বেশি সক্ষম।",
+      "গভীর শ্বাস নিন। সবকিছু জায়গায় পড়ে যাবে।",
+      "হয়তো কেউ তোমার কথা ভেবে আজ হাসলো, হয়তো এখনই।",
+      "আপনার নিখুঁত হওয়ার দরকার নেই। তুমি যেমন আছ তেমনই যথেষ্ট।",
+      "আজ একটি ছোট আনন্দ খুঁজুন: রোদ, সঙ্গীত, কিছু মিষ্টি 🍫",
+      "আপনার শক্তি কিছু লোকের সারাদিন বাঁচায়।",
+      "ভাল জিনিস তাদের পথে আছে. তারা শুধু আপনার প্রস্তুত হওয়ার জন্য অপেক্ষা করছে।",
+      "নিজেকে নিয়ে গর্বিত হন। গতকাল শেষ, আজ আপনার!",
+      "প্রতিদিন সকালে একটি নতুন পাতা। কলম তোমার হাতে ✏️",
+      "একটু হলেও হাসুন। আপনার মস্তিষ্ক এটি লক্ষ্য করে 😊",
+      "আপনি একজনের সবচেয়ে সুখী কাকতালীয়।",
+      "একটু বিশ্রামও কাজের অংশ। নিজেকে দোষারোপ করুন - কিন্তু আসলে, করবেন না।",
+      "জিনিসগুলি সহজ না হলেও, আপনি সত্যিই ভাল করছেন 💛"
+    ],
+    "ja": [
+      "今日、あなたより優れた成果を上げた人は誰もいなかったでしょう。あなたですらない 😄",
+      "あなたの笑顔が部屋を明るくします。試してみて、鏡を見てください！",
+      "あらゆる偉大な成果は小さな一歩から始まりました。あなたはすでに出発しています。",
+      "大変な日々が過ぎましたが、あなたは残ります。それが強さなのです。",
+      "今日はお茶を一杯飲む義務があります ☕",
+      "あなたには思っている以上の能力があります。",
+      "深呼吸してください。すべてが所定の位置に収まります。",
+      "もしかしたら今日、もしかしたら今、誰かがあなたのことを思い出して微笑んだかもしれません。",
+      "完璧である必要はありません。あなたはあなたのままで十分です。",
+      "今日は小さな喜びを見つけてください: 太陽の光、音楽、甘いもの 🍫",
+      "あなたのエネルギーは、一部の人々の 1 日を節約します。",
+      "良いことが近づいています。彼らはただあなたの準備が整うのを待っています。",
+      "自分に誇りを持ちましょう。昨日は終わりました、今日はあなたのものです！",
+      "毎朝が新しいページです。ペンはあなたの手にあります✏️",
+      "少しでもいいから笑顔で。あなたの脳はそれに気づきます😊",
+      "あなたは誰かにとって最も幸せな偶然です。",
+      "ちょっとした休憩も仕事のうちです。自分を責めてはいけませんが、実はそうしないでください。",
+      "物事は簡単ではないにしても、あなたは本当によくやっています 💛"
+    ],
+    "ko": [
+      "오늘 당신보다 더 잘한 사람은 없었을 것입니다. 너도 아니야 😄",
+      "당신의 미소가 방을 환하게 밝혀줍니다. 한번 해보세요, 거울을 보세요!",
+      "모든 위대한 성취는 작은 발걸음에서 시작되었습니다. 당신은 이미 가고 있습니다.",
+      "힘든 시절이 지나도 당신은 남아있습니다. 그것은 힘입니다.",
+      "오늘은 차 한잔의 여유가 생겼네요 😄",
+      "당신은 당신이 생각하는 것보다 더 많은 것을 할 수 있습니다.",
+      "심호흡을 해보세요. 모든 것이 제자리에 들어갈 것입니다.",
+      "어쩌면 오늘, 어쩌면 지금 누군가가 당신을 생각하고 웃었을지도 모릅니다.",
+      "완벽할 필요는 없습니다. 당신은 있는 그대로 충분합니다.",
+      "오늘 작은 기쁨 하나를 찾으세요: 햇빛, 음악, 달콤한 것 🍫",
+      "당신의 에너지는 어떤 사람들의 하루 전체를 구합니다.",
+      "좋은 일이 생길 것 같아요. 그들은 단지 당신이 준비되기를 기다리고 있습니다.",
+      "자신을 자랑스러워하세요. 어제는 끝났고 오늘은 당신의 것입니다!",
+      "매일 아침은 새로운 페이지입니다. 펜은 당신의 손에 있습니다 ✏️",
+      "조금이라도 웃으세요. 당신의 두뇌는 그것을 알아차립니다 😊",
+      "당신은 누군가에게 가장 행복한 우연입니다.",
+      "약간의 휴식도 일의 일부입니다. 자신을 비난하십시오. 그러나 실제로는 그렇지 않습니다.",
+      "쉽지 않은 상황에서도 정말 잘 지내고 계시네요 💛"
+    ],
+    "ur": [
+      "آج آپ سے بہتر کوئی نہیں کر سکتا تھا۔ تم بھی نہیں 😄",
+      "آپ کی مسکراہٹ کمرے کو روشن کر دیتی ہے۔ اسے آزمائیں، آئینے میں دیکھو!",
+      "ہر بڑی کامیابی ایک چھوٹے قدم سے شروع ہوتی ہے۔ آپ پہلے ہی اپنے راستے پر ہیں۔",
+      "مشکل دن گزر جاتے ہیں، لیکن آپ رہتے ہیں. وہ طاقت ہے۔",
+      "آپ پر آج ایک کپ چائے کا مقروض ہے ☕",
+      "آپ اپنی سوچ سے زیادہ کی صلاحیت رکھتے ہیں۔",
+      "گہری سانس لیں۔ سب کچھ جگہ پر گر جائے گا.",
+      "شاید کسی نے آپ کے بارے میں سوچا ہو اور آج مسکرایا ہو، شاید ابھی۔",
+      "آپ کو کامل ہونے کی ضرورت نہیں ہے۔ آپ جیسے ہیں کافی ہیں۔",
+      "آج ایک چھوٹی سی خوشی تلاش کریں: دھوپ، موسیقی، کچھ میٹھا 🍫",
+      "آپ کی توانائی کچھ لوگوں کے پورے دن کو بچاتی ہے۔",
+      "اچھی چیزیں اپنے راستے پر ہیں۔ وہ صرف آپ کے تیار ہونے کا انتظار کر رہے ہیں۔",
+      "اپنے آپ پر فخر کریں۔ کل ختم ہوا، آج تمہارا ہے!",
+      "ہر صبح ایک نیا صفحہ ہوتا ہے۔ قلم آپ کے ہاتھ میں ہے ✏️",
+      "مسکرائیں، چاہے تھوڑا ہی کیوں نہ ہو۔ آپ کا دماغ اسے نوٹ کرتا ہے 😊",
+      "آپ کسی کا سب سے خوش کن اتفاق ہیں۔",
+      "تھوڑا سا آرام بھی کام کا حصہ ہے۔ اپنے آپ کو مورد الزام ٹھہرائیں - لیکن حقیقت میں، ایسا نہ کریں۔",
+      "یہاں تک کہ جب چیزیں آسان نہیں ہیں، آپ واقعی اچھا کر رہے ہیں 💛"
+    ],
+    "pa": [
+      "ਅੱਜ ਤੁਹਾਡੇ ਤੋਂ ਵਧੀਆ ਕੋਈ ਨਹੀਂ ਕਰ ਸਕਦਾ ਸੀ। ਤੂੰ ਵੀ ਨਹੀਂ 😄",
+      "ਤੁਹਾਡੀ ਮੁਸਕਰਾਹਟ ਕਮਰੇ ਨੂੰ ਰੌਸ਼ਨ ਕਰਦੀ ਹੈ। ਇਸਨੂੰ ਅਜ਼ਮਾਓ, ਸ਼ੀਸ਼ੇ ਵਿੱਚ ਦੇਖੋ!",
+      "ਹਰ ਵੱਡੀ ਪ੍ਰਾਪਤੀ ਇੱਕ ਛੋਟੇ ਕਦਮ ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ। ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਆਪਣੇ ਰਸਤੇ 'ਤੇ ਹੋ।",
+      "ਔਖੇ ਦਿਨ ਬੀਤ ਜਾਂਦੇ ਹਨ, ਪਰ ਤੁਸੀਂ ਰਹਿੰਦੇ ਹੋ. ਉਹ ਤਾਕਤ ਹੈ।",
+      "ਤੁਸੀਂ ਅੱਜ ਇੱਕ ਕੱਪ ਚਾਹ ਦੇ ਦੇਣਦਾਰ ਹੋ ☕",
+      "ਤੁਸੀਂ ਆਪਣੀ ਸੋਚ ਤੋਂ ਵੱਧ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੋ।",
+      "ਇੱਕ ਡੂੰਘਾ ਸਾਹ ਲਓ। ਸਭ ਕੁਝ ਜਗ੍ਹਾ ਵਿੱਚ ਡਿੱਗ ਜਾਵੇਗਾ.",
+      "ਸ਼ਾਇਦ ਕਿਸੇ ਨੇ ਤੁਹਾਡੇ ਬਾਰੇ ਸੋਚਿਆ ਅਤੇ ਅੱਜ ਮੁਸਕਰਾਇਆ, ਸ਼ਾਇਦ ਹੁਣੇ।",
+      "ਤੁਹਾਨੂੰ ਸੰਪੂਰਨ ਹੋਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਜਿਵੇਂ ਹੋ, ਕਾਫ਼ੀ ਹੋ.",
+      "ਅੱਜ ਇੱਕ ਛੋਟੀ ਜਿਹੀ ਖੁਸ਼ੀ ਲੱਭੋ: ਧੁੱਪ, ਸੰਗੀਤ, ਕੁਝ ਮਿੱਠਾ 🍫",
+      "ਤੁਹਾਡੀ ਊਰਜਾ ਕੁਝ ਲੋਕਾਂ ਦਾ ਸਾਰਾ ਦਿਨ ਬਚਾਉਂਦੀ ਹੈ।",
+      "ਚੰਗੀਆਂ ਚੀਜ਼ਾਂ ਆਪਣੇ ਰਾਹ 'ਤੇ ਹਨ। ਉਹ ਤੁਹਾਡੇ ਤਿਆਰ ਹੋਣ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹਨ।",
+      "ਆਪਣੇ ਆਪ 'ਤੇ ਮਾਣ ਕਰੋ। ਕੱਲ੍ਹ ਖਤਮ ਹੋ ਗਿਆ, ਅੱਜ ਤੁਹਾਡਾ ਹੈ!",
+      "ਹਰ ਸਵੇਰ ਇੱਕ ਨਵਾਂ ਪੰਨਾ ਹੁੰਦਾ ਹੈ। ਕਲਮ ਤੁਹਾਡੇ ਹੱਥ ਵਿੱਚ ਹੈ ✏️",
+      "ਮੁਸਕਰਾਓ, ਭਾਵੇਂ ਥੋੜਾ ਜਿਹਾ। ਤੁਹਾਡਾ ਦਿਮਾਗ ਇਸਨੂੰ ਨੋਟ ਕਰਦਾ ਹੈ 😊",
+      "ਤੁਸੀਂ ਕਿਸੇ ਦਾ ਸਭ ਤੋਂ ਖੁਸ਼ਹਾਲ ਇਤਫ਼ਾਕ ਹੋ।",
+      "ਥੋੜਾ ਆਰਾਮ ਕਰਨਾ ਵੀ ਕੰਮ ਦਾ ਹਿੱਸਾ ਹੈ। ਆਪਣੇ ਆਪ ਨੂੰ ਦੋਸ਼ੀ ਠਹਿਰਾਓ - ਪਰ ਅਸਲ ਵਿੱਚ, ਨਾ ਕਰੋ।",
+      "ਭਾਵੇਂ ਚੀਜ਼ਾਂ ਆਸਾਨ ਨਾ ਹੋਣ, ਤੁਸੀਂ ਅਸਲ ਵਿੱਚ ਵਧੀਆ ਕਰ ਰਹੇ ਹੋ 💛"
+    ],
+    "id": [
+      "Tidak ada yang bisa melakukan lebih baik dari Anda hari ini. Bahkan kamu pun tidak 😄",
+      "Senyummu menerangi ruangan. Cobalah, lihat ke cermin!",
+      "Setiap pencapaian besar dimulai dengan sebuah langkah kecil. Anda sudah dalam perjalanan.",
+      "Hari-hari sulit berlalu, tetapi kamu tetap tinggal. Itulah kekuatan.",
+      "Kamu berhutang secangkir teh pada dirimu sendiri hari ini ☕",
+      "Anda mampu melakukan lebih dari yang Anda kira.",
+      "Tarik napas dalam-dalam. Semuanya akan jatuh pada tempatnya.",
+      "Mungkin seseorang memikirkanmu dan tersenyum hari ini, mungkin baru saja.",
+      "Anda tidak perlu menjadi sempurna. Kamu sudah cukup apa adanya.",
+      "Temukan satu kegembiraan kecil hari ini: sinar matahari, musik, sesuatu yang manis 🍫",
+      "Energi Anda menghemat sepanjang hari bagi sebagian orang.",
+      "Hal-hal baik sedang dalam perjalanan. Mereka hanya menunggu Anda siap.",
+      "Banggalah pada diri sendiri. Kemarin sudah berakhir, hari ini milikmu!",
+      "Setiap pagi adalah halaman baru. Pena ada di tangan Anda ✏️",
+      "Tersenyumlah, meski hanya sedikit. Otak Anda menyadarinya 😊",
+      "Kamu adalah kebetulan yang paling membahagiakan bagi seseorang.",
+      "Istirahat sebentar juga merupakan bagian dari pekerjaan. Salahkan diri Anda sendiri—tetapi sebenarnya, jangan.",
+      "Meskipun segala sesuatunya tidak mudah, kamu melakukannya dengan sangat baik 💛"
+    ],
+    "vi": [
+      "Hôm nay không ai có thể làm tốt hơn bạn. Kể cả bạn cũng không 😄",
+      "Nụ cười của bạn thắp sáng cả căn phòng. Hãy thử nó, nhìn vào gương!",
+      "Mọi thành tựu vĩ đại đều bắt đầu từ một bước đi nhỏ. Bạn đã sẵn sàng trên con đường của mình.",
+      "Ngày khó khăn trôi qua nhưng em vẫn ở lại. Đó là sức mạnh.",
+      "Hôm nay bạn nợ mình một tách trà ☕",
+      "Bạn có khả năng làm được nhiều điều hơn bạn nghĩ.",
+      "Hít một hơi thật sâu. Mọi thứ sẽ đâu vào đấy.",
+      "Có thể hôm nay ai đó đã nghĩ đến bạn và mỉm cười, có lẽ ngay bây giờ.",
+      "Bạn không cần phải hoàn hảo. Bạn như vậy là đủ rồi.",
+      "Tìm một niềm vui nho nhỏ hôm nay: ánh nắng, âm nhạc, điều gì đó ngọt ngào 🍫",
+      "Năng lượng của bạn giúp tiết kiệm cả ngày của một số người.",
+      "Những điều tốt đẹp đang đến. Họ chỉ đang đợi bạn sẵn sàng.",
+      "Hãy tự hào về bản thân. Hôm qua đã qua, hôm nay là của bạn!",
+      "Mỗi buổi sáng là một trang mới. Cây bút nằm trong tay bạn ✏️",
+      "Hãy mỉm cười, dù chỉ một chút. Bộ não của bạn nhận thấy điều đó 😊",
+      "Bạn là sự trùng hợp hạnh phúc nhất của ai đó.",
+      "Nghỉ ngơi một chút cũng là một phần của công việc. Hãy tự trách mình - nhưng thực ra thì không.",
+      "Ngay cả khi mọi việc không hề dễ dàng, bạn vẫn đang làm rất tốt 💛"
+    ],
+    "th": [
+      "วันนี้ไม่มีใครทำได้ดีไปกว่าคุณแล้ว ไม่ใช่แม้แต่คุณ 😄",
+      "รอยยิ้มของคุณทำให้ห้องสว่างขึ้น ลองส่องกระจกสิ!",
+      "ทุกความสำเร็จที่ยิ่งใหญ่เริ่มต้นจากก้าวเล็กๆ คุณกำลังเดินทางแล้ว",
+      "วันที่ยากลำบากผ่านไป แต่คุณยังคงอยู่ นั่นคือความแข็งแกร่ง",
+      "วันนี้คุณเป็นหนี้ชาสักแก้ว ☕",
+      "คุณมีความสามารถมากกว่าที่คุณคิด",
+      "หายใจลึกๆ. ทุกอย่างจะเข้าที่",
+      "วันนี้อาจมีคนคิดถึงคุณและยิ้ม บางทีอาจจะเป็นตอนนี้ก็ได้",
+      "คุณไม่จำเป็นต้องสมบูรณ์แบบ คุณก็เพียงพอแล้วในแบบที่คุณเป็น",
+      "วันนี้พบกับความสุขเล็กๆ น้อยๆ แสงแดด ดนตรี อะไรหวานๆ ช็อคโกแลต",
+      "พลังงานของคุณช่วยบางคนได้ทั้งวัน",
+      "สิ่งดีๆกำลังมา พวกเขากำลังรอให้คุณพร้อม",
+      "จงภูมิใจในตัวเอง เมื่อวานจบลงแล้ว วันนี้เป็นของคุณ!",
+      "ทุกเช้าจะมีเพจใหม่ ปากกาอยู่ในมือคุณ✏️",
+      "ยิ้มแม้จะเพียงเล็กน้อยก็ตาม สมองคุณสังเกตเห็นมัน😊",
+      "คุณคือความบังเอิญที่มีความสุขที่สุดของใครบางคน",
+      "พักผ่อนน้อยก็เป็นส่วนหนึ่งของงานเช่นกัน ตำหนิตัวเอง แต่จริงๆ แล้วอย่าทำเลย",
+      "แม้ว่าสิ่งต่างๆ จะไม่ง่าย แต่คุณก็ยังทำได้ดีจริงๆ 💛"
+    ],
+    "fa": [
+      "امروز هیچ کس نمی توانست بهتر از شما انجام دهد. نه حتی تو 😄",
+      "لبخند شما اتاق را روشن می کند. آن را امتحان کنید، در آینه نگاه کنید!",
+      "هر دستاورد بزرگ با یک قدم کوچک شروع شد. شما در حال حاضر در راه هستید.",
+      "روزهای سخت می گذرند، اما تو می مانی. این قدرت است.",
+      "امروز یک فنجان چای به خودتان بدهکار هستید ☕",
+      "شما بیش از آنچه فکر می کنید توانایی دارید.",
+      "نفس عمیق بکشید. همه چیز سر جای خودش قرار خواهد گرفت.",
+      "شاید کسی امروز، شاید همین الان، به تو فکر کرد و لبخند زد.",
+      "لازم نیست کامل باشید. تو همینطور که هستی کافی هستی",
+      "امروز یک شادی کوچک بیابید: آفتاب، موسیقی، چیزی شیرین 🍫",
+      "انرژی شما باعث صرفه جویی در تمام روز برخی افراد می شود.",
+      "چیزهای خوبی در راه است. آنها فقط منتظرند تا شما آماده باشید.",
+      "به خودت افتخار کن. دیروز تمام شد، امروز مال توست!",
+      "هر روز صبح یک صفحه جدید است. قلم در دست شماست ✏️",
+      "لبخند بزن، حتی اگر اندکی. مغز شما متوجه آن می شود 😊",
+      "شما شادترین اتفاق یک نفر هستید.",
+      "کمی استراحت هم بخشی از کار است. خودتان را سرزنش کنید - اما در واقع، این کار را نکنید.",
+      "حتی وقتی همه چیز آسان نیست، شما واقعاً خوب کار می کنید."
+    ],
+    "sw": [
+      "Hakuna mtu ambaye angefanya vyema zaidi yako leo. Hata wewe 😄",
+      "Tabasamu lako huangaza chumba. Jaribu, angalia kwenye kioo!",
+      "Kila mafanikio makubwa yalianza kwa hatua ndogo. Tayari uko njiani.",
+      "Siku ngumu hupita, lakini unabaki. Hiyo ni nguvu.",
+      "Unadaiwa kikombe cha chai leo ☕",
+      "Una uwezo zaidi ya unavyofikiri.",
+      "Vuta pumzi ndefu. Kila kitu kitaanguka mahali.",
+      "Labda mtu alikufikiria na akatabasamu leo, labda sasa hivi.",
+      "Huhitaji kuwa mkamilifu. Unatosha kama ulivyo.",
+      "Pata furaha moja ndogo leo: jua, muziki, kitu tamu 🍫",
+      "Nguvu zako huokoa siku nzima ya baadhi ya watu.",
+      "Mambo mazuri yanakuja. Wanakungoja tu uwe tayari.",
+      "Jivunie mwenyewe. Jana imekwisha, leo ni yako!",
+      "Kila asubuhi ni ukurasa mpya. Kalamu iko mkononi mwako ✏️",
+      "Tabasamu, hata kama kidogo. Akili yako inatambua 😊",
+      "Wewe ni bahati mbaya zaidi ya mtu.",
+      "Kupumzika kidogo ni sehemu ya kazi pia. Jilaumu mwenyewe-lakini kwa kweli, usifanye.",
+      "Hata wakati mambo si rahisi, unaendelea vizuri sana 💛"
+    ],
+    "uk": [
+      "Сьогодні ніхто не зміг би зробити краще за вас. Навіть не ти 😄",
+      "Ваша посмішка освітлює кімнату. Спробуйте, подивіться в дзеркало!",
+      "Кожне велике досягнення починається з маленького кроку. Ви вже в дорозі.",
+      "Важкі дні минають, а ти залишається. Це сила.",
+      "Ви повинні випити собі чашку чаю сьогодні ☕",
+      "Ти здатний на більше, ніж ти думаєш.",
+      "Зробіть глибокий вдих. Все стане на свої місця.",
+      "Можливо, хтось подумав про вас і посміхнувся сьогодні, можливо, тільки зараз.",
+      "Вам не потрібно бути ідеальним. Вам достатньо такого, який ви є.",
+      "Знайдіть одну маленьку радість сьогодні: сонце, музику, щось солодке 🍫",
+      "Ваша енергія рятує деяким людям цілий день.",
+      "Хороші речі наближаються. Вони просто чекають, поки ви будете готові.",
+      "Пишайтеся собою. Вчора минуло, сьогодні твоє!",
+      "Кожен ранок - нова сторінка. Ручка у твоїх руках✏️",
+      "Посміхніться, хоча б трохи. Ваш мозок це помічає 😊",
+      "Ти для когось найщасливіший збіг обставин.",
+      "Невеликий відпочинок теж є частиною роботи. Звинувачуйте себе, але насправді не робіть цього.",
+      "Навіть коли все нелегко, ти справляєшся дуже добре 💛"
+    ],
+    "it": [
+      "Nessuno avrebbe potuto fare meglio di te oggi. Nemmeno tu 😄",
+      "Il tuo sorriso illumina la stanza. Provalo, guardati allo specchio!",
+      "Ogni grande risultato è iniziato con un piccolo passo. Sei già sulla buona strada.",
+      "Passano giorni difficili, ma tu rimani. Questa è la forza.",
+      "Oggi devi una tazza di tè a te stesso ☕",
+      "Sei capace di più di quanto pensi.",
+      "Fai un respiro profondo. Tutto andrà a posto.",
+      "Forse qualcuno ha pensato a te e ha sorriso oggi, forse proprio adesso.",
+      "Non è necessario essere perfetti. Tu sei abbastanza così come sei.",
+      "Trova una piccola gioia oggi: sole, musica, qualcosa di dolce 🍫",
+      "La tua energia fa risparmiare l'intera giornata ad alcune persone.",
+      "Le cose buone stanno arrivando. Stanno solo aspettando che tu sia pronto.",
+      "Sii orgoglioso di te stesso. Ieri è finito, oggi è tuo!",
+      "Ogni mattina è una nuova pagina. La penna è nella tua mano ✏️",
+      "Sorridi, anche se solo poco. Il tuo cervello se ne accorge 😊",
+      "Sei la coincidenza più felice di qualcuno.",
+      "Anche un po' di riposo fa parte del lavoro. Incolpa te stesso, ma in realtà non farlo.",
+      "Anche quando le cose non sono facili, stai andando davvero bene 💛"
+    ],
+    "nl": [
+      "Niemand had het vandaag beter kunnen doen dan jij. Zelfs jij niet 😄",
+      "Je glimlach verlicht de kamer. Probeer het, kijk in de spiegel!",
+      "Elke grote prestatie begon met een kleine stap. Je bent al onderweg.",
+      "Moeilijke dagen gaan voorbij, maar jij blijft. Dat is kracht.",
+      "Je bent jezelf vandaag een kopje thee verschuldigd ☕",
+      "Je kunt meer dan je denkt.",
+      "Haal diep adem. Alles zal op zijn plaats vallen.",
+      "Misschien heeft iemand vandaag aan je gedacht en geglimlacht, misschien pas nu.",
+      "Je hoeft niet perfect te zijn. Je bent genoeg zoals je bent.",
+      "Zoek vandaag een beetje vreugde: zonneschijn, muziek, iets zoets 🍫",
+      "Jouw energie bespaart sommige mensen de hele dag.",
+      "Er zijn goede dingen onderweg. Ze wachten gewoon tot je klaar bent.",
+      "Wees trots op jezelf. Gisteren is voorbij, vandaag is van jou!",
+      "Elke ochtend is een nieuwe pagina. De pen ligt in jouw hand ✏️",
+      "Glimlach, ook al is het maar een beetje. Je brein merkt het 😊",
+      "Jij bent iemands gelukkigste toeval.",
+      "Een beetje rust hoort ook bij het werk. Geef jezelf de schuld, maar doe dat eigenlijk niet.",
+      "Zelfs als het niet gemakkelijk is, doe je het heel goed 💛"
+    ],
+    "pl": [
+      "Nikt nie zrobiłby dzisiaj lepiej niż Ty. Nawet ty 😄",
+      "Twój uśmiech rozświetla pokój. Spróbuj, spójrz w lustro!",
+      "Każde wielkie osiągnięcie zaczęło się od małego kroku. Jesteś już w drodze.",
+      "Mijają ciężkie dni, a ty pozostajesz. To jest siła.",
+      "Jesteś dziś winien sobie filiżankę herbaty ☕",
+      "Potrafisz więcej, niż myślisz.",
+      "Weź głęboki oddech. Wszystko się ułoży.",
+      "Może ktoś pomyślał o Tobie i uśmiechnął się dzisiaj, może właśnie teraz.",
+      "Nie musisz być doskonały. Jesteś wystarczający taki jaki jesteś.",
+      "Znajdź dziś choć jedną małą radość: słońce, muzykę, coś słodkiego 🍫",
+      "Twoja energia oszczędza niektórym ludziom cały dzień.",
+      "Dobre rzeczy są już w drodze. Oni tylko czekają, aż będziesz gotowy.",
+      "Bądź z siebie dumny. Wczoraj się skończyło, dzisiaj jest Twoje!",
+      "Każdego ranka jest nowa strona. Pióro jest w Twojej dłoni ✏️",
+      "Uśmiechnij się, choć trochę. Twój mózg to zauważa 😊",
+      "Jesteś czyimś najszczęśliwszym zbiegiem okoliczności.",
+      "Mały odpoczynek też jest częścią pracy. Obwiniaj siebie – ale tak naprawdę nie rób tego.",
+      "Nawet gdy nie jest łatwo, radzisz sobie naprawdę dobrze 💛"
+    ],
+    "ro": [
+      "Nimeni nu ar fi putut face mai bine decât tine astăzi. Nici măcar tu 😄",
+      "Zâmbetul tău luminează camera. Încearcă, uită-te în oglindă!",
+      "Fiecare mare realizare a început cu un pas mic. Ești deja pe drum.",
+      "Trec zile grele, dar tu rămâi. Asta este puterea.",
+      "Îți datorezi o ceașcă de ceai azi ☕",
+      "Ești capabil de mai mult decât crezi.",
+      "Respiră adânc. Totul va cădea la loc.",
+      "Poate cineva s-a gândit la tine și a zâmbit astăzi, poate chiar acum.",
+      "Nu trebuie să fii perfect. Ești suficient așa cum ești.",
+      "Găsește o mică bucurie astăzi: soare, muzică, ceva dulce 🍫",
+      "Energia ta salvează întreaga zi a unor oameni.",
+      "Lucrurile bune sunt pe drum. Ei doar așteaptă să fii pregătit.",
+      "Fii mândru de tine. Ieri s-a terminat, azi e a ta!",
+      "În fiecare dimineață este o pagină nouă. Pixul este în mână ✏️",
+      "Zâmbește, chiar dacă doar puțin. Creierul tău observă asta 😊",
+      "Ești cea mai fericită coincidență a cuiva.",
+      "O mică odihnă face și parte din muncă. Învinovățiți-vă, dar de fapt, nu.",
+      "Chiar și atunci când lucrurile nu sunt ușoare, te descurci foarte bine 💛"
+    ],
+    "hu": [
+      "Senki sem csinálhatott volna jobban, mint te ma. Még te sem 😄",
+      "A mosolyod megvilágítja a szobát. Próbáld ki, nézz tükörbe!",
+      "Minden nagy eredmény egy kis lépéssel kezdődött. Már úton vagy.",
+      "Nehéz napok telnek el, de te megmaradsz. Ez az erő.",
+      "Tartozol magadnak ma egy csésze teával ☕",
+      "Többre vagy képes, mint gondolnád.",
+      "Vegyél egy mély levegőt. Minden a helyére kerül.",
+      "Talán valaki gondolt rád és mosolygott ma, talán most.",
+      "Nem kell tökéletesnek lenned. Elég vagy úgy, ahogy vagy.",
+      "Találj egy kis örömet ma: napsütés, zene, valami édes 🍫",
+      "Az Ön energiája megspórolja néhány ember egész napját.",
+      "A jó dolgok úton vannak. Csak arra várnak, hogy készen állj.",
+      "Légy büszke magadra. A tegnapnak vége, ma a tiéd!",
+      "Minden reggel egy új oldal. A toll a kezedben van✏️",
+      "Mosolyogj, még ha csak egy kicsit is. Az agyad észreveszi 😊",
+      "Te vagy valakinek a legboldogabb véletlen.",
+      "Egy kis pihenés is a munka része. Hibázd magad – de valójában ne.",
+      "Még akkor is, ha a dolgok nem könnyűek, nagyon jól csinálod 💛"
+    ],
+    "cs": [
+      "Nikdo by to dnes nedokázal lépe než vy. Ani ty ne😄",
+      "Tvůj úsměv rozzáří místnost. Zkuste to, podívejte se do zrcadla!",
+      "Každý velký úspěch začal malým krokem. Už jste na cestě.",
+      "Těžké dny ubíhají, ale ty zůstáváš. To je síla.",
+      "Dnes si dlužíte šálek čaje ☕",
+      "Jste schopni víc, než si myslíte.",
+      "Zhluboka se nadechněte. Všechno do sebe zapadne.",
+      "Možná na vás někdo dnes myslel a usmál se, možná právě teď.",
+      "Nemusíte být perfektní. Jste dost takoví, jací jste.",
+      "Najděte si dnes jednu malou radost: sluníčko, hudba, něco sladkého 🍫",
+      "Vaše energie šetří některým lidem celý den.",
+      "Dobré věci jsou na cestě. Jen čekají, až budete připraveni.",
+      "Buďte na sebe hrdí. Včerejšek skončil, dnešek je váš!",
+      "Každé ráno je nová stránka. Propisku máte v ruce ✏️",
+      "Usmívejte se, i když jen trochu. Váš mozek si toho všimne 😊",
+      "Jste něčí nejšťastnější náhoda.",
+      "Trocha odpočinku je také součástí práce. Obviňujte se – ale ve skutečnosti ne.",
+      "I když věci nejsou jednoduché, vedete si opravdu dobře 💛"
+    ],
+    "sk": [
+      "Nikto by to dnes nedokázal lepšie ako ty. Ani ty 😄",
+      "Tvoj úsmev rozžiari miestnosť. Skúste to, pozrite sa do zrkadla!",
+      "Každý veľký úspech sa začal malým krokom. Už ste na ceste.",
+      "Ťažké dni prechádzajú, ale ty zostávaš. To je sila.",
+      "Dnes si dlžíte šálku čaju ☕",
+      "Si schopný viac, ako si myslíš.",
+      "Zhlboka sa nadýchnite. Všetko zapadne na svoje miesto.",
+      "Možno dnes na teba niekto myslel a usmial sa, možno práve teraz.",
+      "Nemusíte byť dokonalý. Stačí si taký, aký si.",
+      "Nájdite si dnes jednu malú radosť: slniečko, hudba, niečo sladké 🍫",
+      "Vaša energia šetrí niektorým ľuďom celý deň.",
+      "Dobré veci sú na ceste. Čakajú len na to, aby ste boli pripravení.",
+      "Buďte na seba hrdí. Včerajšok skončil, dnešok je váš!",
+      "Každé ráno je nová stránka. Pero máte v ruke ✏️",
+      "Usmievajte sa, aj keď len trochu. Váš mozog si to všimne 😊",
+      "Ste niekoho najšťastnejšia náhoda.",
+      "Trocha odpočinku je tiež súčasťou práce. Obviňujte sa – ale v skutočnosti nie.",
+      "Aj keď veci nie sú ľahké, ide vám to naozaj dobre 💛"
+    ],
+    "bg": [
+      "Никой не би могъл да се справи по-добре от вас днес. Дори и ти 😄",
+      "Усмивката ти озарява стаята. Опитайте, погледнете се в огледалото!",
+      "Всяко голямо постижение започва с малка стъпка. Вече сте на път.",
+      "Тежките дни минават, но ти оставаш. Това е силата.",
+      "Дължиш си чаша чай днес ☕",
+      "Вие сте способни на повече, отколкото си мислите.",
+      "Поемете дълбоко въздух. Всичко ще си дойде на мястото.",
+      "Може би някой се е сетил за теб и се е усмихнал днес, може би точно сега.",
+      "Не е нужно да сте перфектни. Ти си достатъчен такъв, какъвто си.",
+      "Намерете една малка радост днес: слънце, музика, нещо сладко 🍫",
+      "Вашата енергия спасява целия ден на някои хора.",
+      "Добрите неща са на път. Те просто чакат да сте готови.",
+      "Бъдете горди със себе си. Вчера свърши, днес е твой!",
+      "Всяка сутрин е нова страница. Писалката е в ръката ви ✏️",
+      "Усмихвайте се, макар и леко. Вашият мозък го забелязва 😊",
+      "Вие сте нечие най-щастливо стечение на обстоятелствата.",
+      "Малката почивка също е част от работата. Обвинявайте себе си - но всъщност не го правете.",
+      "Дори когато нещата не са лесни, ти се справяш наистина добре 💛"
+    ],
+    "el": [
+      "Κανείς δεν θα μπορούσε να είχε κάνει καλύτερα από εσάς σήμερα. Ούτε εσύ 😄",
+      "Το χαμόγελό σας φωτίζει το δωμάτιο. Δοκιμάστε το, κοιτάξτε στον καθρέφτη!",
+      "Κάθε μεγάλο επίτευγμα ξεκίνησε με ένα μικρό βήμα. Είστε ήδη στο δρόμο σας.",
+      "Οι δύσκολες μέρες περνούν, αλλά εσύ παραμένεις. Αυτό είναι δύναμη.",
+      "Οφείλεις στον εαυτό σου ένα φλιτζάνι τσάι σήμερα ☕",
+      "Είστε ικανοί για περισσότερα από όσα νομίζετε.",
+      "Πάρτε μια βαθιά ανάσα. Όλα θα μπουν στη θέση τους.",
+      "Ίσως κάποιος να σε σκέφτηκε και να χαμογέλασε σήμερα, ίσως μόλις τώρα.",
+      "Δεν χρειάζεται να είσαι τέλειος. Είσαι αρκετός όπως είσαι.",
+      "Βρείτε μια μικρή χαρά σήμερα: ηλιοφάνεια, μουσική, κάτι γλυκό 🍫",
+      "Η ενέργειά σας εξοικονομεί ολόκληρη την ημέρα ορισμένων ανθρώπων.",
+      "Τα καλά πράγματα είναι στο δρόμο τους. Απλώς σας περιμένουν να είστε έτοιμοι.",
+      "Να είστε περήφανοι για τον εαυτό σας. Το χθες τελείωσε, το σήμερα είναι δικό σου!",
+      "Κάθε πρωί είναι μια νέα σελίδα. Το στυλό είναι στο χέρι σας ✏️",
+      "Χαμογέλα, έστω και λίγο. Ο εγκέφαλός σας το παρατηρεί 😊",
+      "Είστε η πιο ευτυχισμένη σύμπτωση κάποιου.",
+      "Λίγη ξεκούραση είναι επίσης μέρος της δουλειάς. Κατηγορήστε τον εαυτό σας - αλλά στην πραγματικότητα, όχι.",
+      "Ακόμα κι όταν τα πράγματα δεν είναι εύκολα, τα πάτε πολύ καλά 💛"
+    ],
+    "he": [
+      "אף אחד לא יכול היה לעשות יותר טוב ממך היום. אפילו לא אתה 😄",
+      "החיוך שלך מאיר את החדר. נסה את זה, תסתכל במראה!",
+      "כל הישג גדול התחיל בצעד קטן. אתה כבר בדרך.",
+      "ימים קשים חולפים, אבל אתה נשאר. זה כוח.",
+      "אתה חייב לעצמך כוס תה היום ☕",
+      "אתה מסוגל ליותר ממה שאתה חושב.",
+      "קח נשימה עמוקה. הכל ייפול על מקומו.",
+      "אולי מישהו חשב עליך וחייך היום, אולי רק עכשיו.",
+      "אתה לא צריך להיות מושלם. אתה מספיק כמו שאתה.",
+      "מצא שמחה אחת קטנה היום: שמש, מוזיקה, משהו מתוק 🍫",
+      "האנרגיה שלך חוסכת את כל היום של אנשים מסוימים.",
+      "דברים טובים בדרך. הם רק מחכים שתהיה מוכן.",
+      "היה גאה בעצמך. אתמול נגמר, היום הוא שלך!",
+      "כל בוקר הוא דף חדש. העט ביד שלך ✏️",
+      "חייך, גם אם רק קצת. המוח שלך שם לב לזה 😊",
+      "אתה צירוף המקרים המאושר ביותר של מישהו.",
+      "גם מנוחה קטנה היא חלק מהעבודה. תאשים את עצמך - אבל למעשה, אל תעשה זאת.",
+      "גם כשהדברים לא קלים, אתה מסתדר ממש טוב 💛"
+    ],
+    "da": [
+      "Ingen kunne have gjort det bedre end dig i dag. Ikke engang dig 😄",
+      "Dit smil lyser rummet op. Prøv det, se dig i spejlet!",
+      "Enhver stor præstation startede med et lille skridt. Du er allerede på vej.",
+      "Hårde dage går, men du bliver. Det er styrke.",
+      "Du skylder dig selv en kop te i dag ☕",
+      "Du er i stand til mere, end du tror.",
+      "Tag en dyb indånding. Alt vil falde på plads.",
+      "Måske tænkte nogen på dig og smilede i dag, måske lige nu.",
+      "Du behøver ikke at være perfekt. Du er nok, som du er.",
+      "Find en lille glæde i dag: solskin, musik, noget sødt 🍫",
+      "Din energi sparer nogle menneskers hele dagen.",
+      "Gode ting er på vej. De venter bare på, at du er klar.",
+      "Vær stolt af dig selv. I går er forbi, i dag er din!",
+      "Hver morgen er en ny side. Pennen er i din hånd ✏️",
+      "Smil, selvom det bare er lidt. Din hjerne lægger mærke til det 😊",
+      "Du er nogens lykkeligste tilfældighed.",
+      "Lidt hvile er også en del af arbejdet. Skyld dig selv – men gør det faktisk ikke.",
+      "Selv når tingene ikke er nemme, klarer du dig rigtig godt 💛"
+    ],
+    "sv": [
+      "Ingen kunde ha gjort det bättre än du idag. Inte ens du 😄",
+      "Ditt leende lyser upp rummet. Prova, se dig i spegeln!",
+      "Varje stor prestation började med ett litet steg. Du är redan på väg.",
+      "Hårda dagar går, men du är kvar. Det är styrka.",
+      "Du är skyldig dig själv en kopp te idag ☕",
+      "Du kan mer än du tror.",
+      "Ta ett djupt andetag. Allt kommer att falla på plats.",
+      "Kanske någon tänkte på dig och log idag, kanske just nu.",
+      "Du behöver inte vara perfekt. Du räcker som du är.",
+      "Hitta en liten glädje idag: solsken, musik, något sött 🍫",
+      "Din energi sparar vissa människors hela dag.",
+      "Bra saker är på väg. De väntar bara på att du ska vara redo.",
+      "Var stolt över dig själv. Gårdagen är över, idag är din!",
+      "Varje morgon är en ny sida. Pennan ligger i din hand✏️",
+      "Le, även om det bara är lite. Din hjärna märker det 😊",
+      "Du är någons lyckligaste slump.",
+      "Lite vila är också en del av arbetet. Skyll dig själv – men gör faktiskt inte det.",
+      "Även när saker och ting inte är lätta så har du det riktigt bra 💛"
+    ],
+    "no": [
+      "Ingen kunne ha gjort det bedre enn deg i dag. Ikke engang deg 😄",
+      "Smilet ditt lyser opp rommet. Prøv det, se deg i speilet!",
+      "Hver stor prestasjon startet med et lite skritt. Du er allerede på vei.",
+      "Harde dager går, men du forblir. Det er styrke.",
+      "Du skylder deg selv en kopp te i dag ☕",
+      "Du er i stand til mer enn du tror.",
+      "Ta et dypt pust. Alt vil falle på plass.",
+      "Kanskje noen tenkte på deg og smilte i dag, kanskje nettopp nå.",
+      "Du trenger ikke være perfekt. Du er nok som du er.",
+      "Finn en liten glede i dag: solskinn, musikk, noe søtt 🍫",
+      "Energien din sparer noen mennesker for hele dagen.",
+      "Gode ting er på vei. De venter bare på at du skal være klar.",
+      "Vær stolt av deg selv. I går er over, i dag er din!",
+      "Hver morgen er en ny side. Pennen har du i hånden ✏️",
+      "Smil, selv om det bare er litt. Hjernen din merker det 😊",
+      "Du er noens lykkeligste tilfeldighet.",
+      "Litt hvile er også en del av arbeidet. Klandre deg selv - men faktisk, ikke gjør det.",
+      "Selv når ting ikke er lett, har du det veldig bra 💛"
+    ],
+    "fi": [
+      "Kukaan ei olisi voinut tehdä paremmin kuin sinä tänään. Et edes sinä 😄",
+      "Hymysi valaisee huoneen. Kokeile, katso peiliin!",
+      "Jokainen suuri saavutus alkoi pienestä askeleesta. Olet jo matkalla.",
+      "Vaikeita päiviä kuluu, mutta sinä pysyt. Se on voimaa.",
+      "Olet tänään velkaa itsellesi kupin teetä ☕",
+      "Pystyt enemmän kuin uskotkaan.",
+      "Hengitä syvään. Kaikki loksahtaa paikoilleen.",
+      "Ehkä joku ajatteli sinua ja hymyili tänään, ehkä juuri nyt.",
+      "Sinun ei tarvitse olla täydellinen. Sinä riität sellaisena kuin olet.",
+      "Löydä yksi pieni ilo tänään: auringonpaistetta, musiikkia, jotain makeaa 🍫",
+      "Energiasi säästää joidenkin ihmisten koko päivän.",
+      "Hyvät asiat ovat matkalla. He vain odottavat, että olet valmis.",
+      "Ole ylpeä itsestäsi. Eilinen on ohi, tänään on sinun!",
+      "Joka aamu on uusi sivu. Kynä on kädessäsi ✏️",
+      "Hymyile, vaikka vain vähän. Aivosi huomaavat sen 😊",
+      "Olet jonkun onnellisin sattuma.",
+      "Pieni lepo kuuluu myös työhön. Syytä itseäsi – mutta itse asiassa älä.",
+      "Vaikka asiat eivät olekaan helppoja, sinulla menee todella hyvin 💛"
+    ],
+    "et": [
+      "Keegi poleks saanud täna paremini hakkama saada kui sina. Isegi mitte sina 😄",
+      "Teie naeratus valgustab ruumi. Proovi järele, vaata peeglisse!",
+      "Iga suur saavutus sai alguse väikesest sammust. Olete juba teel.",
+      "Rasked päevad mööduvad, kuid sina jääd. See on jõud.",
+      "Jääd endale täna tassi teed võlgu ☕",
+      "Olete võimeline enamaks, kui arvate.",
+      "Hinga sügavalt sisse. Kõik loksub paika.",
+      "Võib-olla mõtles keegi sulle täna ja naeratas, võib-olla just praegu.",
+      "Sa ei pea olema täiuslik. Sinust piisab sellisena, nagu sa oled.",
+      "Leia täna üks väike rõõm: päike, muusika, midagi magusat 🍫",
+      "Teie energia säästab mõne inimese terve päeva.",
+      "Head asjad on teel. Nad lihtsalt ootavad, et oleksite valmis.",
+      "Olge enda üle uhke. Eilne päev on möödas, tänane on sinu!",
+      "Igal hommikul on uus leht. Pliiats on käes ✏️",
+      "Naerata, isegi kui natuke. Sinu aju märkab seda 😊",
+      "Oled kellegi õnnelikum kokkusattumus.",
+      "Töö juurde kuulub ka väike puhkus. Süüdista ennast – aga tegelikult ära.",
+      "Isegi kui asjad ei ole kerged, läheb sul väga hästi 💛"
+    ],
+    "lv": [
+      "Nevienam šodien nebūtu izdevies labāk par tevi. Pat ne tu 😄",
+      "Jūsu smaids izgaismo istabu. Izmēģini, paskaties spogulī!",
+      "Katrs lielais sasniegums sākās ar mazu soli. Jūs jau esat ceļā.",
+      "Paiet smagas dienas, bet tu paliek. Tas ir spēks.",
+      "Tu šodien esi sev parādā tasi tējas ☕",
+      "Jūs esat spējīgs uz vairāk, nekā domājat.",
+      "Ievelciet dziļu elpu. Viss nostāsies savās vietās.",
+      "Varbūt kāds šodien par tevi domāja un pasmaidīja, varbūt tieši tagad.",
+      "Jums nav jābūt perfektam. Tev pietiek tāda, kāda esi.",
+      "Atrodi vienu mazu prieku šodien: saule, mūzika, kaut kas salds 🍫",
+      "Jūsu enerģija dažiem cilvēkiem ietaupa visu dienu.",
+      "Labas lietas ir ceļā. Viņi tikai gaida, kad esat gatavs.",
+      "Esiet lepns par sevi. Vakardiena ir beigusies, šodiena ir tava!",
+      "Katrs rīts ir jauna lapa. Pildspalva ir tavā rokā ✏️",
+      "Smaidiet, pat ja tikai nedaudz. Jūsu smadzenes to pamana 😊",
+      "Jūs esat kāda laimīgākā nejaušība.",
+      "Arī neliela atpūta ir daļa no darba. Vainojiet sevi, bet patiesībā nē.",
+      "Pat tad, kad neklājas viegli, tev iet ļoti labi 💛"
+    ],
+    "lt": [
+      "Niekas šiandien negalėjo padaryti geriau nei tu. Net ne tu 😄",
+      "Jūsų šypsena apšviečia kambarį. Išbandykite, pažiūrėkite į veidrodį!",
+      "Kiekvienas didelis pasiekimas prasidėjo nuo mažo žingsnelio. Jūs jau pakeliui.",
+      "Sunkios dienos praeina, bet tu lieki. Tai yra jėga.",
+      "Šiandien esi skolingas arbatos puodelį ☕",
+      "Jūs galite daugiau nei manote.",
+      "Giliai įkvėpkite. Viskas atsistos į savo vietas.",
+      "Galbūt šiandien kas nors pagalvojo apie tave ir nusišypsojo, galbūt kaip tik dabar.",
+      "Nereikia būti tobulam. Tau pakanka tokio, koks esi.",
+      "Šiandien rask vieną mažą džiaugsmą: saulė, muzika, kažkas saldaus 🍫",
+      "Kai kuriems žmonėms jūsų energija sutaupo visą dieną.",
+      "Geri dalykai vyksta. Jie tik laukia, kol būsite pasiruošę.",
+      "Didžiuokis savimi. Vakar baigėsi, šiandien tavo!",
+      "Kiekvienas rytas yra naujas puslapis. Rašiklis tavo rankoje ✏️",
+      "Šypsokis, net jei tik šiek tiek. Jūsų smegenys tai pastebi 😊",
+      "Jūs esate kažkieno laimingiausias sutapimas.",
+      "Truputis poilsis taip pat yra darbo dalis. Kaltinkite save, bet iš tikrųjų to nedarykite.",
+      "Net kai viskas nėra lengva, tau sekasi tikrai gerai 💛"
+    ],
+    "sl": [
+      "Danes nihče ne bi mogel narediti bolje kot ti. Tudi ti ne 😄",
+      "Tvoj nasmeh razsvetli sobo. Poskusite, poglejte se v ogledalo!",
+      "Vsak velik dosežek se je začel z majhnim korakom. Ste že na poti.",
+      "Težki dnevi minevajo, a ti ostajaš. To je moč.",
+      "Danes si dolguješ skodelico čaja ☕",
+      "Sposobni ste več, kot si mislite.",
+      "Globoko vdihni. Vse se bo postavilo na svoje mesto.",
+      "Mogoče je kdo danes pomislil nate in se nasmehnil, morda šele zdaj.",
+      "Ni vam treba biti popoln. Dovolj si takšen kot si.",
+      "Najdi danes eno malo veselje: sonce, glasbo, nekaj sladkega 🍫",
+      "Vaša energija nekaterim reši cel dan.",
+      "Dobre stvari so na poti. Samo čakajo, da boste pripravljeni.",
+      "Bodite ponosni nase. Včeraj je minilo, danes je tvoj!",
+      "Vsako jutro je nova stran. Pero je v tvoji roki ✏️",
+      "Nasmehni se, čeprav le malo. Vaši možgani to opazijo 😊",
+      "Za nekoga ste najsrečnejše naključje.",
+      "Tudi malo počitka je del dela. Obtožujte sebe – a pravzaprav ne.",
+      "Tudi ko stvari niso lahke, ti gre res dobro 💛"
+    ],
+    "hr": [
+      "Nitko nije mogao bolje od vas danas. Čak ni ti 😄",
+      "Tvoj osmijeh osvjetljava sobu. Probajte, pogledajte se u ogledalo!",
+      "Svako veliko postignuće počelo je malim korakom. Već ste na putu.",
+      "Teški dani prolaze, a ti ostaješ. To je snaga.",
+      "Danas sebi dugujete šalicu čaja ☕",
+      "Sposobni ste za više nego što mislite.",
+      "Duboko udahni. Sve će doći na svoje mjesto.",
+      "Možda je netko danas pomislio na tebe i nasmiješio se, možda tek sada.",
+      "Ne morate biti savršeni. Dovoljan si takav kakav jesi.",
+      "Danas pronađite jedno malo veselje: sunce, glazba, nešto slatko 🍫",
+      "Vaša energija nekima spašava cijeli dan.",
+      "Dobre stvari su na putu. Oni samo čekaju da budete spremni.",
+      "Budite ponosni na sebe. Jučer je prošlo, danas je vaš!",
+      "Svako jutro je nova stranica. Olovka je u Vašoj ruci ✏️",
+      "Nasmiješite se, makar i malo. Vaš mozak to primjećuje 😊",
+      "Vi ste nečija najsretnija slučajnost.",
+      "I mali odmor je dio posla. Krivite sebe - ali zapravo nemojte.",
+      "Čak i kad stvari nisu lake, jako dobro ti ide 💛"
+    ],
+    "sr": [
+      "Нико данас није могао боље од вас. Чак ни ти 😄",
+      "Ваш осмех осветљава собу. Пробајте, погледајте се у огледало!",
+      "Свако велико достигнуће почиње малим кораком. Већ сте на путу.",
+      "Тешки дани пролазе, а ти остајеш. То је снага.",
+      "Дугујете себи шољу чаја данас ☕",
+      "Ви сте способни за више него што мислите.",
+      "Дубоко удахните. Све ће доћи на своје место.",
+      "Можда је неко помислио на тебе и насмешио се данас, можда управо сада.",
+      "Не морате да будете савршени. Довољан си такав какав јеси.",
+      "Пронађите једну малу радост данас: сунце, музика, нешто слатко 🍫",
+      "Ваша енергија некима штеди цео дан.",
+      "Добре ствари су на путу. Они само чекају да будете спремни.",
+      "Будите поносни на себе. Јуче је прошло, данас је твоје!",
+      "Свако јутро је нова страница. Оловка је у твојој руци ✏",
+      "Насмејте се, макар и само мало. Ваш мозак то примећује 😊",
+      "Ви сте нечија најсрећнија случајност.",
+      "Мало одмора је такође део посла. Кривите себе - али заправо, немојте.",
+      "Чак и када ствари нису лаке, заиста вам добро иде 💛"
+    ],
+    "bs": [
+      "Niko danas nije mogao bolje od vas. Čak ni ti 😄",
+      "Vaš osmijeh obasjava sobu. Probaj, pogledaj se u ogledalo!",
+      "Svako veliko postignuće počinje malim korakom. Već ste na putu.",
+      "Teški dani prolaze, a ti ostaješ. To je snaga.",
+      "Danas si dužna šoljicu čaja ☕",
+      "Sposobni ste za više nego što mislite.",
+      "Duboko udahnite. Sve će doći na svoje mjesto.",
+      "Možda je neko pomislio na tebe i nasmiješio se danas, možda baš sada.",
+      "Ne morate biti savršeni. Dovoljan si takav kakav jesi.",
+      "Pronađite jednu malu radost danas: sunce, muzika, nešto slatko 🍫",
+      "Vaša energija nekima štedi cijeli dan.",
+      "Dobre stvari su na putu. Oni samo čekaju da budete spremni.",
+      "Budite ponosni na sebe. Juče je prošlo, danas je tvoje!",
+      "Svako jutro je nova stranica. Olovka je u tvojoj ruci ✏️",
+      "Nasmiješite se, makar samo malo. Vaš mozak to primjećuje 😊",
+      "Vi ste nečija najsrećnija slučajnost.",
+      "Malo odmora je također dio posla. Krivite sebe – ali zapravo nemojte.",
+      "Čak i kada stvari nisu lake, zaista vam dobro ide 💛"
+    ],
+    "sq": [
+      "Askush nuk mund të kishte bërë më mirë se ju sot. As ti 😄",
+      "Buzëqeshja juaj ndriçon dhomën. Provojeni, shikoni në pasqyrë!",
+      "Çdo arritje e madhe filloi me një hap të vogël. Ju jeni tashmë në rrugën tuaj.",
+      "Ditët e vështira kalojnë, por ti mbetesh. Kjo është forca.",
+      "Ju i detyroheni vetes një filxhan çaj sot ☕",
+      "Ju jeni të aftë për më shumë sesa mendoni.",
+      "Merrni frymë thellë. Gjithçka do të bjerë në vend.",
+      "Ndoshta dikush mendoi për ju dhe buzëqeshi sot, ndoshta vetëm tani.",
+      "Nuk ke nevojë të jesh perfekt. Mjafton si je.",
+      "Gjeni një gëzim të vogël sot: diell, muzikë, diçka të ëmbël 🍫",
+      "Energjia juaj kursen gjithë ditën e disa njerëzve.",
+      "Gjërat e mira janë në rrugën e tyre. Ata thjesht presin që ju të jeni gati.",
+      "Jini krenarë për veten tuaj. E djeshmja mbaroi, sot është e jotja!",
+      "Çdo mëngjes është një faqe e re. Stilolapsi është në dorën tuaj ✏️",
+      "Buzëqeshni, qoftë edhe pak. Truri juaj e vëren 😊",
+      "Ju jeni rastësia më e lumtur e dikujt.",
+      "Edhe pak pushim është pjesë e punës. Fajësoni veten - por në fakt, mos e bëni.",
+      "Edhe kur gjërat nuk janë të lehta, ju jeni shumë mirë 💛"
+    ],
+    "mk": [
+      "Никој не можеше да направи подобро од тебе денес. Дури ни ти 😄",
+      "Вашата насмевка ја осветлува просторијата. Пробајте, погледнете се во огледало!",
+      "Секое големо достигнување започна со мал чекор. Веќе сте на пат.",
+      "Поминуваат тешки денови, но ти остануваш. Тоа е силата.",
+      "Си должите шолја чај денес ☕",
+      "Способни сте за повеќе отколку што мислите.",
+      "Земете длабок здив. Се ќе си дојде на свое место.",
+      "Можеби некој помислил на тебе и се насмеал денес, можеби токму сега.",
+      "Не треба да бидете совршени. Доволни сте такви какви што сте.",
+      "Најдете една мала радост денес: сонце, музика, нешто слатко 🍫",
+      "Вашата енергија на некои луѓе им заштедува цел ден.",
+      "Добри работи се на пат. Тие само чекаат да бидете подготвени.",
+      "Бидете горди на себе. Вчера заврши, денес е твое!",
+      "Секое утро е нова страница. Пенкалото е во ваша рака ✏️",
+      "Насмевнете се, макар и малку. Вашиот мозок го забележува тоа 😊",
+      "Вие сте нечија најсреќна случајност.",
+      "И малку одмор е дел од работата. Обвинете се себеси - но всушност, немојте.",
+      "Дури и кога работите не се лесни, ви оди навистина добро 💛"
+    ],
+    "ka": [
+      "დღეს შენზე უკეთ ვერავინ გააკეთებდა. შენ კი არა 😄",
+      "შენი ღიმილი ანათებს ოთახს. სცადე, ჩაიხედე სარკეში!",
+      "ყოველი დიდი მიღწევა პატარა ნაბიჯით იწყებოდა. უკვე გზაში ხარ.",
+      "მძიმე დღეები გადის, მაგრამ შენ რჩები. ეს არის ძალა.",
+      "დღეს ფინჯანი ჩაის დალევის ვალდებულება გაქვს ☕",
+      "შენ იმაზე მეტი შეგიძლია ვიდრე გგონია.",
+      "ღრმად ამოისუნთქე. ყველაფერი თავის ადგილზე დადგება.",
+      "იქნებ ვინმემ იფიქრა შენზე და გაიღიმა დღეს, ალბათ ახლავე.",
+      "თქვენ არ გჭირდებათ იყოთ სრულყოფილი. საკმარისი ხარ ისეთი როგორიც ხარ.",
+      "იპოვე ერთი პატარა სიხარული დღეს: მზე, მუსიკა, რაღაც ტკბილი 🍫",
+      "თქვენი ენერგია ზოგავს მთელ დღეს.",
+      "კარგი რამ გზაზეა. ისინი უბრალოდ გელოდებიან, რომ მზად იყოთ.",
+      "იამაყე საკუთარი თავით. გუშინ დასრულდა, დღეს შენია!",
+      "ყოველი დილა ახალი გვერდია. კალამი თქვენს ხელშია ✏️",
+      "გაიღიმე, თუნდაც ცოტათი. შენი ტვინი ამას ამჩნევს 😊",
+      "შენ ვიღაცის ყველაზე ბედნიერი დამთხვევა ხარ.",
+      "ცოტა დასვენებაც სამუშაოს ნაწილია. დაადანაშაულეთ საკუთარი თავი - მაგრამ სინამდვილეში, არა.",
+      "მაშინაც კი, როცა საქმე ადვილი არ არის, შენ ძალიან კარგად ხარ 💛"
+    ],
+    "hy": [
+      "Այսօր քեզանից լավ ոչ ոք չէր կարող անել: Նույնիսկ դու 😄",
+      "Ձեր ժպիտը լուսավորում է սենյակը: Փորձե՛ք, նայե՛ք հայելու մեջ։",
+      "Յուրաքանչյուր մեծ ձեռքբերում սկսվեց փոքրիկ քայլից: Դուք արդեն ձեր ճանապարհին եք։",
+      "Դժվար օրեր են անցնում, բայց դու մնում ես: Դա ուժ է։",
+      "Դուք այսօր ձեզ պարտք եք մի բաժակ թեյ խմել ☕",
+      "Դուք ընդունակ եք ավելին, քան կարծում եք:",
+      "խորը շունչ քաշեք: Ամեն ինչ իր տեղը կընկնի։",
+      "Գուցե ինչ-որ մեկը մտածեց քո մասին և ժպտաց այսօր, գուցե հենց հիմա:",
+      "Ձեզ պետք չէ կատարյալ լինել: Դու բավական ես այնպիսին, ինչպիսին կաս։",
+      "Այսօր գտեք մի փոքրիկ ուրախություն՝ արև, երաժշտություն, մի քաղցր բան 🍫",
+      "Ձեր էներգիան խնայում է որոշ մարդկանց ամբողջ օրը:",
+      "Լավ բաներն իրենց ճանապարհին են: Նրանք պարզապես սպասում են, որ դուք պատրաստ լինեք:",
+      "Հպարտացեք ինքներդ ձեզնով: Երեկ ավարտվեց, այսօր քոնն է:",
+      "Ամեն առավոտ նոր էջ է: Գրիչը ձեր ձեռքին է ✏️",
+      "Ժպտացեք, թեկուզ մի փոքր: Ձեր ուղեղը դա նկատում է 😊",
+      "Դուք ինչ-որ մեկի ամենաերջանիկ պատահականությունն եք:",
+      "Մի փոքր հանգիստ նույնպես աշխատանքի մի մասն է։ Մեղադրեք ինքներդ ձեզ, բայց իրականում մի՛ արեք:",
+      "Նույնիսկ երբ ամեն ինչ հեշտ չէ, դուք իսկապես լավ եք անում 💛"
+    ],
+    "kk": [
+      "Бүгін сенен артық ешкім жасай алмас еді. Тіпті сен де емес😄",
+      "Сіздің күлкіңіз бөлмені нұрландырады. Байқап көріңіз, айнаға қараңыз!",
+      "Әрбір үлкен жетістік кішкентай қадамнан басталады. Сіз қазірдің өзінде жолға шықтыңыз.",
+      "Қиын күндер өтеді, бірақ сен қаласың. Бұл күш.",
+      "Бүгін бір кесе шай ішуге міндеттісіз ☕",
+      "Сіз ойлағаннан да көп нәрсеге қабілеттісіз.",
+      "Терең тыныс алыңыз. Бәрі өз орнына келеді.",
+      "Бәлкім, бүгін, бәлкім, дәл қазір сені біреу ойлап, жымиған шығар.",
+      "Сізге мінсіз болу қажет емес. Сіз өзіңіз сияқты жеткіліктісіз.",
+      "Бүгін бір қуаныш табыңыз: күн сәулесі, музыка, тәтті нәрсе 🍫",
+      "Сіздің энергияңыз кейбір адамдардың бүкіл күнін үнемдейді.",
+      "Жақсы істер өз жолында. Олар сенің дайын болғаныңды күтіп отыр.",
+      "Өзіңізді мақтан етіңіз. Кешегі күн өтті, бүгін сенікі!",
+      "Әр таң - жаңа парақ. Қалам өз қолыңда✏️",
+      "Кішкене болса да күліңіз. Оны сіздің миыңыз байқайды 😊",
+      "Сіз біреудің ең бақытты кездейсоқтығысыз.",
+      "Кішкене демалу да жұмыстың бір бөлігі. Өзіңізді кінәлаңыз, бірақ іс жүзінде олай емес.",
+      "Тіпті оңай болмаса да, сіз шынымен жақсы жұмыс істеп жатырсыз 💛"
+    ],
+    "uz": [
+      "Bugun hech kim sizdan yaxshiroq ish qila olmasdi. Siz ham emas😄",
+      "Sizning tabassumingiz xonani yoritadi. Sinab ko'ring, oynaga qarang!",
+      "Har bir katta yutuq kichik bir qadamdan boshlangan. Siz allaqachon yo'ldasiz.",
+      "Og'ir kunlar o'tadi, lekin siz qolasiz. Bu kuch.",
+      "Bugun o'zingizga bir piyola choy qarzdorsiz ☕",
+      "Siz o'ylaganingizdan ham ko'proq narsaga qodirsiz.",
+      "Chuqur nafas oling. Hammasi joyiga tushadi.",
+      "Balki kimdir siz haqingizda o'ylab, tabassum qilgandir, balki hozir.",
+      "Siz mukammal bo'lishingiz shart emas. Siz o'zingiz kabi yetarlisiz.",
+      "Bugun ozgina quvonch toping: quyosh nuri, musiqa, shirin narsa 🍫",
+      "Sizning energiyangiz ba'zi odamlarning butun kunini tejaydi.",
+      "Yaxshi narsalar o'z yo'lida. Ular faqat tayyor bo'lishingizni kutishmoqda.",
+      "O'zingiz bilan faxrlaning. Kechagi kun o'tdi, bugun sizniki!",
+      "Har tong yangi sahifa. Qalam sizning qo'lingizda ✏️",
+      "Ozgina bo'lsa ham tabassum qiling. Sizning miyangiz buni sezadi 😊",
+      "Siz kimningdir eng baxtli tasodifisiz.",
+      "Bir oz dam olish ham ishning bir qismidir. O'zingizni ayblang - lekin aslida bunday qilmang.",
+      "Ishlar oson bo'lmasa ham, siz juda yaxshi ish qilyapsiz 💛"
+    ],
+    "ky": [
+      "Бүгүн сизден жакшы эч ким боло алмак эмес. Сен да эмес😄",
+      "Сиздин жылмаюңуз бөлмөнү жарыктандырат. Байкап көрүңүз, күзгүгө караңыз!",
+      "Ар бир чоң жетишкендик кичинекей кадамдан башталат. Сиз буга чейин эле жолдосуз.",
+      "Оор күндөр өтөт, бирок сен каласың. Бул күч.",
+      "Сиз бүгүн бир чыны чай ичүүгө милдеттүүсүз ☕",
+      "Сиз ойлогондон да көп нерсеге жөндөмдүүсүз.",
+      "Терең дем алыңыз. Баары ордуна келет.",
+      "Балким бүгүн, балким азыр эле бирөө сени ойлоп, жылмайып койгондур.",
+      "Кемчиликсиз болуунун кереги жок. Сен кандай болсоң, ошондой жетиштүүсүң.",
+      "Бүгүн кичинекей кубаныч табыңыз: күндүн нуру, музыка, таттуу нерсе 🍫",
+      "Сиздин энергияңыз кээ бир адамдардын бүт күнүн үнөмдөйт.",
+      "Жакшы нерселер алдыда. Алар сенин даяр болушуңду гана күтүп жатышат.",
+      "Өзүң менен сыймыктан. Кечээки күн бүттү, бүгүн сеники!",
+      "Ар бир эртең менен жаңы барак. Калем сиздин колуңузда✏️",
+      "Бир аз болсо да жылмайып коюңуз. Аны мээңиз байкап турат 😊",
+      "Сен бирөөнүн эң бактылуу кокустуксусуң.",
+      "Бир аз эс алуу да иштин бир бөлүгү. Өзүңүздү айыптаңыз, бирок чындыгында андай эмес.",
+      "Иштер оңой болбосо да, сиз чындап эле жакшы иштеп жатасыз 💛"
+    ],
+    "tk": [
+      "Bu gün hiç kim senden gowy edip bilmezdi. Hatda senem däl 😄",
+      "Siziň ýylgyrşyňyz otagy ýakýar. Synap görüň, aýna serediň!",
+      "Her uly üstünlik kiçijik ädim bilen başlandy. Siz eýýäm ýoluňyzda",
+      "Kyn günler geçýär, ýöne siz galýarsyňyz. Bu güýç.",
+      "Şu gün özüňize bir käse çaý bergiňiz bar ☕",
+      "Siz pikir edişiňizden has köp zady başarýarsyňyz.",
+      "Uly dem alyň. Hemme zat ýerbe-ýer bolar.",
+      "Belki, kimdir biri sen hakda pikir edip, ýylgyrdy, belki häzir.",
+      "Kämil bolmak hökman däl. Özüňiz ýaly ýeterlik.",
+      "Şu gün azajyk şatlyk tapyň: gün şöhlesi, aýdym-saz, süýji zat 🍫",
+      "Siziň energiýaňyz käbir adamlaryň bütin gününi tygşytlaýar.",
+      "Gowy zatlar ýolda. Olar diňe siziň taýýar bolmagyňyza garaşýarlar.",
+      "Özüňe buýsan. Düýn gutardy, bu gün seniňki!",
+      "Her gün irden täze sahypa. Galam eliňizde ✏️",
+      "Biraz bolsa-da ýylgyryň. Beýniňiz muny duýýar 😊",
+      "Siz kimdir biriniň iň bagtly tötänligi.",
+      "Biraz dynç almak hem işiň bir bölegidir. Özüňizi günäkärläň, ýöne aslynda beýle etmäň.",
+      "Işler aňsat bolmasa-da, hakykatdanam gowy işleýärsiňiz 💛"
+    ],
+    "mn": [
+      "Өнөөдөр хэн ч чамаас илүү хийж чадахгүй байсан. Чи ч биш 😄",
+      "Таны инээмсэглэл өрөөг гэрэлтүүлнэ. Оролдоод үз, толинд хар!",
+      "Аливаа агуу амжилт жижиг алхамаас эхэлдэг. Та аль хэдийн замдаа орсон байна.",
+      "Хүнд өдрүүд өнгөрч, харин чи үлдэнэ. Энэ бол хүч чадал юм.",
+      "Та өнөөдөр өөртөө нэг аяга цай уух өртэй ☕",
+      "Та бодож байгаагаас ч илүү чадвартай.",
+      "Гүнзгий амьсгаа ав. Бүх зүйл байрандаа орно.",
+      "Өнөөдөр, магадгүй яг одоо хэн нэгэн чамайг бодоод инээмсэглэсэн байх.",
+      "Та төгс байх шаардлагагүй. Та байгаагаараа хангалттай.",
+      "Өнөөдөр бяцхан баяр баясгаланг олж аваарай: нарны туяа, хөгжим, ямар нэг сайхан зүйл 🍫",
+      "Таны эрч хүч зарим хүмүүсийн бүтэн өдрийг хэмнэдэг.",
+      "Сайхан зүйлс замдаа байна. Тэд таныг бэлэн байхыг л хүлээж байна.",
+      "Өөрөөрөө бахарх. Өчигдөр дууслаа, өнөөдөр чинийх!",
+      "Өглөө бүр шинэ хуудас байдаг. Үзэг таны гарт ✏️",
+      "Жаахан ч гэсэн инээмсэглээрэй. Таны тархи үүнийг анзаардаг 😊",
+      "Та бол хэн нэгний хамгийн аз жаргалтай тохиолдол юм.",
+      "Жаахан амрах нь бас ажлын нэг хэсэг юм. Өөрийгөө буруутгах - гэхдээ үнэн хэрэгтээ бүү.",
+      "Бүх зүйл амаргүй байсан ч та үнэхээр сайн ажиллаж байна 💛"
+    ],
+    "ne": [
+      "आज तपाईं भन्दा राम्रो कसैले गर्न सक्दैन। तिमी पनि होइन 😄",
+      "तपाईंको मुस्कानले कोठा उज्यालो बनाउँछ। प्रयास गर्नुहोस्, ऐनामा हेर्नुहोस्!",
+      "हरेक महान उपलब्धि एउटा सानो पाइलाबाट सुरु हुन्छ। तपाईं पहिले नै आफ्नो बाटोमा हुनुहुन्छ।",
+      "कठिन दिनहरू बिते, तर तपाईं रहनुहुन्छ। त्यो शक्ति हो।",
+      "तपाईं आज एक कप चियाको ऋणी हुनुहुन्छ ☕",
+      "तपाईंले सोचे भन्दा बढी गर्न सक्षम हुनुहुन्छ।",
+      "गहिरो सास लिनुहोस्। सबै ठाउँमा खस्नेछ।",
+      "सायद कसैले तिम्रो बारेमा सोचेर मुस्कुराएको होला, सायद अहिले नै।",
+      "तपाईं पूर्ण हुनु आवश्यक छैन। तिमी जति छौ त्यति नै काफी छौ।",
+      "आज एउटा सानो आनन्द खोज्नुहोस्: घाम, संगीत, केहि मीठो 🍫",
+      "तपाईंको ऊर्जाले केही मानिसहरूको दिनभर बचत गर्छ।",
+      "राम्रो चीजहरू तिनीहरूको बाटोमा छन्। तिनीहरू केवल तपाईं तयार हुनको लागि पर्खिरहेका छन्।",
+      "आफैमा गर्व गर्नुहोस्। हिजो सकियो, आज तिम्रो हो !",
+      "हरेक बिहान एक नयाँ पृष्ठ हो। कलम तिम्रो हातमा ✏️",
+      "मुस्कुराउनुहोस्, थोरै भए पनि। तपाईको दिमागले यो नोट गर्छ 😊",
+      "तपाईं कसैको सबैभन्दा खुशीको संयोग हुनुहुन्छ।",
+      "थोरै विश्राम पनि कामको एक हिस्सा हो। आफैलाई दोष दिनुहोस् - तर वास्तवमा, नगर्नुहोस्।",
+      "चीजहरू सजिलो नभए पनि, तपाईं वास्तवमै राम्रो गर्दै हुनुहुन्छ 💛"
+    ],
+    "si": [
+      "අද ඔබට වඩා හොඳින් කිසිවෙකුට කළ නොහැක. ඔයාවත් නෑ 😄",
+      "ඔබේ සිනහව කාමරය ආලෝකමත් කරයි. එය උත්සාහ කරන්න, කැඩපත දෙස බලන්න!",
+      "සෑම විශිෂ්ට ජයග්‍රහණයක්ම කුඩා පියවරකින් ආරම්භ විය. ඔබ දැනටමත් ඔබේ ගමනේ.",
+      "දුෂ්කර දින ගෙවී යයි, නමුත් ඔබ රැඳී සිටින්න. ඒක තමයි ශක්තිය.",
+      "ඔබ අද තේ කෝප්පයක් ණයයි ☕",
+      "ඔබ සිතනවාට වඩා ඔබට හැකියාව ඇත.",
+      "ගැඹුරු හුස්මක් ගන්න. සෑම දෙයක්ම නිසි තැනට වැටෙනු ඇත.",
+      "යමෙක් ඔබ ගැන සිතා අද සිනාසෙන්නට ඇත, සමහරවිට දැන්.",
+      "ඔබ පරිපූර්ණ වීමට අවශ්‍ය නැත. ඔයා ඉන්න විදියටම ඇති.",
+      "අද කුඩා සතුටක් සොයා ගන්න: හිරු එළිය, සංගීතය, මිහිරි දෙයක් 🍫",
+      "ඔබේ ශක්තිය සමහර පුද්ගලයන්ගේ මුළු දවසම ඉතිරි කරයි.",
+      "හොඳ දේවල් ඔවුන්ගේ මාර්ගයේ ඇත. ඔවුන් ඔබ සූදානම් වන තෙක් බලා සිටී.",
+      "ඔබ ගැන ආඩම්බර වන්න. ඊයේ අවසන්, අද ඔබේ!",
+      "සෑම උදෑසනකම නව පිටුවකි. පෑන ඔබේ අතේ ✏️",
+      "මඳක් වුවද සිනාසෙන්න. ඔබේ මොළය එය දකිනවා 😊",
+      "ඔබ කෙනෙකුගේ ප්‍රීතිමත්ම අහඹු සිදුවීමයි.",
+      "පොඩි විවේකයක් ද කාර්යයේ කොටසකි. ඔබටම දොස් කියන්න - නමුත් ඇත්ත වශයෙන්ම, එසේ නොකරන්න.",
+      "දේවල් පහසු නොවන විට පවා, ඔබ ඇත්තටම හොඳින් කරනවා 💛"
+    ],
+    "ta": [
+      "இன்று உங்களை விட யாரும் சிறப்பாக செய்திருக்க முடியாது. நீ கூட இல்லை 😄",
+      "உங்கள் புன்னகை அறையை ஒளிரச் செய்கிறது. முயற்சிக்கவும், கண்ணாடியில் பாருங்கள்!",
+      "ஒவ்வொரு பெரிய சாதனையும் ஒரு சிறிய அடியில் தொடங்கியது. நீங்கள் ஏற்கனவே உங்கள் வழியில் இருக்கிறீர்கள்.",
+      "கடினமான நாட்கள் கடந்து செல்கின்றன, ஆனால் நீங்கள் இருக்கிறீர்கள். அதுதான் பலம்.",
+      "இன்று ஒரு கோப்பை தேநீர் அருந்துவதற்கு நீங்கள் கடன்பட்டிருக்கிறீர்கள் ☕",
+      "நீங்கள் நினைப்பதை விட அதிக திறன் கொண்டவர்.",
+      "ஆழ்ந்த மூச்சு விடுங்கள். எல்லாம் சரியான இடத்தில் விழும்.",
+      "யாராவது உங்களை நினைத்து இன்று சிரித்திருக்கலாம், ஒருவேளை இப்போதுதான்.",
+      "நீங்கள் சரியானவராக இருக்க வேண்டிய அவசியமில்லை. நீ இருப்பது போல் இருந்தால் போதும்.",
+      "இன்று ஒரு சிறிய மகிழ்ச்சியைக் காணுங்கள்: சூரிய ஒளி, இசை, இனிமையான ஒன்று 🍫",
+      "உங்கள் ஆற்றல் சிலரின் முழு நாளையும் சேமிக்கிறது.",
+      "நல்ல விஷயங்கள் நடக்கின்றன. நீங்கள் தயாராக இருக்கும் வரை அவர்கள் காத்திருக்கிறார்கள்.",
+      "உங்களைப் பற்றி பெருமிதம் கொள்ளுங்கள். நேற்று முடிந்தது, இன்று உங்களுடையது!",
+      "ஒவ்வொரு காலையும் ஒரு புதிய பக்கம். பேனா உங்கள் கையில் ✏️",
+      "சிறிது சிரியுங்கள். உங்கள் மூளை அதை கவனிக்கிறது",
+      "நீங்கள் ஒருவரின் மகிழ்ச்சியான தற்செயல் நிகழ்வு.",
+      "சிறிது ஓய்வும் வேலையின் ஒரு பகுதியாகும். உங்களை நீங்களே குற்றம் சொல்லுங்கள் - ஆனால் உண்மையில் வேண்டாம்.",
+      "விஷயங்கள் சுலபமாக இல்லாவிட்டாலும், நீங்கள் நன்றாக செய்கிறீர்கள் 💛"
+    ],
+    "te": [
+      "ఈరోజు మీ కంటే మెరుగ్గా ఎవరూ చేయలేరు. నువ్వు కూడా కాదు 😄",
+      "మీ చిరునవ్వు గదిని వెలిగిస్తుంది. దీన్ని ప్రయత్నించండి, అద్దంలో చూడండి!",
+      "ప్రతి గొప్ప విజయం ఒక చిన్న అడుగుతో ప్రారంభమవుతుంది. మీరు ఇప్పటికే మీ మార్గంలో ఉన్నారు.",
+      "కష్టమైన రోజులు గడిచిపోయాయి, కానీ మీరు అలాగే ఉన్నారు. అది బలం.",
+      "ఈరోజు మీరు ఒక కప్పు టీకి రుణపడి ఉన్నారు ☕",
+      "మీరు అనుకున్నదానికంటే ఎక్కువ సామర్థ్యం కలిగి ఉంటారు.",
+      "లోతైన శ్వాస తీసుకోండి. ప్రతిదీ స్థానంలో వస్తాయి.",
+      "ఈరోజు ఎవరైనా మీ గురించి ఆలోచించి నవ్వి ఉండవచ్చు, బహుశా ఇప్పుడే కావచ్చు.",
+      "మీరు పరిపూర్ణంగా ఉండవలసిన అవసరం లేదు. నువ్వంటే చాలు.",
+      "ఈ రోజు ఒక చిన్న ఆనందాన్ని పొందండి: సూర్యరశ్మి, సంగీతం, ఏదైనా మధురమైనది 🍫",
+      "మీ శక్తి కొంతమంది వ్యక్తుల మొత్తం రోజంతా ఆదా చేస్తుంది.",
+      "మంచి విషయాలు వారి మార్గంలో ఉన్నాయి. మీరు సిద్ధంగా ఉండటానికి వారు వేచి ఉన్నారు.",
+      "మీ గురించి గర్వపడండి. నిన్న ముగిసింది, ఈరోజు నీది!",
+      "ప్రతి ఉదయం ఒక కొత్త పేజీ. పెన్ మీ చేతిలో ఉంది✏️",
+      "కొంచెం అయినా నవ్వండి. మీ మెదడు దానిని గమనిస్తుంది",
+      "మీరు ఎవరికైనా సంతోషకరమైన యాదృచ్చికం.",
+      "కొంచెం విశ్రాంతి కూడా పనిలో భాగం. మిమ్మల్ని మీరు నిందించుకోండి-కాని వాస్తవానికి, చేయవద్దు.",
+      "పనులు అంత సులభం కానప్పటికీ, మీరు నిజంగా బాగా చేస్తున్నారు 💛"
+    ],
+    "ml": [
+      "ഇന്ന് നിങ്ങളേക്കാൾ നന്നായി മറ്റാർക്കും ചെയ്യാൻ കഴിയുമായിരുന്നില്ല. നിങ്ങൾ പോലും അല്ല 😄",
+      "നിങ്ങളുടെ പുഞ്ചിരി മുറിയിൽ പ്രകാശം പരത്തുന്നു. ഇത് പരീക്ഷിക്കുക, കണ്ണാടിയിൽ നോക്കുക!",
+      "എല്ലാ മികച്ച നേട്ടങ്ങളും ഒരു ചെറിയ ചുവടുവെപ്പിൽ നിന്നാണ് ആരംഭിച്ചത്. നിങ്ങൾ ഇതിനകം നിങ്ങളുടെ വഴിയിലാണ്.",
+      "കഠിനമായ ദിവസങ്ങൾ കടന്നുപോകുന്നു, പക്ഷേ നിങ്ങൾ തുടരുന്നു. അതാണ് ശക്തി.",
+      "നിങ്ങൾ ഇന്ന് ഒരു കപ്പ് ചായ കടപ്പെട്ടിരിക്കുന്നു ☕",
+      "നിങ്ങൾ വിചാരിക്കുന്നതിലും കൂടുതൽ നിങ്ങൾക്ക് കഴിവുണ്ട്.",
+      "ഒരു ദീർഘനിശ്വാസം എടുക്കുക. എല്ലാം ശരിയായി വീഴും.",
+      "ആരെങ്കിലും നിങ്ങളെ ഓർത്ത് ഇന്ന് പുഞ്ചിരിച്ചിട്ടുണ്ടാകാം, ഒരുപക്ഷേ ഇപ്പോഴായിരിക്കാം.",
+      "നിങ്ങൾ തികഞ്ഞവരാകണമെന്നില്ല. നീ ഉള്ളതുപോലെ മതി.",
+      "ഇന്ന് ഒരു ചെറിയ സന്തോഷം കണ്ടെത്തൂ: സൂര്യപ്രകാശം, സംഗീതം, മധുരമുള്ള എന്തെങ്കിലും 🍫",
+      "നിങ്ങളുടെ ഊർജ്ജം ചില ആളുകളുടെ മുഴുവൻ ദിവസത്തെയും സംരക്ഷിക്കുന്നു.",
+      "നല്ല കാര്യങ്ങൾ അവരുടെ വഴിയിലാണ്. നിങ്ങൾ തയ്യാറാകുന്നത് വരെ അവർ കാത്തിരിക്കുകയാണ്.",
+      "നിങ്ങളെക്കുറിച്ച് അഭിമാനിക്കുക. ഇന്നലെ അവസാനിച്ചു, ഇന്ന് നിങ്ങളുടേതാണ്!",
+      "എല്ലാ പ്രഭാതവും ഒരു പുതിയ പേജാണ്. പേന നിങ്ങളുടെ കയ്യിൽ ✏️",
+      "അൽപ്പമെങ്കിലും പുഞ്ചിരിക്കൂ. നിങ്ങളുടെ മസ്തിഷ്കം അത് ശ്രദ്ധിക്കുന്നു",
+      "നിങ്ങൾ ഒരാളുടെ ഏറ്റവും സന്തോഷകരമായ യാദൃശ്ചികതയാണ്.",
+      "അല്പം വിശ്രമവും ജോലിയുടെ ഭാഗമാണ്. സ്വയം കുറ്റപ്പെടുത്തുക - എന്നാൽ യഥാർത്ഥത്തിൽ ചെയ്യരുത്.",
+      "കാര്യങ്ങൾ എളുപ്പമല്ലെങ്കിൽ പോലും, നിങ്ങൾ നന്നായി ചെയ്യുന്നു 💛"
+    ],
+    "kn": [
+      "ಇಂದು ನಿಮಗಿಂತ ಉತ್ತಮವಾಗಿ ಯಾರೂ ಮಾಡಲಾರರು. ನೀನೂ ಅಲ್ಲ 😄",
+      "ನಿಮ್ಮ ನಗು ಕೋಣೆಯನ್ನು ಬೆಳಗಿಸುತ್ತದೆ. ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ, ಕನ್ನಡಿಯಲ್ಲಿ ನೋಡಿ!",
+      "ಪ್ರತಿ ದೊಡ್ಡ ಸಾಧನೆಯು ಒಂದು ಸಣ್ಣ ಹೆಜ್ಜೆಯಿಂದ ಪ್ರಾರಂಭವಾಯಿತು. ನೀವು ಈಗಾಗಲೇ ನಿಮ್ಮ ದಾರಿಯಲ್ಲಿದ್ದೀರಿ.",
+      "ಕಷ್ಟದ ದಿನಗಳು ಕಳೆದವು, ಆದರೆ ನೀವು ಉಳಿಯುತ್ತೀರಿ. ಅದು ಶಕ್ತಿ.",
+      "ನೀವು ಇಂದು ಒಂದು ಕಪ್ ಚಹಾಕ್ಕೆ ಋಣಿಯಾಗಿರುತ್ತೀರಿ ☕",
+      "ನೀವು ಯೋಚಿಸುವುದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದನ್ನು ನೀವು ಸಮರ್ಥರಾಗಿದ್ದೀರಿ.",
+      "ಆಳವಾದ ಉಸಿರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಎಲ್ಲವೂ ಸ್ಥಳದಲ್ಲಿ ಬೀಳುತ್ತವೆ.",
+      "ಬಹುಶಃ ಯಾರಾದರೂ ನಿಮ್ಮ ಬಗ್ಗೆ ಯೋಚಿಸಿದ್ದಾರೆ ಮತ್ತು ಇಂದು ಮುಗುಳ್ನಕ್ಕಿದ್ದಾರೆ, ಬಹುಶಃ ಇದೀಗ.",
+      "ನೀವು ಪರಿಪೂರ್ಣರಾಗುವ ಅಗತ್ಯವಿಲ್ಲ. ನೀನು ಇದ್ದಂತೆ ಸಾಕು.",
+      "ಇಂದು ಸ್ವಲ್ಪ ಸಂತೋಷವನ್ನು ಕಂಡುಕೊಳ್ಳಿ: ಸೂರ್ಯ, ಸಂಗೀತ, ಏನಾದರೂ ಸಿಹಿ 🍫",
+      "ನಿಮ್ಮ ಶಕ್ತಿಯು ಕೆಲವರ ಇಡೀ ದಿನವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+      "ಒಳ್ಳೆಯ ವಿಷಯಗಳು ಅವರ ದಾರಿಯಲ್ಲಿವೆ. ನೀವು ಸಿದ್ಧರಾಗಿರಲು ಅವರು ಕಾಯುತ್ತಿದ್ದಾರೆ.",
+      "ನಿಮ್ಮ ಬಗ್ಗೆ ಹೆಮ್ಮೆ ಪಡಿ. ನಿನ್ನೆ ಮುಗಿದಿದೆ, ಇಂದು ನಿಮ್ಮದು!",
+      "ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಹೊಸ ಪುಟ. ಪೆನ್ ನಿಮ್ಮ ಕೈಯಲ್ಲಿದೆ ✏️",
+      "ಸ್ವಲ್ಪವಾದರೂ ನಗು. ನಿಮ್ಮ ಮೆದುಳು ಅದನ್ನು ಗಮನಿಸುತ್ತದೆ",
+      "ನೀವು ಯಾರೊಬ್ಬರ ಸಂತೋಷದ ಕಾಕತಾಳೀಯ.",
+      "ಸ್ವಲ್ಪ ವಿಶ್ರಾಂತಿ ಕೂಡ ಕೆಲಸದ ಭಾಗವಾಗಿದೆ. ನಿಮ್ಮನ್ನು ದೂಷಿಸಿ - ಆದರೆ ವಾಸ್ತವವಾಗಿ, ಮಾಡಬೇಡಿ.",
+      "ವಿಷಯಗಳು ಸುಲಭವಲ್ಲದಿದ್ದರೂ ಸಹ, ನೀವು ನಿಜವಾಗಿಯೂ ಚೆನ್ನಾಗಿ ಮಾಡುತ್ತಿದ್ದೀರಿ 💛"
+    ],
+    "gu": [
+      "આજે તમારાથી સારું કોઈ કરી શક્યું ન હોત. તમે પણ નહીં 😄",
+      "તમારું સ્મિત રૂમને રોશની આપે છે. તેનો પ્રયાસ કરો, અરીસામાં જુઓ!",
+      "દરેક મહાન સિદ્ધિ એક નાના પગલાથી શરૂ થાય છે. તમે પહેલેથી જ તમારા માર્ગ પર છો.",
+      "અઘરા દિવસો વીતી જાય છે, પણ તું રહે છે. તે તાકાત છે.",
+      "તમે આજે એક કપ ચાના ઋણી છો ☕",
+      "તમે વિચારો છો તેના કરતાં તમે વધુ સક્ષમ છો.",
+      "ઊંડો શ્વાસ લો. બધું જ જગ્યાએ પડી જશે.",
+      "કદાચ કોઈએ તમારા વિશે વિચાર્યું અને આજે સ્મિત કર્યું, કદાચ હમણાં જ.",
+      "તમારે સંપૂર્ણ બનવાની જરૂર નથી. તમે જેવા છો એટલા પૂરતા છો.",
+      "આજે એક નાનો આનંદ મેળવો: સૂર્યપ્રકાશ, સંગીત, કંઈક મીઠી 🍫",
+      "તમારી ઊર્જા કેટલાક લોકોનો આખો દિવસ બચાવે છે.",
+      "સારી વસ્તુઓ તેમના માર્ગ પર છે. તેઓ ફક્ત તમારા તૈયાર થવાની રાહ જોઈ રહ્યા છે.",
+      "તમારા પર ગર્વ કરો. ગઈકાલ પૂરી થઈ ગઈ, આજનો દિવસ તમારો છે!",
+      "દરરોજ સવારે એક નવું પૃષ્ઠ છે. પેન તમારા હાથમાં છે ✏️",
+      "સ્મિત કરો, ભલે થોડુંક. તમારું મગજ તેની નોંધ લે છે 😊",
+      "તમે કોઈનો સૌથી સુખી સંયોગ છો.",
+      "થોડો આરામ એ પણ કામનો એક ભાગ છે. તમારી જાતને દોષ આપો - પરંતુ વાસ્તવમાં, નહીં.",
+      "વસ્તુઓ સરળ ન હોય ત્યારે પણ તમે ખરેખર સારું કરી રહ્યા છો 💛"
+    ],
+    "mr": [
+      "आज तुमच्यापेक्षा चांगले कोणीही करू शकले नसते. तुलाही नाही 😄",
+      "तुमचे स्मित खोली उजळून टाकते. प्रयत्न करा, आरशात पहा!",
+      "प्रत्येक महान यशाची सुरुवात एका छोट्या पावलाने होते. तुम्ही आधीच तुमच्या मार्गावर आहात.",
+      "कठीण दिवस निघून जातात, पण तुम्ही राहतात. ती ताकद आहे.",
+      "तुम्ही आज एक कप चहाचे ऋणी आहात ☕",
+      "तुम्ही विचार करता त्यापेक्षा जास्त तुम्ही सक्षम आहात.",
+      "दीर्घ श्वास घ्या. सर्व काही ठिकाणी पडेल.",
+      "कदाचित कोणीतरी तुमचा विचार केला असेल आणि आज हसले असेल, कदाचित आत्ताच.",
+      "तुम्हाला परिपूर्ण असण्याची गरज नाही. तुम्ही आहात म्हणून पुरेसे आहात.",
+      "आज एक छोटासा आनंद शोधा: सूर्यप्रकाश, संगीत, काहीतरी गोड 🍫",
+      "तुमची ऊर्जा काही लोकांचा संपूर्ण दिवस वाचवते.",
+      "चांगल्या गोष्टी त्यांच्या मार्गावर आहेत. ते फक्त तुम्ही तयार होण्याची वाट पाहत आहेत.",
+      "स्वतःचा अभिमान बाळगा. काल संपला, आज तुमचा!",
+      "दररोज सकाळी एक नवीन पृष्ठ आहे. पेन तुमच्या हातात आहे ✏️",
+      "हसा, थोडे जरी असले तरी. तुमच्या मेंदूला ते लक्षात येते 😊",
+      "तुम्ही कोणाचा तरी आनंदी योगायोग आहात.",
+      "थोडी विश्रांती हा देखील कामाचा एक भाग आहे. स्वतःला दोष द्या - पण प्रत्यक्षात, करू नका.",
+      "गोष्टी सोप्या नसतानाही, तुम्ही खरोखर चांगले करत आहात 💛"
+    ],
+    "or": [
+      "ଆଜି ତୁମ ଅପେକ୍ଷା କେହି ଭଲ କରିପାରି ନଥିବେ | ଆପଣ ମଧ୍ୟ ନୁହଁନ୍ତି 😄",
+      "ତୁମର ହସ କୋଠରୀକୁ ଆଲୋକିତ କରେ | ଏହାକୁ ଚେଷ୍ଟା କର, ଦର୍ପଣରେ ଦେଖ!",
+      "ପ୍ରତ୍ୟେକ ମହାନ ସଫଳତା ଏକ ଛୋଟ ପଦକ୍ଷେପ ସହିତ ଆରମ୍ଭ ହୋଇଥିଲା | ଆପଣ ନିଜ ରାସ୍ତାରେ ଆଗରୁ ଅଛନ୍ତି",
+      "କଠିନ ଦିନ ଗଲା, କିନ୍ତୁ ତୁମେ ରହିଛ | ତାହା ହେଉଛି ଶକ୍ତି |",
+      "ଆଜି ଆପଣ ନିଜକୁ ଏକ କପ୍ ଚା we ଣୀ ☕",
+      "ତୁମେ ଭାବିବାଠାରୁ ଅଧିକ ସକ୍ଷମ |",
+      "ଏକ ଗଭୀର ନିଶ୍ୱାସ ନିଅ | ସବୁକିଛି ଜାଗାରେ ପଡ଼ିବ |",
+      "ବୋଧହୁଏ କେହି କେହି ତୁମ ବିଷୟରେ ଭାବି ଆଜି ହସିଲେ, ବୋଧହୁଏ ବର୍ତ୍ତମାନ |",
+      "ତୁମେ ସିଦ୍ଧ ହେବା ଆବଶ୍ୟକ ନାହିଁ | ତୁମ ପରି ତୁମେ ଯଥେଷ୍ଟ |",
+      "ଆଜି ଗୋଟିଏ ଟିକିଏ ଆନନ୍ଦ ଖୋଜ: ସୂର୍ଯ୍ୟକିରଣ, ସଂଗୀତ, କିଛି ମିଠା 🍫 |",
+      "ଆପଣଙ୍କର ଶକ୍ତି କିଛି ଲୋକଙ୍କ ଦିନକୁ ସଞ୍ଚୟ କରେ |",
+      "ଭଲ ଜିନିଷ ସେମାନଙ୍କ ବାଟରେ ଅଛି | ସେମାନେ ତୁମକୁ ପ୍ରସ୍ତୁତ ହେବାକୁ ଅପେକ୍ଷା କରିଛନ୍ତି |",
+      "ନିଜ ପାଇଁ ଗର୍ବ କର | ଗତକାଲି ଶେଷ ହୋଇଛି, ଆଜି ତୁମର!",
+      "ପ୍ରତ୍ୟେକ ଦିନ ସକାଳେ ଏକ ନୂତନ ପୃଷ୍ଠା | କଲମ ଆପଣଙ୍କ ହାତରେ ✏️",
+      "ହସ, ଟିକିଏ ହେଲେ ମଧ୍ୟ | ତୁମର ମସ୍ତିଷ୍କ ଏହା ଧ୍ୟାନ ଦିଏ 😊",
+      "ତୁମେ କାହାର ସବୁଠାରୁ ଖୁସିର ସମକକ୍ଷ |",
+      "ଟିକିଏ ବିଶ୍ରାମ ମଧ୍ୟ କାମର ଏକ ଅଂଶ | ନିଜକୁ ଦୋଷ ଦିଅ - କିନ୍ତୁ ପ୍ରକୃତରେ, କର ନାହିଁ |",
+      "ଯେତେବେଳେ ଜିନିଷଗୁଡ଼ିକ ସହଜ ନୁହେଁ, ତୁମେ ପ୍ରକୃତରେ ଭଲ କାମ କରୁଛ 💛"
+    ],
+    "as": [
+      "আজি তোমাতকৈ ভাল কাম কোনেও কৰিব নোৱাৰিলেহেঁতেন। আনকি তুমিও নহয় 😄",
+      "তোমাৰ হাঁহিটোৱে কোঠাটো পোহৰাই তুলিছে। চেষ্টা কৰক, আইনাত চাওক!",
+      "প্ৰতিটো মহান কৃতিত্বৰ আৰম্ভণি এটা সৰু খোজৰ পৰাই হৈছিল। আপুনি ইতিমধ্যে বাটত আগবাঢ়িছে।",
+      "কঠিন দিন পাৰ হৈ যায়, কিন্তু আপুনি ৰৈ যায়। সেইটোৱেই শক্তি।",
+      "আজি আপুনি নিজৰ ওপৰত একাপ চাহ খাবলৈ ঋণী ☕",
+      "আপুনি ভবাতকৈও অধিক কৰিবলৈ সক্ষম।",
+      "দীঘলকৈ উশাহ এটা লওক। সকলো ঠাইতে পৰিব।",
+      "হয়তো কোনোবাই আপোনাৰ কথা ভাবি আজি হাঁহিলে, হয়তো এতিয়াই।",
+      "আপুনি নিখুঁত হোৱাৰ প্ৰয়োজন নাই। তুমি যিদৰে আছে তেনেদৰেই যথেষ্ট।",
+      "আজি এটা সৰু আনন্দ বিচাৰি পাওক: ৰ'দ, সংগীত, কিবা এটা মিঠা 🍫",
+      "আপোনাৰ শক্তিয়ে কিছুমান মানুহৰ গোটেই দিনটো ৰাহি কৰে।",
+      "ভাল কথাবোৰ বাটত। মাত্ৰ আপোনাৰ সাজু হোৱালৈ অপেক্ষা কৰি আছে।",
+      "নিজৰ ওপৰত গৌৰৱ কৰক। কালি শেষ, আজি তোমাৰ!",
+      "প্ৰতিদিনে পুৱা এটা নতুন পেজ। কলমটো তোমাৰ হাতত ✏️",
+      "হাঁহি, অলপ হলেও। আপোনাৰ মগজুৱে লক্ষ্য কৰে 😊",
+      "তুমি কাৰোবাৰ আটাইতকৈ সুখী কাকতলীয়া।",
+      "অলপ জিৰণিও কামৰ অংশ। নিজকে দোষ দিয়ক—কিন্তু আচলতে, নকৰিব।",
+      "কামবোৰ সহজ নহ'লেও সচাকৈয়ে ভাল 💛 কৰি আছে"
+    ],
+    "my": [
+      "ဒီနေ့ မင်းထက်ပိုကောင်းအောင် ဘယ်သူမှ မလုပ်နိုင်ဘူး။ မင်းတောင်မဟုတ်ဘူး😄",
+      "မင်းရဲ့အပြုံးက အခန်းကို လင်းစေတယ်။ စမ်းကြည့်၊ မှန်ထဲမှာကြည့်။",
+      "ကြီးကျယ်ခမ်းနားသော အောင်မြင်မှုတိုင်းသည် သေးငယ်သောခြေလှမ်းဖြင့် စတင်ခဲ့သည်။ မင်းလမ်းပေါ်ရောက်နေပြီ။",
+      "ခက်ခဲတဲ့နေ့ရက်တွေကို ဖြတ်သန်းပေမယ့် မင်းကျန်နေခဲ့တယ်။ အဲဒါ ခွန်အားပဲ။",
+      "မင်းဒီနေ့ လက်ဖက်ရည်တစ်ခွက် ☕",
+      "မင်းထင်တာထက် ပိုလုပ်နိုင်တယ်။",
+      "အသက်ပြင်းပြင်းရှူပါ။ အရာအားလုံးက နေရာကျလာလိမ့်မယ်။",
+      "တစ်စုံတစ်ယောက်က မင်းအကြောင်းတွေးပြီး ပြုံးပြနိုင်တယ်၊ အခုပဲဖြစ်ကောင်းဖြစ်နိုင်တယ်။",
+      "မင်း ပြီးပြည့်စုံနေဖို့ မလိုပါဘူး။ မင်းလည်း မင်းလိုပဲ လုံလောက်တယ်။",
+      "ဒီနေ့ ပျော်ရွှင်မှုလေးတစ်ခု ရှာပါ - နေရောင်ခြည်၊ ဂီတ၊ ချိုမြိန်တဲ့ အရာ 🍫",
+      "သင့်စွမ်းအင်သည် လူအချို့၏တစ်နေ့တာကို သက်သာစေသည်။",
+      "​ကောင်း​သောအရာ​တွေ ​ရောက်​​နေ​တော့သည်​။ သူတို့ အသင့်ဖြစ်ရန် အသင့်စောင့်နေရုံသာ။",
+      "ကိုယ့်ကိုယ်ကို ဂုဏ်ယူလိုက်ပါ။ မနေ့ကပြီးသွားပြီ၊ ဒီနေ့က မင်းအတွက်။",
+      "မနက်တိုင်း စာမျက်နှာအသစ်ပါ။ ဘောပင်က မင်းလက်ထဲမှာ ✏️",
+      "နည်းနည်းလေးတောင် ပြုံးပါ။ ဦးနှောက်က သတိထားမိတယ်။",
+      "မင်းက တစ်စုံတစ်ယောက်ရဲ့ အပျော်ရွှင်ဆုံး တိုက်ဆိုင်မှုပါပဲ။",
+      "အနည်းငယ်အနားယူခြင်းသည် အလုပ်၏ အစိတ်အပိုင်းတစ်ခုလည်းဖြစ်သည်။ ကိုယ့်ကိုယ်ကို အပြစ်တင်ပါ - ဒါပေမယ့် တကယ်တော့ မလုပ်ပါနဲ့။",
+      "ကိစ္စတွေက မလွယ်ပေမယ့် မင်းက တကယ်ကောင်းနေတာပဲ 💛"
+    ],
+    "km": [
+      "គ្មានអ្នកណាអាចធ្វើបានល្អជាងអ្នកថ្ងៃនេះទេ។ មិនមែនអ្នកទេ😄",
+      "ស្នាមញញឹមរបស់អ្នកបំភ្លឺបន្ទប់។ សាកល្បងមើលក្នុងកញ្ចក់!",
+      "រាល់សមិទ្ធិផលដ៏អស្ចារ្យចាប់ផ្តើមពីជំហានតូចមួយ។ អ្នកកំពុងធ្វើដំណើរហើយ។",
+      "ថ្ងៃលំបាកកន្លងផុតទៅ ប៉ុន្តែអ្នកនៅតែមាន។ នោះគឺជាកម្លាំង។",
+      "ថ្ងៃនេះអ្នកជំពាក់តែមួយពែង☕",
+      "អ្នកមានសមត្ថភាពលើសពីអ្វីដែលអ្នកគិត។",
+      "ដកដង្ហើមវែងៗ។ អ្វីៗនឹងធ្លាក់ចូលកន្លែង។",
+      "ប្រហែលជាមាននរណាម្នាក់គិតពីអ្នក ហើយញញឹមថ្ងៃនេះ ប្រហែលជាពេលនេះ។",
+      "អ្នកមិនចាំបាច់ល្អឥតខ្ចោះទេ។ អ្នកគឺគ្រប់គ្រាន់ដូចអ្នកហើយ។",
+      "ស្វែងរកភាពរីករាយតិចតួចថ្ងៃនេះ៖ ពន្លឺថ្ងៃ តន្ត្រី របស់ផ្អែមៗ 🍫",
+      "ថាមពលរបស់អ្នកជួយសន្សំសំចៃមនុស្សមួយចំនួនពេញមួយថ្ងៃ។",
+      "របស់ល្អមកដល់ហើយ។ ពួកគេកំពុងរង់ចាំអ្នកដើម្បីត្រៀមខ្លួន។",
+      "មានមោទនភាពចំពោះខ្លួនឯង។ ម្សិលមិញចប់ហើយ ថ្ងៃនេះជារបស់អ្នក!",
+      "រាល់ព្រឹកគឺជាទំព័រថ្មី។ ប៊ិចគឺនៅក្នុងដៃរបស់អ្នក✏️",
+      "ញញឹមទោះបីបន្តិច។ ខួរក្បាល​របស់​អ្នក​សម្គាល់​ឃើញ​វា 😊",
+      "អ្នកគឺជារឿងចៃដន្យបំផុតរបស់នរណាម្នាក់។",
+      "ការសម្រាកតិចតួចក៏ជាផ្នែកនៃការងារផងដែរ។ បន្ទោសខ្លួនឯង - ប៉ុន្តែតាមពិតកុំធ្វើ។",
+      "ទោះអ្វីៗមិនងាយស្រួលក៏ដោយ ក៏អ្នកធ្វើបានល្អណាស់💛"
+    ],
+    "lo": [
+      "ບໍ່ມີໃຜເຮັດໄດ້ດີກວ່າເຈົ້າໃນມື້ນີ້. ບໍ່ແມ່ນແຕ່ເຈົ້າ😄",
+      "ຮອຍຍິ້ມຂອງເຈົ້າສະຫວ່າງຂຶ້ນໃນຫ້ອງ. ລອງເບິ່ງ, ເບິ່ງໃນກະຈົກ!",
+      "ທຸກໆຄວາມສໍາເລັດອັນຍິ່ງໃຫຍ່ເລີ່ມຕົ້ນດ້ວຍບາດກ້າວນ້ອຍໆ. ເຈົ້າຢູ່ໃນເສັ້ນທາງຂອງເຈົ້າແລ້ວ.",
+      "ວັນເວລາທີ່ຫຍຸ້ງຍາກຜ່ານໄປ, ແຕ່ເຈົ້າຍັງຄົງຢູ່. ນັ້ນແມ່ນຄວາມເຂັ້ມແຂງ.",
+      "ມື້ນີ້ເຈົ້າເປັນໜີ້ຈອກຊາ ☕",
+      "ເຈົ້າມີຄວາມສາມາດຫຼາຍກວ່າທີ່ເຈົ້າຄິດ.",
+      "ຫາຍໃຈເຂົ້າເລິກໆ. ທຸກສິ່ງທຸກຢ່າງຈະຕົກເຂົ້າໄປໃນສະຖານທີ່.",
+      "ບາງທີບາງຄົນຄິດຮອດເຈົ້າ ແລະຍິ້ມໃນມື້ນີ້, ບາງທີຕອນນີ້.",
+      "ເຈົ້າບໍ່ຈຳເປັນຕ້ອງສົມບູນແບບ. ເຈົ້າພຽງພໍຕາມທີ່ເຈົ້າເປັນ.",
+      "ຫາຄວາມສຸກເລັກໆນ້ອຍໆມື້ນີ້: ແສງແດດ, ດົນຕີ, ຂອງຫວານ🍫",
+      "ພະລັງງານຂອງເຈົ້າຊ່ວຍປະຫຍັດເວລາຂອງຄົນບາງຄົນໝົດມື້.",
+      "ມີແຕ່ສິ່ງດີໆເຂົ້າມາ. ພວກເຂົາພຽງແຕ່ລໍຖ້າໃຫ້ທ່ານກຽມພ້ອມ.",
+      "ຈົ່ງພູມໃຈໃນຕົວເອງ. ມື້​ວານ​ນີ້​ແມ່ນ​ຫມົດ​, ມື້​ນີ້​ແມ່ນ​ຂອງ​ທ່ານ​!",
+      "ທຸກໆເຊົ້າເປັນໜ້າໃໝ່. ປາກກາຢູ່ໃນມືຂອງເຈົ້າ✏️",
+      "ຍິ້ມ, ເຖິງແມ່ນວ່າຈະເລັກນ້ອຍ. ສະຫມອງຂອງເຈົ້າສັງເກດເຫັນມັນ 😊",
+      "ເຈົ້າເປັນຄວາມບັງເອີນທີ່ມີຄວາມສຸກທີ່ສຸດຂອງໃຜຜູ້ໜຶ່ງ.",
+      "ການພັກຜ່ອນໜ້ອຍໜຶ່ງກໍ່ເປັນສ່ວນໜຶ່ງຂອງວຽກເຊັ່ນກັນ. ໂທດຕົວເອງ - ແຕ່ຕົວຈິງແລ້ວ, ບໍ່.",
+      "ເຖິງວ່າສິ່ງທີ່ບໍ່ງ່າຍ ແຕ່ເຈົ້າເຮັດໄດ້ດີແທ້ 💛"
+    ],
+    "ms": [
+      "Tiada siapa yang boleh melakukan yang lebih baik daripada anda hari ini. Bukan awak pun 😄",
+      "Senyuman anda menerangi bilik. Cubalah, lihat cermin!",
+      "Setiap pencapaian hebat bermula dengan langkah kecil. Anda sudah dalam perjalanan.",
+      "Hari-hari sukar berlalu, tetapi anda kekal. Itulah kekuatan.",
+      "Anda berhutang secawan teh hari ini ☕",
+      "Anda mampu melakukan lebih daripada yang anda fikirkan.",
+      "Tarik nafas dalam-dalam. Semuanya akan jatuh pada tempatnya.",
+      "Mungkin seseorang memikirkan anda dan tersenyum hari ini, mungkin tadi.",
+      "Anda tidak perlu menjadi sempurna. Anda sudah cukup seperti anda.",
+      "Cari satu kegembiraan kecil hari ini: cahaya matahari, muzik, sesuatu yang manis 🍫",
+      "Tenaga anda menjimatkan beberapa orang sepanjang hari.",
+      "Perkara yang baik sedang dalam perjalanan. Mereka hanya menunggu anda untuk bersedia.",
+      "Bangga dengan diri sendiri. Semalam sudah berakhir, hari ini milik anda!",
+      "Setiap pagi adalah halaman baru. Pen ada di tangan anda ✏️",
+      "Senyumlah walaupun hanya sedikit. Otak anda perasan 😊",
+      "Anda adalah kebetulan yang paling menggembirakan seseorang.",
+      "Rehat sedikit adalah sebahagian daripada kerja juga. Salahkan diri sendiri-tetapi sebenarnya, jangan.",
+      "Walaupun keadaan tidak mudah, anda melakukannya dengan sangat baik 💛"
+    ],
+    "fil": [
+      "Walang sinuman ang maaaring gumawa ng mas mahusay kaysa sa iyo ngayon. Kahit hindi ikaw 😄",
+      "Ang iyong ngiti ay nagbibigay liwanag sa silid. Subukan ito, tumingin sa salamin!",
+      "Ang bawat mahusay na tagumpay ay nagsimula sa isang maliit na hakbang. Papunta ka na.",
+      "Lumipas ang mahihirap na araw, ngunit nananatili ka. Yan ang lakas.",
+      "May utang ka sa iyong sarili ng isang tasa ng tsaa ngayon ☕",
+      "May kakayahan ka ng higit pa sa inaakala mo.",
+      "Huminga ng malalim. Ang lahat ay mahuhulog sa lugar.",
+      "Baka may nakaisip sa iyo at ngumiti ngayon, marahil ngayon lang.",
+      "Hindi mo kailangang maging perpekto. Ikaw ay sapat na bilang ikaw.",
+      "Maghanap ng isang maliit na kagalakan ngayon: sikat ng araw, musika, isang bagay na matamis 🍫",
+      "Ang iyong enerhiya ay nakakatipid sa buong araw ng ilang tao.",
+      "Ang mga magagandang bagay ay paparating na. Hinihintay ka lang nilang maging handa.",
+      "Ipagmalaki ang iyong sarili. Tapos na ang kahapon, sayo na ngayon!",
+      "Tuwing umaga ay isang bagong pahina. Ang panulat ay nasa iyong kamay ✏️",
+      "Ngumiti kahit konti. Napapansin ng utak mo 😊",
+      "Ikaw ang pinakamasayang pagkakataon ng isang tao.",
+      "Bahagi rin ng trabaho ang kaunting pahinga. Sisihin ang iyong sarili-ngunit sa totoo, huwag.",
+      "Kahit na ang mga bagay ay hindi madali, ikaw ay talagang mahusay 💛"
+    ],
+    "jv": [
+      "Ora ana sing bisa nindakake luwih apik tinimbang sampeyan saiki. Ora malah kowe 😄",
+      "Esemmu madhangi kamar. Coba, delengen ing pangilon!",
+      "Saben prestasi gedhe diwiwiti kanthi langkah cilik. Sampeyan wis ing dalan.",
+      "Dina sing angel liwat, nanging sampeyan tetep. Kuwi kekuwatan.",
+      "Sampeyan utang secangkir teh dina iki ☕",
+      "Sampeyan bisa luwih saka sing sampeyan pikirake.",
+      "Ambegan jero. Kabeh bakal tiba ing panggonane.",
+      "Mungkin ana sing mikir sampeyan lan mesem dina iki, mbok menawa saiki.",
+      "Sampeyan ora perlu sing sampurna. Sampeyan cukup kaya sampeyan.",
+      "Temokake kabungahan cilik dina iki: sinar matahari, musik, sing manis 🍫",
+      "Energi sampeyan ngirit sedina muput sawetara wong.",
+      "Kabecikan wis ana ing dalan. Dheweke mung ngenteni sampeyan siap.",
+      "Bangga dhewe. Wingi wis rampung, dina iki sampeyan!",
+      "Saben esuk ana kaca anyar. Pena ana ing tanganmu ✏️",
+      "Mesem senajan mung sethithik. Otakmu ra ngerti 😊",
+      "Sampeyan minangka kebetulan sing paling nyenengake.",
+      "Istirahat sakedhik ugi minangka bagian saking padamelan. Nyalahke dhewe-nanging bener, aja.",
+      "Sanajan ora gampang, sampeyan nindakake kanthi apik 💛"
+    ],
+    "su": [
+      "Teu aya anu tiasa ngalakukeun anu langkung saé tibatan anjeun ayeuna. Henteu komo anjeun 😄",
+      "Seuri anjeun nyaangan kamar. Coba, tingali dina eunteung!",
+      "Unggal prestasi hébat dimimitian ku léngkah leutik. Anjeun geus di jalan Anjeun.",
+      "Poé-poé susah kaliwat, tapi anjeun tetep. Éta kakuatan.",
+      "Anjeun ngahutang sacangkir tea dinten ayeuna ☕",
+      "Anjeun sanggup leuwih ti nu disangka.",
+      "Tarik napas jero. Sagalana bakal tumiba kana tempat.",
+      "Panginten aya anu nganggap anjeun sareng seuri ayeuna, panginten ayeuna.",
+      "Anjeun teu kedah sampurna. Anjeun cukup sakumaha anjeun.",
+      "Teangan hiji kabagjaan saeutik ayeuna: cahaya panonpoe, musik, hal anu manis 🍫",
+      "Énergi anjeun ngahémat sadinten sababaraha urang.",
+      "Hal-hal anu saé nuju di jalan. Aranjeunna ngan ngantosan anjeun siap.",
+      "Bangga diri sorangan. Kamari parantos réngsé, ayeuna milik anjeun!",
+      "Unggal isuk aya kaca anyar. Pulpen aya dina panangan anjeun ✏️",
+      "Seuri, sanajan ngan saeutik. Otak anjeun merhatikeunana 😊",
+      "Anjeun kabeneran paling bagja batur.",
+      "Istirahat sakedik mangrupikeun bagian tina padamelan ogé. Nyalahkeun diri-tapi sabenerna, ulah.",
+      "Sanaos hal-hal henteu gampang, anjeun ngalakukeun saé pisan 💛"
+    ],
+    "am": [
+      "ዛሬ ካንተ በላይ ማንም ሊያደርግ አይችልም ነበር። አንተ እንኳን 😄",
+      "ፈገግታህ ክፍሉን ያበራል። ይሞክሩት, በመስታወት ውስጥ ይመልከቱ!",
+      "እያንዳንዱ ታላቅ ስኬት በትንሽ እርምጃ ተጀምሯል። አስቀድመው በመንገድዎ ላይ ነዎት።",
+      "አስቸጋሪ ቀናት ያልፋሉ፣ አንተ ግን ትቀራለህ። ያ ጥንካሬ ነው።",
+      "ዛሬ አንድ ኩባያ ሻይ እዳ አለብህ ☕",
+      "ከምታስበው በላይ አቅም አለህ።",
+      "በጥልቀት ይተንፍሱ። ሁሉም ነገር በቦታው ላይ ይወድቃል.",
+      "ምናልባት አንድ ሰው አስቦህ ዛሬ ፈገግ ብሎ ምናልባት አሁን።",
+      "ፍጹም መሆን አያስፈልግም። እንዳለህ በቂ ነህ።",
+      "ዛሬ አንድ ትንሽ ደስታን አግኝ፡ ፀሀይ፣ ሙዚቃ፣ ጣፋጭ ነገር 🍫",
+      "ጉልበትህ የአንዳንድ ሰዎችን ቀኑን ሙሉ ይቆጥባል።",
+      "መልካም ነገሮች በመንገዳቸው ላይ ናቸው። እርስዎ ዝግጁ እንዲሆኑ ብቻ እየጠበቁ ናቸው።",
+      "በራስህ ኩራት። ትላንት አልፏል ዛሬ ያንተ ነው!",
+      "ሁልጊዜ ጠዋት አዲስ ገጽ ነው። ብዕሩ በእጅህ ነው ✏️",
+      "ትንሽም ቢሆን ፈገግ ይበሉ። አእምሮህ ያስተውለዋል 😊",
+      "እርስዎ የአንድ ሰው በጣም ደስተኛ የአጋጣሚ ነገር ነዎት።",
+      "ትንሽ እረፍትም የስራው አካል ነው። እራስህን ውቀስ - ግን በእውነቱ ፣ አታድርግ።",
+      "ነገሮች ቀላል በማይሆኑበት ጊዜም ጥሩ እየሰሩ ነው 💛"
+    ],
+    "so": [
+      "Qofna ma samayn karo wax kaa fiican maanta. xataa adiga 😄",
+      "Dhoola cadeyntaada ayaa iftiimisay qolka. Isku day, muraayadda ka eeg!",
+      "Guul kasta oo weyn waxay ku bilaabantay tallaabo yar. Durba waad soo socotaa.",
+      "Maalmo adag ayaa dhaafa, laakiin waad sii jirtaa. Taasi waa xoog.",
+      "Maanta waxaa lagugu leeyahay koob shaah ah ☕",
+      "Waxaad awood u leedahay in ka badan intaad u malaynayso.",
+      "Neef dheer qaad. Wax walba meeshay ku dhici doonaan.",
+      "Waxaa laga yaabaa in qof ku fekeray oo dhoola caddeeyey maanta, laga yaabee hadda.",
+      "Uma baahnid inaad qummanaato. Waad ku filan tahay sidaad tahay.",
+      "Hel hal farxad yar maanta: qorrax, muusig, wax macaan 🍫",
+      "Tamartaadu waxay badbaadisaa dadka qaarkood maalinta oo dhan.",
+      "Waxyaabo wanaagsan ayaa ku socda. Waxay ku sugayaan kaliya inaad diyaar ahaato.",
+      "Ku faan naftaada. Shalay waa dhamaatay, maanta adigaa leh!",
+      "Subax walba waa bog cusub. Qalinku gacantaada ayuu ku jiraa✏️",
+      "Dhoola cadeyn, xitaa haddii ay wax yar tahay. Maskaxdaadu way ogaataa 😊",
+      "Waxaad tahay shilka qof ee ugu farxadda badan.",
+      "Nasasho yar ayaa sidoo kale qayb ka ah shaqada. Naftaada canaan—laakin dhab ahaantii, ha samayn.",
+      "Xataa marka arrimuhu aanay sahlanayn, runtii aad ayaad u wanaagsan tahay 💛"
+    ],
+    "ha": [
+      "Ba wanda zai iya yin abin da ya fi ku a yau. Ba ku ma 😄",
+      "Murmushin ku ya haska dakin. Gwada shi, duba cikin madubi!",
+      "Duk wata babbar nasara ta fara ne da karamin mataki. Kun riga kun kan hanya.",
+      "Kwanaki masu wahala sun shude, amma kun kasance. Wannan shine karfi.",
+      "Kunsha ruwan shayi yau ☕",
+      "Kuna iya fiye da yadda kuke zato.",
+      "Yi dogon numfashi. Komai zai fada wurin.",
+      "Watakila wani ya yi tunaninka ya yi murmushi yau, watakila yanzu.",
+      "Ba kwa buƙatar zama cikakke. Kun isa kamar yadda kuke.",
+      "Nemo ɗan farin ciki ɗaya a yau: hasken rana, kiɗa, wani abu mai daɗi 🍫",
+      "Ƙarfin ku yana ceton wasu mutane dukan yini.",
+      "Abubuwa masu kyau suna kan hanya. Suna jiran ku kawai ku kasance cikin shiri.",
+      "Yi alfahari da kanku. Jiya ta kare, yau naku ne!",
+      "Kowace safiya sabon shafi ne. Alkalami yana hannunka ✏️",
+      "Yi murmushi, koda kadan. Kwakwalwar ku ta lura dashi 😊",
+      "Kai ne wanda ya fi kowa farin ciki daidaituwa.",
+      "Hutu kadan yana cikin aikin shima. Ka zargi kanka-amma a zahiri, kar a yi.",
+      "Ko da abubuwa ba su da sauƙi, kana da kyau sosai 💛"
+    ],
+    "yo": [
+      "Ko si ẹnikan ti o le ṣe daradara ju iwọ lọ loni. Ko paapaa iwọ 😄",
+      "Ẹrin rẹ tan imọlẹ yara naa. Gbiyanju o, wo ninu digi!",
+      "Gbogbo aṣeyọri nla bẹrẹ pẹlu igbesẹ kekere kan. O ti wa ni ọna rẹ tẹlẹ.",
+      "Awọn ọjọ lile kọja, ṣugbọn o wa. Agbara niyen.",
+      "O je ara re ni ife tii loni ☕",
+      "O lagbara ju bi o ti ro lọ.",
+      "Simi jin. Ohun gbogbo yoo subu sinu ibi.",
+      "Boya ẹnikan ronu rẹ o rẹrin musẹ loni, boya ni bayi.",
+      "O ko nilo lati jẹ pipe. O ti to bi o ṣe jẹ.",
+      "Wa ayo kekere kan loni: oorun, orin, nkan ti o dun 🍫",
+      "Agbara rẹ ṣafipamọ diẹ ninu awọn eniyan ni gbogbo ọjọ.",
+      "Awọn ohun rere wa lori ọna wọn. Wọn kan n duro de ọ lati ṣetan.",
+      "Ṣe igberaga fun ara rẹ. Lana ti pari, oni ni tirẹ!",
+      "Gbogbo owurọ jẹ oju-iwe tuntun. Ikọwe naa wa ni ọwọ rẹ ✏️",
+      "Ẹrin, paapaa ti o ba jẹ diẹ. Ọpọlọ rẹ ṣe akiyesi rẹ 😊",
+      "O jẹ ijamba idunnu julọ ti ẹnikan.",
+      "Isinmi diẹ jẹ apakan ti iṣẹ naa. Da ara rẹ lẹbi-ṣugbọn ni otitọ, maṣe.",
+      "Kódà nígbà tí nǹkan kò bá rọrùn, ẹ ṣe dáadáa gan-an 💛"
+    ],
+    "ig": [
+      "O nweghị onye gaara eme nke ọma karịa gị taa. Ọbụghịkwa gị 😄",
+      "Ọchị ọchị gị na-enwu n'ime ụlọ ahụ. Gbalịa ya, lee anya n'enyo!",
+      "Nnukwu mmezu ọ bụla malitere site na obere nzọụkwụ. Ị na-agalarị ụzọ gị.",
+      "Ụbọchị siri ike gafere, mana ị ga-anọ. Nke ahụ bụ ike.",
+      "Ị ji onwe gị otu iko tii taa ☕",
+      "Ị nwere ike karịa ka ị chere.",
+      "Nwee ume miri emi. Ihe niile ga-adaba ebe.",
+      "Ma eleghị anya, mmadụ chere gị ọnụ ọchị taa, ikekwe ugbu a.",
+      "Ọ dịghị mkpa ka ị zuo oke. I zuru oke ka ị dị.",
+      "Chọta otu obere ọṅụ taa: anwụ anwụ, egwu, ihe na-atọ ụtọ 🍫",
+      "Ike gị na-azọpụta ụfọdụ mmadụ ụbọchị dum.",
+      "Ihe ọma na-aga. Ha na-eche naanị ka ị dịrị njikere.",
+      "Na-anya onwe gị isi. Ụnyaahụ agwụla, taa bụ nke gị!",
+      "Ụtụtụ ọ bụla bụ ibe ọhụrụ. Mkpịsị akwụkwọ dị gị n'aka ✏️",
+      "Na-achị ọchị, ọ bụrụgodị na ọ dị ntakịrị. Ụbụrụ gị na-ahụ ya 😊",
+      "Ị bụ ihe ndakọrịta kacha nwee obi ụtọ.",
+      "Obere ezumike bụkwa akụkụ nke ọrụ ahụ. Ata onwe gị ụta-ma n'ezie, emela.",
+      "Ọbụna mgbe ihe adịghị mfe, ị na-eme nke ọma 💛"
+    ],
+    "zu": [
+      "Akekho umuntu obengenza kangcono kunawe namuhla. Ngisho nawe 😄",
+      "Ukumamatheka kwakho kukhanyisa igumbi. Zama, bheka esibukweni!",
+      "Yonke impumelelo enkulu iqale ngesinyathelo esincane. Usuvele usendleleni.",
+      "Kudlula izinsuku ezinzima, kodwa usala. Amandla lawo.",
+      "Uzikweleta inkomishi yetiye namuhla ☕",
+      "Uyakwazi okungaphezu kwalokho okucabangayo.",
+      "Adonse umoya kakhulu. Konke kuzongena endaweni.",
+      "Mhlawumbe othile ucabange ngawe futhi wamamatheka namuhla, mhlawumbe manje.",
+      "Awudingi ukuphelela. Wanele njengoba unjalo.",
+      "Thola intokozo eyodwa encane namuhla: ukukhanya kwelanga, umculo, okuthile okumnandi 🍫",
+      "Amandla akho onga usuku lonke lwabanye abantu.",
+      "Izinto ezinhle zisendleleni. Balinde nje ukuthi ulungele.",
+      "Ziqhenye ngawe. Izolo liphelile, namuhla elakho!",
+      "Njalo ekuseni yikhasi elisha. Ipeni lisesandleni sakho ✏️",
+      "Mamatheka, noma kancane. Ingqondo yakho iyakubona 😊",
+      "Uyisenzakalo esijabulisa kakhulu somunye umuntu.",
+      "Ukuphumula kancane nakho kuyingxenye yomsebenzi. Zibeke icala—kodwa empeleni, ungakwenzi.",
+      "Ngisho noma izinto zingelula, wenza kahle kakhulu 💛"
+    ],
+    "xh": [
+      "Akukho mntu wayenokwenza ngcono kunawe namhlanje. Hayi nawe 😄",
+      "Uncumo lwakho lukhanyisa igumbi. Zama, jonga esipilini!",
+      "Yonke impumelelo enkulu iqale ngenyathelo elincinci. Sele usendleleni.",
+      "Kudlula iintsuku ezinzima, kodwa uhleli. Oko ngamandla.",
+      "Uzityala ikomityi yeti namhlanje ☕",
+      "Uyakwazi ukwenza ngaphezulu kunokuba ucinga.",
+      "Thatha umoya onzulu. Yonke into iya kuwela endaweni.",
+      "Mhlawumbi umntu ebecinga ngawe kwaye wancuma namhlanje, mhlawumbi ngoku.",
+      "Awudingi ukuba ugqibelele. Wanele njengokuba unjalo.",
+      "Fumana uvuyo olunye oluncinci namhlanje: ilanga, umculo, into emnandi 🍫",
+      "Amandla akho agcina imini yonke yabanye abantu.",
+      "Izinto ezintle zisendleleni. Balinde nje ukuba ube ulungile.",
+      "Zingce ngawe. Izolo liphelile, namhlanje yeyakho!",
+      "Rhoqo kusasa liphepha elitsha. Usiba lusesandleni sakho ✏️",
+      "Ncuma, nokuba kuncinci. Ingqondo yakho iyayibona 😊",
+      "Ungoyena mntu uvuyisayo wenzeke.",
+      "Ukuphumla kancinci yinxalenye yomsebenzi nako. Zibeke ityala-kodwa ngokwenene, musa.",
+      "Nokuba izinto zingekho lula, wenza kakuhle kakhulu 💛"
+    ],
+    "af": [
+      "Niemand kon vandag beter gedoen het as jy nie. Nie eers jy nie 😄",
+      "Jou glimlag verlig die kamer. Probeer dit, kyk in die spieël!",
+      "Elke groot prestasie het met 'n klein tree begin. Jy is reeds op pad.",
+      "Moeilike dae gaan verby, maar jy bly. Dit is krag.",
+      "Jy skuld jouself vandag 'n koppie tee ☕",
+      "Jy is tot meer in staat as wat jy dink.",
+      "Haal diep asem. Alles sal in plek val.",
+      "Miskien het iemand vandag aan jou gedink en geglimlag, dalk net nou.",
+      "Jy hoef nie perfek te wees nie. Jy is genoeg soos jy is.",
+      "Vind vandag een klein vreugde: sonskyn, musiek, iets soets 🍫",
+      "Jou energie spaar sommige mense se hele dag.",
+      "Goeie dinge is op pad. Hulle wag net vir jou om gereed te wees.",
+      "Wees trots op jouself. Gister is verby, vandag is joune!",
+      "Elke oggend is 'n nuwe bladsy. Die pen is in jou hand ✏️",
+      "Glimlag, al is dit net 'n bietjie. Jou brein sien dit raak 😊",
+      "Jy is iemand se gelukkigste toeval.",
+      "'n Bietjie rus is ook deel van die werk. Blameer jouself - maar eintlik, moenie.",
+      "Selfs wanneer dinge nie maklik is nie, doen jy regtig goed 💛"
+    ],
+    "st": [
+      "Ha ho motho ea ka beng a entse betere ho u feta kajeno. Eseng le wena 😄",
+      "pososelo ea hau e khantša kamore. E leke, sheba seiponeng!",
+      "Katleho e 'ngoe le e 'ngoe e kholo e qalile ka mohato o monyane. O se o le tseleng.",
+      "Matsatsi a thata a feta, empa u ntse u le teng. Seo ke matla.",
+      "U ikolota kopi ea tee kajeno ☕",
+      "O khona ho feta kamoo o nahanang.",
+      "Ho hema haholo. Ntho e 'ngoe le e 'ngoe e tla oela sebakeng.",
+      "Mohlomong motho o nahanne ka uena mme a bososela kajeno, mohlomong hona joale.",
+      "Ha ho hlokahale hore u be ea phethahetseng. U lekane kamoo u leng kateng.",
+      "Fumana thabo e le 'ngoe kajeno: khanya ea letsatsi, 'mino, ntho e monate 🍫",
+      "Matla a hau a boloka batho ba bang letsatsi lohle.",
+      "Lintho tse ntle li tseleng. Ba emetse feela hore o itokise.",
+      "Ithabise ka uena. Maobane a felile, kajeno ke la hau!",
+      "Hoseng ho hong le ho hong ke leqephe le lecha. Pene e letsohong la hao ✏️",
+      "Pososela, leha e le hanyane. Kelello ea hau ea e hlokomela 😊",
+      "U ketsahalo e monate ka ho fetisisa ea motho e mong.",
+      "Ho phomola hanyenyane le hona ke karolo ea mosebetsi. Ipehele molato-empa ha e le hantle, u se ke ua etsa joalo.",
+      "Le ha lintho li se bonolo, u ntse u sebetsa hantle haholo 💛"
+    ],
+    "tn": [
+      "Ga go ope yo o neng a ka dira botoka go feta wena gompieno. Le wena 😄 .",
+      "Monyenyo wa gago o bonesa phaposi. E leke, iteba mo seiponeng!",
+      "Phitlhelelo nngwe le nngwe e kgolo e simolotse ka kgato e nnye. O setse o le mo tseleng.",
+      "Malatsi a a thata a a feta, mme o sala. Seo ke maatla.",
+      "O ikolota kopi ya tee gompieno ☕ .",
+      "O kgona go feta ka fa o akanyang ka teng.",
+      "Hemela kwa teng. Sengwe le sengwe se tla wela mo mannong a sone.",
+      "Gongwe mongwe o go akantse mme a nyenya gompieno, gongwe gone jaanong fela.",
+      "Ga o tlhoke go itekanela. O lekane jaaka o ntse.",
+      "Batla boitumelo jo bonnye bo le bongwe gompieno: letsatsi, mmino, sengwe se se monate 🍫 .",
+      "Maatla a gago a boloka batho bangwe letsatsi lotlhe.",
+      "Dilo tse di molemo di mo tseleng. Ba emetse fela gore o ipaakanye.",
+      "Nna motlotlo ka wena. Maabane o fedile, gompieno ke wa gago!",
+      "Moso mongwe le mongwe ke tsebe e ntšhwa. Pene e mo seatleng sa gago ✏️ .",
+      "Nyenya, le fa e le go le gonnye fela. Boboko jwa gago bo a e lemoga 😊 .",
+      "O tshoganyetso e e itumedisang thata ya mongwe.",
+      "Go ikhutsa go se kae le gone ke karolo ya tiro. Ipeye molato—mme tota o se ka wa dira jalo.",
+      "Le fa dilo di se bonolo, o dira sentle tota 💛 ."
+    ],
+    "ts": [
+      "A nga kona loyi a nga endla ku antswa ku tlula wena namuntlha. Hambi ku ri wena 😄",
+      "Ku n'wayitela ka wena ku voninga kamara. Ringeta, languta exivonini!",
+      "Ku humelela kun'wana na kun'wana lokukulu ku sungule hi goza leritsongo. Se u le ndleleni ya wena.",
+      "Masiku yo tika ya hundza, kambe u sala. Sweswo i matimba.",
+      "U ti kolota khapu ya tiya namuntlha ☕",
+      "U na vuswikoti byo tlula leswi u swi ehleketaka.",
+      "Hefemulela ehenhla. Hinkwaswo swi ta wela endhawini ya swona.",
+      "Kumbexana munhu un'wana u ku ehleketile a n'wayitela namuntlha, kumbexana sweswi ntsena.",
+      "A swi bohi leswaku u va la hetisekeke. U ringanile hilaha u nga hakona.",
+      "Kuma ntsako wun'we lowuntsongo namuntlha: dyambu, vuyimbeleri, swin'wana swo nandziha 🍫",
+      "Matimba ya wena ya hlayisa siku hinkwaro ra vanhu van’wana.",
+      "Swilo swa kahle swi le ndleleni. Va ku rindzele ntsena leswaku u lunghekela.",
+      "Tinyungubyisa hi wena n'wini. Tolo ri herile, namuntlha i ra wena!",
+      "Mixo wun'wana na wun'wana i pheji leyintshwa. Peni yi le vokweni ra wena ✏️",
+      "N’wayitela, hambi ku ri nyana. Byongo bya wena byi swi xiya 😊",
+      "U munhu wo tsakisa swinene hi xiwelo.",
+      "Ku wisa nyana i xiphemu xa ntirho na swona. Tisola—kambe entiyisweni, u nga endli tano.",
+      "Hambi loko swilo swi nga olovi, u endla kahle swinene 💛"
+    ],
+    "ny": [
+      "Palibe amene akanachita bwino kuposa inu lero. Ngakhale inu 😄",
+      "kumwetulira kwanu kumawunikira chipindacho. Yesani, yang'anani pagalasi!",
+      "Kupambana kulikonse kwakukulu kudayamba ndi gawo laling'ono. Mwanyamuka kale.",
+      "Masiku ovuta amapita, koma mumakhalabe. Imeneyo ndiyo mphamvu.",
+      "Muli ndi ngongole ya kapu ya tiyi lero ☕",
+      "Ndiwe wokhoza kuposa momwe mukuganizira.",
+      "Pumirani mozama. Chilichonse chidzagwa m'malo mwake.",
+      "Mwina wina anaganiza za inu ndikumwetulira lero, mwina pompano.",
+      "Simuyenera kukhala wangwiro. Inu ndinu okwanira monga inu muliri.",
+      "Pezani chisangalalo pang'ono lero: kuwala kwadzuwa, nyimbo, china chokoma 🍫",
+      "Mphamvu zanu zimapulumutsa anthu ena tsiku lonse.",
+      "Zinthu zabwino zili m'njira. Akungoyembekezera kuti mukhale okonzeka.",
+      "Dzinyadileni nokha. Dzulo latha, lero ndi lanu!",
+      "M'mawa uliwonse ndi tsamba latsopano. Cholembera chili m'manja mwako ✏️",
+      "Kumwetulirani, ngakhale pang'ono. Ubongo wanu umazindikira 😊",
+      "Ndiwe mwayi wosangalatsa wa munthu wina.",
+      "Kupuma pang'ono ndi gawo la ntchito nakonso. Dzidzudzuleni-koma kwenikweni, musatero.",
+      "Ngakhale zinthu zitakhala zovuta, mukuchita bwino kwambiri 💛"
+    ],
+    "rw": [
+      "Ntamuntu numwe washoboraga gukora ibyiza kukurusha uyumunsi. Ndetse nawe 😄",
+      "Umwenyura wawe ucana icyumba. Gerageza, reba mu ndorerwamo!",
+      "Ibyagezweho byose byatangiranye nintambwe nto. Usanzwe munzira yawe.",
+      "Iminsi irashize, ariko urahaguma. Izo ni imbaraga.",
+      "Ufite umwenda w'icyayi uyumunsi ☕",
+      "Urashoboye ibirenze ibyo utekereza.",
+      "Humura. Ibintu byose bizahinduka.",
+      "Birashoboka ko umuntu yagutekereje akamwenyura uyumunsi, wenda nonaha.",
+      "Ntugomba kuba intungane. Urahagije nkuko uri.",
+      "Shakisha umunezero muto uyumunsi: izuba, umuziki, ikintu cyiza 🍫",
+      "Imbaraga zawe zikiza abantu bamwe umunsi wose.",
+      "Ibintu byiza biri munzira zabo. Barindiriye gusa ko witeguye.",
+      "Ishimire wenyine. Ejo birarangiye, uyumunsi nuwawe!",
+      "Buri gitondo ni page nshya. Ikaramu iri mu kuboko kwawe ✏️",
+      "Kumwenyura, nubwo byaba bike. Ubwonko bwawe burabibona 😊",
+      "Urahuye numuntu wishimye.",
+      "Kuruhuka gato ni igice cyakazi. Wishinje - ariko mubyukuri, ntukore.",
+      "Nubwo ibintu bitoroshye, uba ukora neza 💛"
+    ],
+    "rn": [
+      "Nta n’umwe yari gukora neza kuruta wewe uno musi. Na wewe nyene 😄 .",
+      "Intwengo yawe iramurikira icumba. Gerageza, urabe mu cirore!",
+      "Ico umuntu ashikako gikomeye cose gitangura n’intambwe ntoyi. Uramaze kuja mu nzira.",
+      "Imisi igoye irahera, ariko wewe ugumaho. Ukwo ni kwo gukomeza.",
+      "Ufise umwenda w'igikombe c'icayi uno musi ☕ .",
+      "Urashoboye ibirenze ivyo wiyumvira.",
+      "Uhumeke cane. Ivyo vyose bizogwa mu kibanza cavyo.",
+      "Kumbure hari uwakwiyumviriye akamwenyura uno musi, kumbure ubu nyene.",
+      "Ntukeneye kuba uwutunganye. Urahagije nk’uko uri.",
+      "Rondera umunezero umwe muto uno musi: umuco w'izuba, umuziki, ikintu gisosa 🍫 .",
+      "Inguvu zawe zikiza abantu bamwebamwe umusi wose.",
+      "Ivyiza biri mu nzira. Barindiriye gusa ko witegura.",
+      "Niwishime. Ejo iraheze, uno musi ni uwawe!",
+      "Buri gitondo ni urupapuro rushasha. Ikaramu iri mu kuboko kwawe ✏️ .",
+      "Twengera, naho vyoba bike gusa. Ubwonko bwawe burabibona 😊 .",
+      "Uri umuntu anezerewe kuruta abandi bose.",
+      "Ukuruhuka gatoyi na kwo nyene ni kimwe mu bigize igikorwa. Niwicirire urubanza—ariko mu vy’ukuri, ntubigire.",
+      "N'igihe ibintu bitoroshe, vy'ukuri uba uriko uragenda neza 💛 ."
+    ],
+    "lg": [
+      "Tewali muntu yenna yandikoze bulungi okukusinga leero. Si wadde ggwe 😄",
+      "Akamwenyumwenyu kwo kaaka ekisenge. Gezaako, laba mu ndabirwamu!",
+      "Buli buwanguzi obunene bwatandika n'omutendera omutono. Obadde dda mu kkubo lyo.",
+      "Ennaku enzibu ziyitawo, naye osigala. Ekyo ge maanyi.",
+      "Obanja ekikopo kya caayi leero ☕",
+      "Osobola okukola ebisinga ku by'olowooza.",
+      "Fuuwa omukka omungi. Buli kimu kijja kugwa mu kifo.",
+      "Mpozzi waliwo eyakulowoozezzaako n'amwenya leero, mpozzi kati.",
+      "Teweetaaga kuba mutuukirivu. Ggwe omala nga bw’oli.",
+      "Funa essanyu erimu akatono leero: omusana, omuziki, ekintu ekiwooma 🍫",
+      "Amaanyi go gawonya abantu abamu olunaku lwonna.",
+      "Ebintu ebirungi biri mu kkubo. Bakulindiridde kubeera mwetegefu.",
+      "Weenyumirizaamu. Eggulo liwedde, leero wuwo!",
+      "Buli ku makya wa muko omupya. Ekkalaamu eri mu ngalo ✏️",
+      "Smile, ne bwe kiba kitono. Obwongo bwo bukyetegereza 😊",
+      "Oli muntu asinga essanyu coincidence.",
+      "Okuwummulako katono nakyo kitundu ku mulimu. Weenenye —naye mu butuufu, tokola.",
+      "Ebintu nebwebiba tebyangu, oba okola bulungi ddala 💛"
+    ],
+    "ti": [
+      "ሎሚ ካባኻ ዝሓሸ ክሰርሕ ዝኽእል ሰብ ኣይነበረን። ዋላ ንስኻትኩም 😄",
+      "ፍሽኽታኻ ነቲ ክፍሊ የብርሆ። ፈትኖ፡ ኣብ መስትያት ርአ!",
+      "ኩሉ ዓቢ ዓወት ብንእሽቶ ስጉምቲ እዩ ጀሚሩ። ድሮ ኣብ መንገድኻ ኣለኻ።",
+      "ከቢድ መዓልታት ይሓልፍ፡ ንስኻ ግን ትጸንሕ። ንሱ እዩ ሓይሊ።",
+      "ሎሚ ንሓንቲ ኩባያ ሻሂ ንነብስኻ ዕዳ ኣለካ ☕",
+      "ካብቲ እትሓስቦ ንላዕሊ ዓቕሚ ኣለካ።",
+      "ኣዕሚቕካ ኣስተንፍስ። ኩሉ ኣብ ቦታኡ ክወድቕ እዩ።",
+      "ምናልባት ሎሚ ሓደ ሰብ ሓሲቡ ፍሽኽ ኢሉካ ይኸውን ምናልባት ሕጂ ጥራይ።",
+      "ፍጹም ምዃን ኣየድልየካን እዩ። ከም ዘለኻዮ እኹል ኢኻ።",
+      "ሎሚ ሓንቲ ንእሽቶ ሓጎስ ድለዩ፡ ጸሓይ፡ ሙዚቃ፡ ገለ ጥዑም 🍫",
+      "ጸዓትካ ንገለ ሰባት ምሉእ መዓልቲ ይቑጥብ።",
+      "ጽቡቕ ነገራት ኣብ መንገዲ ኣሎ። ድሉዋት ክትከውን ጥራይ እዮም ዝጽበዩኻ ዘለዉ።",
+      "ብነብስኻ ተሓበን። ትማሊ ተወዲኡ ሎሚ ናትካ!",
+      "ኩሉ ግዜ ንግሆ ሓድሽ ገጽ እዩ። እታ ብርዒ ኣብ ኢድካ እያ ✏️",
+      "ፍሽኽታ ዋላ ቁሩብ ጥራይ ይኹን። ሓንጎልካ የስተብህለሉ 😊",
+      "ናይ ሓደ ሰብ ዘሐጉስ ኣጋጣሚ ኢኻ።",
+      "ቁሩብ ዕረፍቲ እውን ኣካል ናይቲ ስራሕ እዩ። ንነብስኻ ወቐሳ-ብሓቂ ግን ኣይትውቀሳ።",
+      "ዋላ ነገራት ቀለልቲ ኣብ ዘይኮኑሉ እዋን ናይ ብሓቂ ጽቡቕ ትገብር ኣለኻ 💛"
+    ],
+    "om": [
+      "Har'a namni si caalu hojjechuu hin danda'u ture. Atillee miti 😄",
+      "Kolfi kee kutaa sana ibsa. Yaalaa, daawwitii keessa ilaalaa!",
+      "Bu'aan guddaan hundi tarkaanfii xiqqoo irraa eegalame. Duraanis karaa irra jirta.",
+      "Guyyoonni ciccimoon darba, ati garuu hafta. Sunis humna.",
+      "Har'a shaayii tokko of irraa qabda ☕",
+      "Waan yaadde caalaa dandeetti qabda.",
+      "Hafuura dheeraa baafadhu. Wanti hundi bakka isaatti ni kufa.",
+      "Tarii namni tokko si yaadee kolfe har'a tarii amma qofa.",
+      "Guutuu ta'uun si hin barbaachisu. Ati akkuma jirtutti gahaadha.",
+      "Har'a gammachuu xiqqoo tokko argadhu: aduu, muuziqaa, waan mi'aawaa 🍫",
+      "Humna kee guyyaa guutuu namoota tokko tokkoo qusata.",
+      "Wanti gaariin karaa irra jira. Qophaa'aa ta'uu kee qofa eegaa jiru.",
+      "Ofitti boonuu. Kaleessa dhume, har'a kan kee!",
+      "Ganama hunda fuula haaraa. Qalama harka kee keessa jira ✏️",
+      "Xiqqoo qofa yoo ta'ellee kolfaa. Sammuun kee ni hubata 😊",
+      "Ati akka tasaa nama gammachiisudha.",
+      "Boqonnaan xiqqoonis qaama hojiiti. Of komadhu—garuu dhugaa dubbachuuf, hin komatin.",
+      "Yeroo wanti salphaa ta'uu baatus dhuguma gaarii 💛 hojjechaa jirta"
+    ],
+    "ku": [
+      "Îro kesî nikarîbû ji te çêtir bikira. Ne tu jî 😄",
+      "Kenê te jûreyê ronî dike. Biceribînin, li neynikê binêrin!",
+      "Her serkeftinek mezin bi gavek piçûk dest pê kir. Jixwe hûn di rê de ne.",
+      "Rojên dijwar derbas dibin, lê tu dimînî. Ew hêz e.",
+      "Tu îro ji xwe re qedehek çayê deyndar ☕",
+      "Hûn ji ya ku hûn difikirin zêdetir dikarin bikin.",
+      "Nefesek kûr bistînin. Her tişt wê bikeve cihê xwe.",
+      "Dibe ku kesek îro li te bifikire û bişirî, belkî niha.",
+      "Ne hewce ye ku hûn bêkêmasî bin. Tu têra xwe yî.",
+      "Îro şahiyek piçûk bibînin: tav, muzîk, tiştek şîrîn 🍫",
+      "Enerjiya we tevahiya rojê hin kesan xilas dike.",
+      "Tiştên baş di rê de ne. Ew tenê li benda we ne ku hûn amade bin.",
+      "Bi xwe serbilind bin. Duh qediya, îro ya te ye!",
+      "Her sibe rûpelek nû ye. Qelem di destê we de ye ✏️",
+      "Bişirîn, her çend hindik be jî. Mêjiyê we pê dihese 😊",
+      "Tu tesadufa herî bextewar a kesekî yî.",
+      "Piçek bêhnvedan jî beşek ji xebatê ye. Xwe sûcdar bikin - lê bi rastî, nekin.",
+      "Tewra gava ku tişt ne hêsan in, hûn bi rastî baş dikin 💛"
+    ],
+    "ps": [
+      "نن هیڅوک نشي کولی ستاسو څخه ښه کار وکړي. حتی تاسو نه 😄",
+      "ستاسو موسکا کوټه روښانه کوي. دا هڅه وکړئ، په عکس کې وګورئ!",
+      "هره لویه لاسته راوړنه په کوچني ګام پیل کیږي. تاسو لا دمخه په لاره یاست.",
+      "سختې ورځې تیریږي، مګر ته پاتې کیږي. دا ځواک دی.",
+      "تاسو نن ورځ د چای یوه پیاله پور ورکوئ ☕",
+      "تاسو د فکر کولو څخه ډیر وړتیا لرئ.",
+      "ژوره ساه واخلئ. هرڅه به په خپل ځای کې راشي.",
+      "شاید یو چا ستاسو په اړه فکر کړی وي او نن موسکا کوي، شاید همدا اوس.",
+      "تاسو اړتیا نلرئ چې بشپړ اوسئ. تاسو کافي یاست لکه څنګه چې تاسو یاست.",
+      "نن یوه کوچنۍ خوښي ومومئ: لمر، موسیقي، یو څه خوږ 🍫",
+      "ستاسو انرژي د ځینو خلکو ټوله ورځ سپموي.",
+      "ښه شیان په لاره دي. دوی یوازې ستاسو چمتو کیدو ته انتظار باسي.",
+      "په خپل ځان وياړي. پرون تېر شو، نن ستا ده!",
+      "هر سهار یوه نوې پاڼه ده. قلم ستا په لاس کې دی ✏️",
+      "موسکا، حتی که لږ څه. ستاسو مغز ورته پام کوي 😊",
+      "تاسو د یو چا ترټولو خوشحاله تصادف یاست.",
+      "لږ استراحت هم د کار یوه برخه ده. خپل ځان ملامت کړئ - مګر په حقیقت کې، مه کوئ.",
+      "حتی کله چې شیان اسانه نه وي، تاسو واقعیا ښه کار کوئ 💛"
+    ],
+    "sd": [
+      "اڄ توهان کان بهتر ڪو به ٿي سگهي ٿو. تون به نه 😄",
+      "تنهنجي مسڪراهٽ ڪمري کي روشن ڪري ٿي. ڪوشش ڪريو، آئيني ۾ ڏسو!",
+      "هر وڏي ڪاميابي جي شروعات ننڍڙي قدم سان ٿيندي آهي. توھان اڳ ۾ ئي پنھنجي رستي تي آھيو.",
+      "ڏکيا ڏينهن گذري ويا، پر تون رهين. اها طاقت آهي.",
+      "توهان کي اڄ هڪ پيالي چانهه جو قرض آهي ☕",
+      "توھان ان کان وڌيڪ قابل آھيو جيترو توھان سوچيو.",
+      "هڪ ڊگهو سانس وٺو. سڀڪنھن شيء کي جاء ۾ اچي ويندو.",
+      "ٿي سگهي ٿو ڪنهن توهان جي باري ۾ سوچيو ۽ مسڪرايو اڄ، شايد هاڻي.",
+      "توهان کي مڪمل ٿيڻ جي ضرورت ناهي. توهان ڪافي آهيو جيئن توهان آهيو.",
+      "اڄ هڪ ننڍڙي خوشي ڳولهيو: سج جي روشني، موسيقي، ڪجهه مٺي 🍫",
+      "توهان جي توانائي ڪجهه ماڻهن جي سڄو ڏينهن بچائي ٿي.",
+      "سٺيون شيون انهن جي رستي تي آهن. اهي صرف توهان جي تيار ٿيڻ جو انتظار ڪري رهيا آهن.",
+      "پاڻ تي فخر ڪريو. ڪالهه گذري ويو، اڄ تنهنجو!",
+      "هر صبح هڪ نئون صفحو آهي. قلم توھان جي ھٿ ۾ آھي ✏️",
+      "مسڪرايو، جيتوڻيڪ ٿورو. توهان جو دماغ ان کي نوٽيس ڪري ٿو 😊",
+      "توهان ڪنهن جو خوشگوار اتفاق آهيو.",
+      "ٿورو آرام به ڪم جو حصو آهي. پاڻ کي ملامت ڪريو - پر اصل ۾، نه.",
+      "جيتوڻيڪ شيون آسان نه آهن، توهان واقعي سٺو ڪري رهيا آهيو 💛"
+    ],
+    "ug": [
+      "بۈگۈن ھېچكىم سىزدىن ياخشى قىلالمايتتى. ھەتتا سىزمۇ 😄",
+      "تەبەسسۇمىڭىز ئۆينى يورۇتۇپ بېرىدۇ. سىناپ بېقىڭ ، ئەينەككە قاراڭ!",
+      "ھەر بىر ئۇلۇغ مۇۋەپپەقىيەت كىچىك قەدەم بىلەن باشلاندى. ئاللىقاچان يولىڭىزغا كەلدىڭىز.",
+      "جاپالىق كۈنلەر ئۆتۈپ كەتتى ، ئەمما سىز قالىسىز. بۇ كۈچ.",
+      "بۈگۈن ئۆزىڭىزگە بىر ئىستاكان چاي قەرزدار",
+      "سىز ئويلىغاندىنمۇ كۆپ ئىقتىدارلىق.",
+      "چوڭقۇر نەپەس ئېلىڭ. ھەممە نەرسە جايىغا چۈشىدۇ.",
+      "بەلكىم بەزىلەر سىزنى ئويلاپ بۈگۈن كۈلۈمسىرەپ قويغان بولۇشى مۇمكىن.",
+      "مۇكەممەل بولۇشىڭىزنىڭ ھاجىتى يوق. سىز يېتەرلىك.",
+      "بۈگۈن ئازراق خۇشاللىق تېپىڭ: قۇياش نۇرى ، مۇزىكا ، تاتلىق نەرسە 🍫",
+      "سىزنىڭ ئېنېرگىيىڭىز بەزى كىشىلەرنىڭ پۈتۈن بىر كۈنىنى تېجەيدۇ.",
+      "ياخشى ئىشلار يولدا. ئۇلار پەقەت سىزنىڭ تەييارلىقىڭىزنى ساقلاۋاتىدۇ.",
+      "ئۆزىڭىزدىن پەخىرلىنىڭ. تۈنۈگۈن ئاخىرلاشتى ، بۈگۈن سىزنىڭ!",
+      "ھەر كۈنى ئەتىگەندە يېڭى بەت. قەلەم سىزنىڭ قولىڭىزدا",
+      "كۈلۈمسىرەڭ ، ئازراق بولسىمۇ. مېڭىڭىز ئۇنىڭغا دىققەت قىلىدۇ",
+      "سىز ئەڭ خۇشاللىنارلىق تاسادىپىيلىق.",
+      "ئازراق ئارام ئېلىشمۇ خىزمەتنىڭ بىر قىسمى. ئۆزىڭىزنى ئەيىبلەڭ ، ئەمما ئەمەلىيەتتە ئۇنداق قىلماڭ.",
+      "ئىشلار ئاسان بولمىسىمۇ ، سىز ھەقىقەتەن ياخشى قىلىسىز 💛"
+    ],
+    "bo": [
+      "དེ་རིང་ཁྱེད་ལས་ཡག་པོ་སུས་ཀྱང་བྱེད་ཐུབ་ཀྱི་མ་རེད། ཁྱེད་རང་ཡང་མ་རེད།",
+      "ཁྱེད་ཀྱི་འཛུམ་མདངས་ཀྱིས་ཁང་པའི་འོད་སྣང་འཕྲོས། ཚོད་ལྟ་བྱོས་དང་། མེ་ལོང་ལ་ལྟོས།",
+      "གྲུབ་འབྲས་ཆེན་པོ་རེ་རེ་ནི་གོམ་པ་ཆུང་ཆུང་ཞིག་ནས་འགོ་བཙུགས་པ་རེད། ཁྱེད་རང་ལམ་ལ་ཆས་ཟིན།",
+      "ཉིན་མོ་དཀའ་ཁག་ཅན་འདས་སོང་། འོན་ཀྱང་ཁྱོད་རང་ལུས་ཡོད། དེ་ནི་སྟོབས་ཤུགས་ཡིན།",
+      "ཁྱོད་ཀྱིས་དེ་རིང་ཇ་ཕོར་གང་འཐུང་དགོས།",
+      "ཁྱོད་ཀྱིས་བསམ་པ་ལས་ལྷག་པའི་ནུས་པ་ཡོད།",
+      "དབུགས་རིང་པོ་ཞིག་བཏང་། ཡོད་ཚད་གནས་སུ་ལྷུང་རྒྱུ་རེད།",
+      "གཅིག་བྱས་ན་མི་གཞན་ཞིག་གིས་ཁྱེད་ལ་བསམ་བློ་བཏང་ནས་དེ་རིང་འཛུམ་མདངས་ཤིག་བསྟན་ཡོད་སྲིད།",
+      "ཁྱེད་རང་ཡང་དག་པ་ཞིག་ཡིན་དགོས་དོན་མེད། ཁྱེད་རང་ཡོད་པ་ལྟར་འདང་ངེས་ཡིན།",
+      "དེ་རིང་སྐྱིད་སྣང་ཆུང་ཆུང་ཞིག་འཚོལ་རོགས། ཉི་འོད་དང་། རོལ་དབྱངས། མངར་མོ་ཞིག",
+      "ཁྱེད་ཀྱི་ནུས་ཤུགས་ཀྱིས་མི་འགའ་ཤས་ཀྱི་ཉིན་གང་བསྲུང་ཐུབ།",
+      "ཡག་པོ་རྣམས་ལམ་ལ་ཆས་ཡོད། ཁོང་ཚོས་ཁྱེད་རང་གྲ་སྒྲིག་བྱེད་པར་སྒུག་བཞིན་ཡོད།",
+      "རང་ཉིད་ལ་སྤོབས་པ་བྱོས། ཁ་སང་ཚར་སོང་། དེ་རིང་ཁྱོད་ལ་རེད།",
+      "ཞོགས་པ་རེ་རེ་ནི་ཤོག་བུ་གསར་བ་ཞིག་ཡིན། སྨྱུ་གུ་ཁྱེད་ཀྱི་ལག་ཏུ་ཡོད།✏️",
+      "འཛུམ་མདངས་ཅུང་ཙམ་ཡིན་ནའང་། ཁྱེད་ཀྱི་ཀླད་པས་དོ་སྣང་བྱེད་ཐུབ།",
+      "ཁྱེད་རང་མི་གཞན་གྱི་བདེ་སྐྱིད་ཆེ་ཤོས་ཀྱི་དུས་མཚུངས་ཡིན།",
+      "ངལ་གསོ་ཆུང་ཆུང་ཞིག་ཀྱང་ལས་ཀའི་ཆ་ཤས་ཤིག་རེད། ཁྱེད་རང་ལ་སྐྱོན་བརྗོད་བྱེད་དགོས། འོན་ཀྱང་དོན་དངོས་སུ་དེ་ལྟར་མ་བྱེད།",
+      "དོན་དག་ལས་སླ་པོ་མེད་ཀྱང་། ཁྱོད་ཀྱིས་དངོས་གནས་ཡག་པོ་བྱེད་ཀྱི་ཡོད།"
+    ],
+    "ca": [
+      "Ningú ho hauria pogut fer millor que tu avui. Ni tan sols tu 😄",
+      "El teu somriure il·lumina l'habitació. Prova-ho, mira't al mirall!",
+      "Cada gran assoliment va començar amb un petit pas. Ja esteu en camí.",
+      "Passen dies durs, però tu et quedes. Això és la força.",
+      "Avui et deus una tassa de te ☕",
+      "Ets capaç de més del que penses.",
+      "Respira profundament. Tot anirà al seu lloc.",
+      "Potser algú ha pensat en tu i ha somrigut avui, potser ara mateix.",
+      "No cal que siguis perfecte. Ets prou com ets.",
+      "Trobeu una petita alegria avui: sol, música, alguna cosa dolça 🍫",
+      "La teva energia estalvia el dia sencer d'algunes persones.",
+      "Les coses bones estan en camí. Només estan esperant que estiguis preparat.",
+      "Sigues orgullós de tu mateix. Ahir s'ha acabat, avui és teu!",
+      "Cada matí és una pàgina nova. El bolígraf està a la mà ✏️",
+      "Somriu, encara que sigui una mica. El teu cervell ho nota 😊",
+      "Ets la coincidència més feliç d'algú.",
+      "Una mica de descans també forma part de la feina. Culpeu-vos, però en realitat, no ho feu.",
+      "Fins i tot quan les coses no són fàcils, ho estàs fent molt bé 💛"
+    ],
+    "eu": [
+      "Inork ezin zuen zu baino hobeto egin gaur. Ezta zuk ere 😄",
+      "Zure irribarreak gela argitzen du. Probatu, begiratu ispiluan!",
+      "Lorpen handi bakoitza urrats txiki batekin hasi zen. Dagoeneko bidean zaude.",
+      "Egun gogorrak pasatzen dira, baina zu geratzen zara. Hori da indarra.",
+      "Gaur te bat zor diozu zeure buruari ☕",
+      "Uste baino gehiago egiteko gai zara.",
+      "Hartu arnasa sakon. Dena bere tokian eroriko da.",
+      "Agian norbaitek zugan pentsatu eta irribarre egin du gaur, agian oraintxe bertan.",
+      "Ez duzu perfektua izan behar. Nahikoa zara zaren bezala.",
+      "Aurkitu poz txiki bat gaur: eguzkia, musika, zerbait gozoa 🍫",
+      "Zure energiak pertsona batzuen egun osoa aurrezten du.",
+      "Gauza onak bidean dira. Zu prest egotearen zain daude.",
+      "Izan harro zeure buruaz. Atzo bukatu da, gaur zurea!",
+      "Goizero orri berri bat da. Boligrafoa eskuan duzu ✏️",
+      "Irribarre, apur bat bada ere. Zure burmuinak nabaritzen du 😊",
+      "Norbaiten kasualitaterik zoriontsuena zara.",
+      "Atseden pixka bat ere lanaren parte da. Zure buruari errua bota, baina egia esan, ez.",
+      "Nahiz eta gauzak ez diren errazak izan, oso ondo ari zara 💛"
+    ],
+    "gl": [
+      "Ninguén podería facelo mellor ca ti hoxe. Nin ti 😄",
+      "O teu sorriso ilumina o cuarto. Proba, mira no espello!",
+      "Todo gran logro comezou cun pequeno paso. Xa estás en camiño.",
+      "Pasan días duros, pero ti permaneces. Iso é a forza.",
+      "Hoxe debes unha cunca de té ☕",
+      "Es capaz de máis do que pensas.",
+      "Respira fondo. Todo caerá no seu lugar.",
+      "Quizais alguén pensou en ti e sorriu hoxe, quizais agora mesmo.",
+      "Non necesitas ser perfecto. Sodes suficientes como es.",
+      "Atopar unha pequena alegría hoxe: sol, música, algo doce 🍫",
+      "A túa enerxía aforra a algunhas persoas durante todo o día.",
+      "As cousas boas están en camiño. Só están esperando a que esteas listo.",
+      "Sexa orgulloso de ti mesmo. Onte rematou, hoxe é teu!",
+      "Cada mañá é unha páxina nova. O bolígrafo está na túa man ✏️",
+      "Sorrí, aínda que sexa un pouco. O teu cerebro nótao 😊",
+      "Es a coincidencia máis feliz de alguén.",
+      "Un pouco de descanso tamén forma parte do traballo. Culpa a ti mesmo, pero en realidade, non o fagas.",
+      "Aínda cando as cousas non son fáciles, estás facendo moi ben 💛"
+    ],
+    "cy": [
+      "Ni allai neb fod wedi gwneud yn well na chi heddiw. Ddim hyd yn oed chi 😄",
+      "Mae eich gwên yn goleuo'r ystafell. Rhowch gynnig arni, edrychwch yn y drych!",
+      "Dechreuodd pob cyflawniad gwych gyda cham bach. Rydych chi eisoes ar eich ffordd.",
+      "Mae dyddiau caled yn mynd heibio, ond rydych chi'n aros. Dyna gryfder.",
+      "Mae arnoch chi baned o de heddiw ☕",
+      "Rydych chi'n gallu gwneud mwy nag y tybiwch.",
+      "Anadlwch yn ddwfn. Bydd popeth yn disgyn i'w le.",
+      "Efallai bod rhywun wedi meddwl amdanoch chi ac wedi gwenu heddiw, efallai dim ond nawr.",
+      "Nid oes angen i chi fod yn berffaith. Yr ydych yn ddigon fel yr ydych.",
+      "Dewch o hyd i un llawenydd bach heddiw: heulwen, cerddoriaeth, rhywbeth melys 🍫",
+      "Mae eich egni yn arbed diwrnod cyfan rhai pobl.",
+      "Mae pethau da ar eu ffordd. Maen nhw'n aros i chi fod yn barod.",
+      "Byddwch yn falch ohonoch chi'ch hun. Mae ddoe drosodd, heddiw yw eich un chi!",
+      "Mae tudalen newydd bob bore. Mae'r beiro yn dy law ✏️",
+      "Gwenwch, hyd yn oed os mai dim ond ychydig. Mae'ch ymennydd yn sylwi arno 😊",
+      "Chi yw cyd-ddigwyddiad hapusaf rhywun.",
+      "Mae ychydig o seibiant yn rhan o'r gwaith hefyd. Beio eich hun - ond mewn gwirionedd, peidiwch.",
+      "Hyd yn oed pan nad yw pethau'n hawdd, rydych chi'n gwneud yn dda iawn 💛"
+    ],
+    "ga": [
+      "Ní fhéadfadh duine ar bith a bheith déanta níos fearr ná tusa inniu. Ní fiú duit 😄",
+      "Soilsíonn do aoibh gháire an seomra. Bain triail as, féach sa scáthán!",
+      "Thosaigh gach éacht iontach le céim bheag. Tá tú ar do bhealach cheana féin.",
+      "Ritheann laethanta crua, ach fanann tú. Is é sin neart.",
+      "Tá cupán tae agat duit féin inniu ☕",
+      "Tá tú in ann níos mó ná mar a cheapann tú.",
+      "Glac anáil dhomhain. Beidh gach rud ag titim i bhfeidhm.",
+      "B'fhéidir gur smaoinigh duine éigin ort agus go ndearna sé aoibh gháire ort inniu, b'fhéidir díreach anois.",
+      "Ní gá duit a bheith foirfe. Is leor duit mar atá tú.",
+      "Faigh áthas beag inniu: solas na gréine, ceol, rud éigin milis 🍫",
+      "Sábhálann do chuid fuinnimh lá iomlán daoine áirithe.",
+      "Tá rudaí maithe ar a mbealach. Tá siad ag fanacht leat a bheith réidh.",
+      "Bí bródúil asat féin. Tá an lá inné thart, is leatsa an lá inniu!",
+      "Bíonn leathanach nua ann gach maidin. Tá an peann i do lámh ✏️",
+      "Aoibh gháire, fiú mura bhfuil ach beagán. Tugann d’inchinn faoi deara é 😊",
+      "Is tusa an chomhtharlú is sona atá ag duine.",
+      "Cuid den obair freisin is ea sos beag. Cuir an milleán ort féin - ach i ndáiríre, ná.",
+      "Fiú nuair nach bhfuil rudaí éasca, tá ag éirí go han-mhaith leat 💛"
+    ],
+    "is": [
+      "Enginn hefði getað gert betur en þú í dag. Ekki einu sinni þú 😄",
+      "Brosið þitt lýsir upp herbergið. Prófaðu það, líttu í spegil!",
+      "Sérhver frábær árangur byrjaði með litlu skrefi. Þú ert nú þegar á leiðinni.",
+      "Erfiðir dagar líða, en þú ert eftir. Það er styrkur.",
+      "Þú skuldar þér tebolla í dag ☕",
+      "Þú ert fær um meira en þú heldur.",
+      "Dragðu djúpt andann. Allt mun falla á sinn stað.",
+      "Kannski hugsaði einhver um þig og brosti í dag, kannski bara núna.",
+      "Þú þarft ekki að vera fullkominn. Þú ert nóg eins og þú ert.",
+      "Finndu eina smá gleði í dag: sólskin, tónlist, eitthvað sætt 🍫",
+      "Orkan þín sparar sumt fólk allan daginn.",
+      "Góðir hlutir eru á leiðinni. Þeir bíða bara eftir að þú sért tilbúinn.",
+      "Vertu stoltur af sjálfum þér. Gærdagurinn er búinn, dagurinn í dag er þinn!",
+      "Á hverjum morgni er ný síða. Penninn er í hendi þinni ✏️",
+      "Brostu, jafnvel þótt aðeins sé. Heilinn þinn tekur eftir því 😊",
+      "Þú ert hamingjusamasta tilviljun einhvers.",
+      "Smá hvíld er líka hluti af vinnunni. Ásakaðu sjálfan þig - en í raun, ekki.",
+      "Jafnvel þegar hlutirnir eru ekki auðvelt, þá gengur þér mjög vel 💛"
+    ],
+    "mt": [
+      "Ħadd ma seta’ jagħmel aħjar minnek illum. Lanqas int 😄",
+      "It-tbissima tiegħek tixgħel il-kamra. Ipprova, ħares fil-mera!",
+      "Kull kisba kbira bdiet b'pass żgħir. Int diġà fi triqtek.",
+      "Jgħaddu ġranet iebsa, imma int tibqa'. Dik hija s-saħħa.",
+      "Illum għandek tazza tè lilek innifsek ☕",
+      "Inti kapaċi għal aktar milli taħseb.",
+      "Ħu nifs fil-fond. Kollox se jaqa' f'postu.",
+      "Forsi xi ħadd ħaseb fik u tbissem illum, forsi issa.",
+      "M'għandekx għalfejn tkun perfett. Int biżżejjed kif int.",
+      "Sib ferħ żgħir wieħed illum: xemx, mużika, xi ħaġa ħelwa 🍫",
+      "L-enerġija tiegħek tiffranka l-ġurnata kollha ta’ xi nies.",
+      "Affarijiet tajbin qegħdin fi triqthom. Huma qed jistennewk biex tkun lest.",
+      "Kun kburi bik innifsek. Il-bieraħ spiċċa, illum tiegħek!",
+      "Kull filgħodu hija paġna ġdida. Il-pinna tinsab f'idejk ✏️",
+      "Tbissem, anki jekk ftit. Moħħok jinduna biha 😊",
+      "Int l-aktar koinċidenza ferħana ta’ xi ħadd.",
+      "Ftit mistrieħ huwa parti mix-xogħol ukoll. Tort lilek innifsek—imma fil-fatt, ma tagħmilx.",
+      "Anke meta l-affarijiet ma jkunux faċli, int sejjer tajjeb ħafna 💛"
+    ],
+    "lb": [
+      "Keen hätt besser gemaach wéi Dir haut. Net mol du 😄",
+      "Äre Laachen beliicht de Raum. Probéiert et, kuckt am Spigel!",
+      "All grouss Erreeche huet mat engem klenge Schrëtt ugefaang. Dir sidd schonn ënnerwee.",
+      "Schwéier Deeg passéieren, awer Dir bleift. Dat ass Kraaft.",
+      "Dir sidd Iech haut eng Taass Téi schëlleg ☕",
+      "Dir sidd méi kapabel wéi Dir denkt.",
+      "Huelt eng déif Otem. Alles wäert op Plaz falen.",
+      "Vläicht huet een un dech geduecht an haut gelaacht, vläicht just elo.",
+      "Dir musst net perfekt sinn. Dir sidd genuch wéi Dir sidd.",
+      "Fannt haut eng kleng Freed: Sonn, Musek, eppes Séisses 🍫",
+      "Är Energie spuert e puer Leit de ganzen Dag.",
+      "Gutt Saache sinn ënnerwee. Si waarden just op Iech prett ze sinn.",
+      "Sidd houfreg op Iech selwer. Gëschter ass eriwwer, haut ass ären!",
+      "All Moien ass eng nei Säit. De Pen ass an Ärer Hand ✏️",
+      "Laachen, och wann nëmmen e bëssen. Däin Gehir mierkt et 😊",
+      "Dir sidd de glécklechste Zoufall vun engem.",
+      "E bësse Rou gehéiert och zur Aarbecht. Schold Iech selwer - awer eigentlech net.",
+      "Och wann et net einfach ass, geet et dir wierklech gutt 💛"
+    ],
+    "be": [
+      "Сёння ніхто не мог зрабіць лепш, чым ты. Нават не ты 😄",
+      "Твая ўсмешка асвятляе пакой. Паспрабуйце, паглядзіце ў люстэрка!",
+      "Кожнае вялікае дасягненне пачыналася з маленькага кроку. Вы ўжо ў дарозе.",
+      "Праходзяць цяжкія дні, а ты застаешся. Гэта сіла.",
+      "Сёння ты павінен выпіць кубак гарбаты ☕",
+      "Вы здольныя на большае, чым вы думаеце.",
+      "Зрабіце глыбокі ўдых. Усё стане на свае месцы.",
+      "Магчыма, нехта падумаў пра цябе і ўсміхнуўся сёння, а можа, толькі што.",
+      "Вам не трэба быць ідэальным. Цябе дастаткова такога, які ты ёсць.",
+      "Знайдзіце сёння адну маленькую радасць: сонца, музыку, што-небудзь салодкае 🍫",
+      "Ваша энергія ратуе некаторым людзям цэлы дзень.",
+      "Добрыя рэчы ўжо на шляху. Яны проста чакаюць, пакуль вы будзеце гатовыя.",
+      "Ганарыцеся сабой. Учорашні дзень скончыўся, сённяшні дзень - ваш!",
+      "Кожная раніца - новая старонка. Пяро ў вашых руках ✏️",
+      "Усміхніся, хоць ледзь-ледзь. Ваш мозг заўважае гэта 😊",
+      "Вы чыёсьці самае шчаслівае супадзенне.",
+      "Невялікі адпачынак - таксама частка працы. Вінаваціць сябе - але на самой справе не трэба.",
+      "Нават калі ўсё няпроста, у вас усё вельмі добра 💛"
     ]
   },
   "labels": {
@@ -266,6 +2126,1680 @@
         "Tippe auf den Mond",
         "Tippe auf den Blitz",
         "Tippe auf den Nebel"
+      ]
+    },
+    "ar": {
+      "g": [
+        "تصبحون على خير",
+        "صباح الخير",
+        "مساء الخير",
+        "مساء الخير"
+      ],
+      "tap": [
+        "اضغط على الشمس",
+        "اضغط على السحابة",
+        "اضغط على السحابة",
+        "اضغط على المطر",
+        "اضغط على الثلج",
+        "اضغط على القمر",
+        "اضغط على البرق",
+        "اضغط على الضباب"
+      ]
+    },
+    "hi": {
+      "g": [
+        "शुभ रात्रि",
+        "सुप्रभात",
+        "शुभ दोपहर",
+        "शुभ संध्या"
+      ],
+      "tap": [
+        "सूरज को टैप करें",
+        "क्लाउड पर टैप करें",
+        "क्लाउड पर टैप करें",
+        "बारिश को टैप करें",
+        "बर्फ को टैप करें",
+        "चाँद को थपथपाओ",
+        "बिजली को टैप करें",
+        "कोहरा टैप करें"
+      ]
+    },
+    "zh": {
+      "g": [
+        "晚安",
+        "早上好",
+        "下午好",
+        "晚上好"
+      ],
+      "tap": [
+        "点击太阳",
+        "点击云端",
+        "点击云端",
+        "点雨",
+        "敲雪",
+        "点击月亮",
+        "点击闪电",
+        "点击雾气"
+      ]
+    },
+    "pt": {
+      "g": [
+        "Boa noite",
+        "Bom dia",
+        "Boa tarde",
+        "Boa noite"
+      ],
+      "tap": [
+        "Toque no sol",
+        "Toque na nuvem",
+        "Toque na nuvem",
+        "Toque na chuva",
+        "Toque na neve",
+        "Toque na lua",
+        "Toque no relâmpago",
+        "Toque na neblina"
+      ]
+    },
+    "bn": {
+      "g": [
+        "শুভ রাত্রি",
+        "শুভ সকাল",
+        "শুভ বিকাল",
+        "শুভ সন্ধ্যা"
+      ],
+      "tap": [
+        "সূর্যে আলতো চাপুন",
+        "মেঘে আলতো চাপুন",
+        "মেঘে আলতো চাপুন",
+        "বৃষ্টিতে ট্যাপ করুন",
+        "তুষার আলতো চাপুন",
+        "চাঁদে ট্যাপ করুন",
+        "বাজ ট্যাপ করুন",
+        "কুয়াশায় আলতো চাপুন"
+      ]
+    },
+    "ja": {
+      "g": [
+        "おやすみ",
+        "おはようございます",
+        "こんにちは",
+        "こんばんは"
+      ],
+      "tap": [
+        "太陽をタップ",
+        "雲をタップ",
+        "雲をタップ",
+        "雨をタップ",
+        "雪をタップ",
+        "月をタップ",
+        "稲妻をタップ",
+        "霧をタップ"
+      ]
+    },
+    "ko": {
+      "g": [
+        "잘자요",
+        "좋은 아침이에요",
+        "안녕하세요",
+        "안녕하세요"
+      ],
+      "tap": [
+        "태양을 탭하세요",
+        "클라우드를 탭하세요",
+        "클라우드를 탭하세요",
+        "비를 탭하세요",
+        "눈을 두드리세요",
+        "달을 탭하세요",
+        "번개를 탭하세요",
+        "안개를 탭하세요"
+      ]
+    },
+    "ur": {
+      "g": [
+        "شب بخیر",
+        "صبح بخیر",
+        "صبح بخیر",
+        "شب بخیر"
+      ],
+      "tap": [
+        "سورج کو تھپتھپائیں۔",
+        "بادل کو تھپتھپائیں۔",
+        "بادل کو تھپتھپائیں۔",
+        "بارش کو تھپتھپائیں۔",
+        "برف کو تھپتھپائیں۔",
+        "چاند کو تھپتھپائیں۔",
+        "بجلی کو تھپتھپائیں۔",
+        "دھند کو تھپتھپائیں۔"
+      ]
+    },
+    "pa": {
+      "g": [
+        "ਸ਼ੁਭ ਰਾਤ",
+        "ਸ਼ੁਭ ਸਵੇਰ",
+        "ਸ਼ੁਭ ਦੁਪਹਿਰ",
+        "ਸ਼ੁਭ ਸ਼ਾਮ"
+      ],
+      "tap": [
+        "ਸੂਰਜ ਨੂੰ ਟੈਪ ਕਰੋ",
+        "ਕਲਾਊਡ 'ਤੇ ਟੈਪ ਕਰੋ",
+        "ਕਲਾਊਡ 'ਤੇ ਟੈਪ ਕਰੋ",
+        "ਮੀਂਹ ਨੂੰ ਟੈਪ ਕਰੋ",
+        "ਬਰਫ਼ 'ਤੇ ਟੈਪ ਕਰੋ",
+        "ਚੰਦਰਮਾ 'ਤੇ ਟੈਪ ਕਰੋ",
+        "ਬਿਜਲੀ 'ਤੇ ਟੈਪ ਕਰੋ",
+        "ਧੁੰਦ ਨੂੰ ਟੈਪ ਕਰੋ"
+      ]
+    },
+    "id": {
+      "g": [
+        "Selamat malam",
+        "Selamat pagi",
+        "Selamat siang",
+        "Selamat malam"
+      ],
+      "tap": [
+        "Ketuk matahari",
+        "Ketuk awan",
+        "Ketuk awan",
+        "Ketuk hujan",
+        "Ketuk salju",
+        "Ketuk bulan",
+        "Ketuk petir",
+        "Ketuk kabut"
+      ]
+    },
+    "vi": {
+      "g": [
+        "Chúc ngủ ngon",
+        "Chào buổi sáng",
+        "Chào buổi chiều",
+        "Chào buổi tối"
+      ],
+      "tap": [
+        "Chạm vào mặt trời",
+        "Nhấn vào đám mây",
+        "Nhấn vào đám mây",
+        "Chạm vào mưa",
+        "Chạm vào tuyết",
+        "Chạm vào mặt trăng",
+        "Chạm vào tia sét",
+        "Chạm vào sương mù"
+      ]
+    },
+    "th": {
+      "g": [
+        "ราตรีสวัสดิ์",
+        "สวัสดีตอนเช้า",
+        "สวัสดีตอนบ่าย",
+        "สวัสดีตอนเย็น"
+      ],
+      "tap": [
+        "แตะพระอาทิตย์",
+        "แตะคลาวด์",
+        "แตะคลาวด์",
+        "แตะฝน",
+        "แตะหิมะ",
+        "แตะดวงจันทร์",
+        "แตะสายฟ้า",
+        "แตะหมอก"
+      ]
+    },
+    "fa": {
+      "g": [
+        "شب بخیر",
+        "صبح بخیر",
+        "ظهر بخیر",
+        "عصر بخیر"
+      ],
+      "tap": [
+        "به خورشید ضربه بزنید",
+        "روی ابر ضربه بزنید",
+        "روی ابر ضربه بزنید",
+        "روی باران ضربه بزنید",
+        "روی برف ضربه بزنید",
+        "روی ماه ضربه بزنید",
+        "روی رعد و برق ضربه بزنید",
+        "روی مه ضربه بزنید"
+      ]
+    },
+    "sw": {
+      "g": [
+        "Usiku mwema",
+        "Habari za asubuhi",
+        "Habari za mchana",
+        "Habari za jioni"
+      ],
+      "tap": [
+        "Gusa jua",
+        "Gusa wingu",
+        "Gusa wingu",
+        "Gusa mvua",
+        "Gonga theluji",
+        "Gusa mwezi",
+        "Gonga umeme",
+        "Gusa ukungu"
+      ]
+    },
+    "uk": {
+      "g": [
+        "На добраніч",
+        "Доброго ранку",
+        "Доброго дня",
+        "Доброго вечора"
+      ],
+      "tap": [
+        "Торкніться сонця",
+        "Торкніться хмари",
+        "Торкніться хмари",
+        "Торкніться дощу",
+        "Постукайте по снігу",
+        "Торкніться місяця",
+        "Торкніться блискавки",
+        "Натисніть на туман"
+      ]
+    },
+    "it": {
+      "g": [
+        "Buonanotte",
+        "Buongiorno",
+        "Buon pomeriggio",
+        "Buonasera"
+      ],
+      "tap": [
+        "Tocca il sole",
+        "Tocca la nuvola",
+        "Tocca la nuvola",
+        "Tocca la pioggia",
+        "Tocca la neve",
+        "Tocca la luna",
+        "Tocca il fulmine",
+        "Tocca la nebbia"
+      ]
+    },
+    "nl": {
+      "g": [
+        "Goedenacht",
+        "Goedemorgen",
+        "Goedemiddag",
+        "Goedenavond"
+      ],
+      "tap": [
+        "Tik op de zon",
+        "Tik op de wolk",
+        "Tik op de wolk",
+        "Tik op de regen",
+        "Tik op de sneeuw",
+        "Tik op de maan",
+        "Tik op de bliksem",
+        "Tik op de mist"
+      ]
+    },
+    "pl": {
+      "g": [
+        "Dobranoc",
+        "Dzień dobry",
+        "Dzień dobry",
+        "Dobry wieczór"
+      ],
+      "tap": [
+        "Dotknij słońca",
+        "Kliknij chmurę",
+        "Kliknij chmurę",
+        "Dotknij deszczu",
+        "Dotknij śniegu",
+        "Kliknij księżyc",
+        "Kliknij błyskawicę",
+        "Dotknij mgły"
+      ]
+    },
+    "ro": {
+      "g": [
+        "Noapte bună",
+        "Bună dimineața",
+        "Bună ziua",
+        "Bună seara"
+      ],
+      "tap": [
+        "Atingeți soarele",
+        "Atingeți nor",
+        "Atingeți nor",
+        "Atingeți ploaia",
+        "Atingeți zăpada",
+        "Atingeți luna",
+        "Atingeți fulgerul",
+        "Atingeți ceața"
+      ]
+    },
+    "hu": {
+      "g": [
+        "Jó éjszakát",
+        "Jó reggelt",
+        "Jó napot",
+        "Jó estét"
+      ],
+      "tap": [
+        "Érintse meg a napot",
+        "Koppintson a felhőre",
+        "Koppintson a felhőre",
+        "Érintse meg az esőt",
+        "Koppintson a hóra",
+        "Koppintson a Holdra",
+        "Koppintson a villámra",
+        "Koppintson a ködre"
+      ]
+    },
+    "cs": {
+      "g": [
+        "Dobrou noc",
+        "Dobré ráno",
+        "Dobré odpoledne",
+        "Dobrý večer"
+      ],
+      "tap": [
+        "Klepněte na slunce",
+        "Klepněte na cloud",
+        "Klepněte na cloud",
+        "Klepněte na déšť",
+        "Klepněte na sníh",
+        "Klepněte na měsíc",
+        "Klepněte na blesk",
+        "Klepněte na mlhu"
+      ]
+    },
+    "sk": {
+      "g": [
+        "Dobrú noc",
+        "Dobré ráno",
+        "Dobré popoludnie",
+        "Dobrý večer"
+      ],
+      "tap": [
+        "Klepnite na slnko",
+        "Klepnite na cloud",
+        "Klepnite na cloud",
+        "Klepnite na dážď",
+        "Klepnite na sneh",
+        "Klepnite na mesiac",
+        "Klepnite na blesk",
+        "Klepnite na hmlu"
+      ]
+    },
+    "bg": {
+      "g": [
+        "Лека нощ",
+        "Добро утро",
+        "Добър ден",
+        "Добър вечер"
+      ],
+      "tap": [
+        "Докоснете слънцето",
+        "Докоснете облака",
+        "Докоснете облака",
+        "Докоснете дъжда",
+        "Докоснете снега",
+        "Докоснете луната",
+        "Докоснете светкавицата",
+        "Докоснете мъглата"
+      ]
+    },
+    "el": {
+      "g": [
+        "Καληνύχτα",
+        "Καλημέρα",
+        "Καλημέρα",
+        "Καλησπέρα"
+      ],
+      "tap": [
+        "Αγγίξτε τον ήλιο",
+        "Πατήστε το σύννεφο",
+        "Πατήστε το σύννεφο",
+        "Αγγίξτε τη βροχή",
+        "Αγγίξτε το χιόνι",
+        "Πατήστε το φεγγάρι",
+        "Πατήστε τον κεραυνό",
+        "Αγγίξτε την ομίχλη"
+      ]
+    },
+    "he": {
+      "g": [
+        "לילה טוב",
+        "בוקר טוב",
+        "צהריים טובים",
+        "ערב טוב"
+      ],
+      "tap": [
+        "הקש על השמש",
+        "הקש על הענן",
+        "הקש על הענן",
+        "הקש על הגשם",
+        "הקש על השלג",
+        "הקש על הירח",
+        "הקש על הברק",
+        "הקש על הערפל"
+      ]
+    },
+    "da": {
+      "g": [
+        "Godnat",
+        "Godmorgen",
+        "God eftermiddag",
+        "God aften"
+      ],
+      "tap": [
+        "Tryk på solen",
+        "Tryk på skyen",
+        "Tryk på skyen",
+        "Tryk på regnen",
+        "Tryk på sneen",
+        "Tryk på månen",
+        "Tryk på lynet",
+        "Tryk på tågen"
+      ]
+    },
+    "sv": {
+      "g": [
+        "God natt",
+        "God morgon",
+        "God eftermiddag",
+        "God kväll"
+      ],
+      "tap": [
+        "Tryck på solen",
+        "Tryck på molnet",
+        "Tryck på molnet",
+        "Tryck på regnet",
+        "Tryck på snön",
+        "Tryck på månen",
+        "Tryck på blixten",
+        "Tryck på dimman"
+      ]
+    },
+    "no": {
+      "g": [
+        "God natt",
+        "God morgen",
+        "God ettermiddag",
+        "God kveld"
+      ],
+      "tap": [
+        "Trykk på solen",
+        "Trykk på skyen",
+        "Trykk på skyen",
+        "Trykk på regnet",
+        "Trykk på snøen",
+        "Trykk på månen",
+        "Trykk på lynet",
+        "Trykk på tåken"
+      ]
+    },
+    "fi": {
+      "g": [
+        "Hyvää yötä",
+        "Hyvää huomenta",
+        "Hyvää iltapäivää",
+        "Hyvää iltaa"
+      ],
+      "tap": [
+        "Napauta aurinkoa",
+        "Napauta pilveä",
+        "Napauta pilveä",
+        "Napauta sadetta",
+        "Napauta lunta",
+        "Napauta kuuta",
+        "Napauta salamaa",
+        "Napauta sumua"
+      ]
+    },
+    "et": {
+      "g": [
+        "Head ööd",
+        "Tere hommikust",
+        "Tere pärastlõunast",
+        "Tere õhtust"
+      ],
+      "tap": [
+        "Puudutage päikest",
+        "Puudutage pilve",
+        "Puudutage pilve",
+        "Puudutage vihma",
+        "Puudutage lund",
+        "Puudutage kuud",
+        "Puudutage välku",
+        "Puudutage udu"
+      ]
+    },
+    "lv": {
+      "g": [
+        "Ar labu nakti",
+        "Labrīt",
+        "Labdien",
+        "Labvakar"
+      ],
+      "tap": [
+        "Pieskarieties saulei",
+        "Pieskarieties mākonim",
+        "Pieskarieties mākonim",
+        "Pieskarieties lietum",
+        "Pieskarieties sniegam",
+        "Pieskarieties mēness",
+        "Pieskarieties zibens ikonai",
+        "Pieskarieties miglai"
+      ]
+    },
+    "lt": {
+      "g": [
+        "Labanakt",
+        "Labas rytas",
+        "Laba diena",
+        "Labas vakaras"
+      ],
+      "tap": [
+        "Bakstelėkite saulę",
+        "Bakstelėkite debesį",
+        "Bakstelėkite debesį",
+        "Bakstelėkite lietų",
+        "Bakstelėkite sniegą",
+        "Bakstelėkite mėnulį",
+        "Bakstelėkite žaibą",
+        "Bakstelėkite rūką"
+      ]
+    },
+    "sl": {
+      "g": [
+        "Lahko noč",
+        "Dobro jutro",
+        "Dober dan",
+        "Dober večer"
+      ],
+      "tap": [
+        "Tapnite sonce",
+        "Tapnite oblak",
+        "Tapnite oblak",
+        "Tapnite dež",
+        "Tapkajte po snegu",
+        "Tapnite luno",
+        "Tapnite strelo",
+        "Tapnite meglo"
+      ]
+    },
+    "hr": {
+      "g": [
+        "Laku noć",
+        "Dobro jutro",
+        "Dobar dan",
+        "Dobro veče"
+      ],
+      "tap": [
+        "Dodirnite sunce",
+        "Dodirnite oblak",
+        "Dodirnite oblak",
+        "Dodirnite kišu",
+        "Tapkajte snijeg",
+        "Dodirnite mjesec",
+        "Dodirnite munju",
+        "Dodirnite maglu"
+      ]
+    },
+    "sr": {
+      "g": [
+        "Лаку ноћ",
+        "Добро јутро",
+        "Добар дан",
+        "Добро вече"
+      ],
+      "tap": [
+        "Додирните сунце",
+        "Додирните облак",
+        "Додирните облак",
+        "Додирните кишу",
+        "Додирните снег",
+        "Додирните месец",
+        "Додирните муњу",
+        "Додирните маглу"
+      ]
+    },
+    "bs": {
+      "g": [
+        "Laku noć",
+        "Dobro jutro",
+        "Dobar dan",
+        "Dobro veče"
+      ],
+      "tap": [
+        "Dodirnite sunce",
+        "Dodirnite oblak",
+        "Dodirnite oblak",
+        "Dodirnite kišu",
+        "Dodirnite snijeg",
+        "Dodirnite mjesec",
+        "Dodirnite munju",
+        "Dodirnite maglu"
+      ]
+    },
+    "sq": {
+      "g": [
+        "Natën e mirë",
+        "Mirëmëngjes",
+        "Mirëdita",
+        "Mirëmbrëma"
+      ],
+      "tap": [
+        "Prekni diellin",
+        "Prekni renë",
+        "Prekni renë",
+        "Prekni shiun",
+        "Prekni borën",
+        "Prekni hënën",
+        "Prekni vetëtimën",
+        "Prekni mjegullën"
+      ]
+    },
+    "mk": {
+      "g": [
+        "Добра ноќ",
+        "Добро утро",
+        "Добро попладне",
+        "Добра вечер"
+      ],
+      "tap": [
+        "Допрете го сонцето",
+        "Допрете го облакот",
+        "Допрете го облакот",
+        "Допрете го дождот",
+        "Допрете го снегот",
+        "Допрете ја месечината",
+        "Допрете ја молњата",
+        "Допрете ја маглата"
+      ]
+    },
+    "ka": {
+      "g": [
+        "ღამე მშვიდობისა",
+        "დილა მშვიდობისა",
+        "შუადღე მშვიდობისა",
+        "საღამო მშვიდობისა"
+      ],
+      "tap": [
+        "შეეხეთ მზეს",
+        "შეეხეთ ღრუბელს",
+        "შეეხეთ ღრუბელს",
+        "შეეხეთ წვიმას",
+        "შეეხეთ თოვლს",
+        "შეეხეთ მთვარეს",
+        "შეეხეთ ელვას",
+        "შეეხეთ ნისლს"
+      ]
+    },
+    "hy": {
+      "g": [
+        "Բարի գիշեր",
+        "Բարի լույս",
+        "Բարի օր",
+        "Բարի երեկո"
+      ],
+      "tap": [
+        "Հպեք արևին",
+        "Հպեք ամպին",
+        "Հպեք ամպին",
+        "Հպեք անձրևին",
+        "Հպեք ձյունին",
+        "Հպեք լուսին",
+        "Հպեք կայծակին",
+        "Հպեք մառախուղին"
+      ]
+    },
+    "kk": {
+      "g": [
+        "Қайырлы түн",
+        "Қайырлы таң",
+        "Қайырлы күн",
+        "Қайырлы кеш"
+      ],
+      "tap": [
+        "Күнді түртіңіз",
+        "Бұлтты түртіңіз",
+        "Бұлтты түртіңіз",
+        "Жаңбырды түртіңіз",
+        "Қарды түртіңіз",
+        "Айды түртіңіз",
+        "Найзағайды түртіңіз",
+        "Тұманды түртіңіз"
+      ]
+    },
+    "uz": {
+      "g": [
+        "Xayrli tun",
+        "Xayrli tong",
+        "Xayrli kun",
+        "Xayrli kech"
+      ],
+      "tap": [
+        "Quyoshga teging",
+        "Bulutga teging",
+        "Bulutga teging",
+        "Yomg'irga teging",
+        "Qorga teging",
+        "Oyga teging",
+        "Chaqmoqni bosing",
+        "Tumanga teging"
+      ]
+    },
+    "ky": {
+      "g": [
+        "Кайырлы тун",
+        "Кутман таң",
+        "Кутмандуу кеч",
+        "Кутман кеч"
+      ],
+      "tap": [
+        "Күндү таптаңыз",
+        "Булутту таптаңыз",
+        "Булутту таптаңыз",
+        "Жамгырды таптаңыз",
+        "Карды таптаңыз",
+        "Айды таптаңыз",
+        "Чагылганды таптаңыз",
+        "Туманды таптаңыз"
+      ]
+    },
+    "tk": {
+      "g": [
+        "Gijäň rahat bolsun!",
+        "Ertiriňiz haýyrly bolsun!",
+        "Günüňiz haýyrly bolsun",
+        "Agşamyňyz haýyrly"
+      ],
+      "tap": [
+        "Güne degiň",
+        "Buluda degiň",
+        "Buluda degiň",
+        "rainagyşa degiň",
+        "Gar degiň",
+        "Aýa degiň",
+        "ningyldyrymy kakyň",
+        "Duman degiň"
+      ]
+    },
+    "mn": {
+      "g": [
+        "Сайхан амраарай",
+        "Өглөөний мэнд",
+        "Өдрийн мэнд",
+        "Оройн мэнд"
+      ],
+      "tap": [
+        "Нарыг товш",
+        "Үүлэн дээр товш",
+        "Үүл дээр товш",
+        "Бороо дээр товш",
+        "Цас дээр товш",
+        "Сарыг товш",
+        "Аянга дээр товш",
+        "Манан дээр товш"
+      ]
+    },
+    "ne": {
+      "g": [
+        "शुभ रात्रि",
+        "शुभ बिहानी",
+        "शुभ दिउँसो",
+        "शुभ साँझ"
+      ],
+      "tap": [
+        "सूर्यमा ट्याप गर्नुहोस्",
+        "क्लाउडमा ट्याप गर्नुहोस्",
+        "क्लाउडमा ट्याप गर्नुहोस्",
+        "वर्षा ट्याप गर्नुहोस्",
+        "हिउँमा ट्याप गर्नुहोस्",
+        "चन्द्रमा ट्याप गर्नुहोस्",
+        "बिजुली ट्याप गर्नुहोस्",
+        "कुहिरोमा ट्याप गर्नुहोस्"
+      ]
+    },
+    "si": {
+      "g": [
+        "සුභ රාත්‍රියක්",
+        "සුභ උදෑසනක්",
+        "සුභ සන්ධ්‍යාවක්",
+        "සුභ සන්ධ්‍යාවක්"
+      ],
+      "tap": [
+        "හිරුට තට්ටු කරන්න",
+        "වලාකුළ තට්ටු කරන්න",
+        "වලාකුළ තට්ටු කරන්න",
+        "වැස්ස තට්ටු කරන්න",
+        "හිම තට්ටු කරන්න",
+        "සඳට තට්ටු කරන්න",
+        "අකුණු තට්ටු කරන්න",
+        "මීදුම තට්ටු කරන්න"
+      ]
+    },
+    "ta": {
+      "g": [
+        "குட் நைட்",
+        "காலை வணக்கம்",
+        "நல்ல மதியம்",
+        "மாலை வணக்கம்"
+      ],
+      "tap": [
+        "சூரியனைத் தட்டவும்",
+        "மேகத்தைத் தட்டவும்",
+        "மேகத்தைத் தட்டவும்",
+        "மழையைத் தட்டவும்",
+        "பனியைத் தட்டவும்",
+        "சந்திரனைத் தட்டவும்",
+        "மின்னலைத் தட்டவும்",
+        "மூடுபனியைத் தட்டவும்"
+      ]
+    },
+    "te": {
+      "g": [
+        "శుభరాత్రి",
+        "శుభోదయం",
+        "శుభ మధ్యాహ్నం",
+        "శుభ సాయంత్రం"
+      ],
+      "tap": [
+        "సూర్యుడిని నొక్కండి",
+        "క్లౌడ్‌ను నొక్కండి",
+        "క్లౌడ్‌ను నొక్కండి",
+        "వర్షాన్ని నొక్కండి",
+        "మంచును నొక్కండి",
+        "చంద్రుడిని నొక్కండి",
+        "మెరుపును నొక్కండి",
+        "పొగమంచును నొక్కండి"
+      ]
+    },
+    "ml": {
+      "g": [
+        "ശുഭരാത്രി",
+        "സുപ്രഭാതം",
+        "ഗുഡ് ആഫ്റ്റർനൂൺ",
+        "ശുഭ സായാഹ്നം"
+      ],
+      "tap": [
+        "സൂര്യനിൽ ടാപ്പ് ചെയ്യുക",
+        "ക്ലൗഡ് ടാപ്പ് ചെയ്യുക",
+        "ക്ലൗഡ് ടാപ്പ് ചെയ്യുക",
+        "മഴ ടാപ്പ് ചെയ്യുക",
+        "മഞ്ഞിൽ ടാപ്പ് ചെയ്യുക",
+        "ചന്ദ്രനിൽ ടാപ്പ് ചെയ്യുക",
+        "മിന്നലിൽ ടാപ്പ് ചെയ്യുക",
+        "മൂടൽമഞ്ഞ് ടാപ്പ് ചെയ്യുക"
+      ]
+    },
+    "kn": {
+      "g": [
+        "ಶುಭ ರಾತ್ರಿ",
+        "ಶುಭೋದಯ",
+        "ಶುಭ ಮಧ್ಯಾಹ್ನ",
+        "ಶುಭ ಸಂಜೆ"
+      ],
+      "tap": [
+        "ಸೂರ್ಯನನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಮೋಡವನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಮೋಡವನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಮಳೆಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಹಿಮವನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಚಂದ್ರನನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಮಿಂಚನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ",
+        "ಮಂಜನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ"
+      ]
+    },
+    "gu": {
+      "g": [
+        "શુભ રાત્રિ",
+        "શુભ સવાર",
+        "શુભ બપોર",
+        "શુભ સાંજ"
+      ],
+      "tap": [
+        "સૂર્યને ટેપ કરો",
+        "મેઘને ટેપ કરો",
+        "મેઘને ટેપ કરો",
+        "વરસાદને ટેપ કરો",
+        "બરફને ટેપ કરો",
+        "ચંદ્રને ટેપ કરો",
+        "વીજળીને ટેપ કરો",
+        "ધુમ્મસને ટેપ કરો"
+      ]
+    },
+    "mr": {
+      "g": [
+        "शुभ रात्री",
+        "शुभ सकाळ",
+        "शुभ दुपार",
+        "शुभ संध्याकाळ"
+      ],
+      "tap": [
+        "सूर्यावर टॅप करा",
+        "ढग टॅप करा",
+        "ढग टॅप करा",
+        "पावसावर टॅप करा",
+        "बर्फावर टॅप करा",
+        "चंद्रावर टॅप करा",
+        "विजेवर टॅप करा",
+        "धुके टॅप करा"
+      ]
+    },
+    "or": {
+      "g": [
+        "ଶୁଭ ରାତ୍ରି |",
+        "ଶୁଭ ସକାଳ |",
+        "ଶୁଭ ଅପରାହ୍ନ |",
+        "ଶୁଭ ସନ୍ଧ୍ୟା |"
+      ],
+      "tap": [
+        "ସୂର୍ଯ୍ୟକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "କ୍ଲାଉଡ୍ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "କ୍ଲାଉଡ୍ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "ବର୍ଷା ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "ବରଫକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "ଚନ୍ଦ୍ରକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "ବଜ୍ରପାତକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ |",
+        "କୁହୁଡି ଟ୍ୟାପ୍ କରନ୍ତୁ |"
+      ]
+    },
+    "as": {
+      "g": [
+        "শুভ ৰাতি",
+        "শুভ ৰাতিপুৱা",
+        "শুভ দুপৰীয়া",
+        "শুভ সন্ধিয়া"
+      ],
+      "tap": [
+        "সূৰ্য্যক টেপ কৰক",
+        "ক্লাউডত টেপ কৰক",
+        "ক্লাউডত টেপ কৰক",
+        "বৰষুণ টেপ কৰক",
+        "নিয়ৰ টেপ কৰক",
+        "চন্দ্ৰত টেপ কৰক",
+        "বিজুলী টিপক",
+        "কুঁৱলী টেপ কৰক"
+      ]
+    },
+    "my": {
+      "g": [
+        "ကောင်းသောညပါ",
+        "မင်္ဂလာနံနက်ခင်းပါ",
+        "မင်္ဂလာနေ့လည်ခင်းပါ။",
+        "မင်္ဂလာညချမ်းပါ"
+      ],
+      "tap": [
+        "နေကို ပုတ်ပါ။",
+        "တိမ်တိုက်ကို နှိပ်ပါ။",
+        "တိမ်တိုက်ကို နှိပ်ပါ။",
+        "မိုးကို ပုတ်ပါ။",
+        "နှင်းကို တို့ပါ။",
+        "လကိုနှိပ်ပါ။",
+        "မိုးကြိုးကို တို့ပါ။",
+        "မြူကို တို့ပါ။"
+      ]
+    },
+    "km": {
+      "g": [
+        "រាត្រីសួស្តី",
+        "អរុណសួស្តី",
+        "អរុណសួស្តី",
+        "រាត្រីសួស្តី"
+      ],
+      "tap": [
+        "ប៉ះព្រះអាទិត្យ",
+        "ប៉ះពពក",
+        "ប៉ះពពក",
+        "ប៉ះភ្លៀង",
+        "ប៉ះព្រិល",
+        "ប៉ះព្រះច័ន្ទ",
+        "ប៉ះរន្ទះ",
+        "ប៉ះអ័ព្ទ"
+      ]
+    },
+    "lo": {
+      "g": [
+        "ສະບາຍດີ",
+        "ສະບາຍດີຕອນເຊົ້າ",
+        "ສະບາຍດີຕອນສວາຍ",
+        "ສະບາຍດີຕອນແລງ"
+      ],
+      "tap": [
+        "ແຕະແດດ",
+        "ແຕະຄລາວ",
+        "ແຕະຄລາວ",
+        "ແຕະຝົນ",
+        "ແຕະຫິມະ",
+        "ແຕະດວງຈັນ",
+        "ແຕະຟ້າຜ່າ",
+        "ແຕະໝອກ"
+      ]
+    },
+    "ms": {
+      "g": [
+        "Selamat malam",
+        "Selamat pagi",
+        "Selamat tengah hari",
+        "Selamat petang"
+      ],
+      "tap": [
+        "Ketik matahari",
+        "Ketik awan",
+        "Ketik awan",
+        "Ketik hujan",
+        "Ketuk salji",
+        "Ketik bulan",
+        "Ketik kilat",
+        "Ketik kabus"
+      ]
+    },
+    "fil": {
+      "g": [
+        "Magandang gabi",
+        "Magandang umaga",
+        "Magandang hapon",
+        "Magandang gabi"
+      ],
+      "tap": [
+        "Tapikin ang araw",
+        "I-tap ang cloud",
+        "I-tap ang cloud",
+        "Tapikin ang ulan",
+        "Tapikin ang snow",
+        "Tapikin ang buwan",
+        "Tapikin ang kidlat",
+        "Tapikin ang fog"
+      ]
+    },
+    "jv": {
+      "g": [
+        "Sugeng dalu",
+        "Sugeng enjing",
+        "Sugeng sonten",
+        "Sugeng sonten"
+      ],
+      "tap": [
+        "Tutul srengenge",
+        "Tutul awan",
+        "Tutul awan",
+        "Tutul udan",
+        "Tutul salju",
+        "Tutul rembulan",
+        "Tutul kilat",
+        "Tutul kabut"
+      ]
+    },
+    "su": {
+      "g": [
+        "Wilujeng wengi",
+        "Wilujeng enjing",
+        "Wilujeng siang",
+        "Wilujeng wengi"
+      ],
+      "tap": [
+        "Ketok panonpoé",
+        "Ketok awan",
+        "Ketok awan",
+        "Ketok hujan",
+        "Ketok salju",
+        "Ketok bulan",
+        "Ketok kilat",
+        "Ketok halimun"
+      ]
+    },
+    "am": {
+      "g": [
+        "መልካም ምሽት",
+        "እንደምን አደሩ",
+        "ደህና ከሰአት",
+        "መልካም ምሽት"
+      ],
+      "tap": [
+        "ፀሐይን መታ",
+        "ደመናውን መታ ያድርጉ",
+        "ደመናውን መታ ያድርጉ",
+        "ዝናቡን መታ",
+        "በረዶውን መታ ያድርጉ",
+        "ጨረቃን መታ",
+        "መብረቁን መታ",
+        "ጭጋግ መታ"
+      ]
+    },
+    "so": {
+      "g": [
+        "Habeen wanaagsan",
+        "subax wanaagsan",
+        "Galab wanaagsan",
+        "Habeen wanaagsan"
+      ],
+      "tap": [
+        "Taabo qorraxda",
+        "Taabo daruuraha",
+        "Taabo daruuraha",
+        "Taabo roobka",
+        "Taabo barafka",
+        "Taabo dayaxa",
+        "Taabo hillaaca",
+        "Taabo ceeryaamada"
+      ]
+    },
+    "ha": {
+      "g": [
+        "Barka da dare",
+        "Barka da safiya",
+        "Barka da yamma",
+        "Barka da yamma"
+      ],
+      "tap": [
+        "Taɓa rana",
+        "Matsa gajimare",
+        "Matsa gajimare",
+        "Taɓa ruwan sama",
+        "Taɓa dusar ƙanƙara",
+        "Taɓa wata",
+        "Taɓa walƙiya",
+        "Taɓa hazo"
+      ]
+    },
+    "yo": {
+      "g": [
+        "E ku ale",
+        "Kaaro o",
+        "O dara osan",
+        "O dara aṣalẹ"
+      ],
+      "tap": [
+        "Fọwọ ba oorun",
+        "Fọwọ ba awọsanma naa",
+        "Fọwọ ba awọsanma naa",
+        "Fọwọ ba ojo",
+        "Fọwọ ba egbon naa",
+        "Fọwọ ba oṣupa",
+        "Fọwọ ba manamana",
+        "Fọwọ ba kurukuru naa"
+      ]
+    },
+    "ig": {
+      "g": [
+        "Abalị ọma",
+        "Ụtụtụ ọma",
+        "Ehihie ọma",
+        "Ezi mgbede"
+      ],
+      "tap": [
+        "Kpatụ anyanwụ",
+        "Kpatụ igwe ojii",
+        "Kpatụ igwe ojii",
+        "Kpatụ mmiri ozuzo",
+        "Kpatụ snow",
+        "Kpatụ ọnwa",
+        "Kpatụ ọkụ",
+        "Kpatụ igwe ojii"
+      ]
+    },
+    "zu": {
+      "g": [
+        "Nilale kahle",
+        "Sawubona",
+        "Sawubona",
+        "Sawubona"
+      ],
+      "tap": [
+        "Thepha ilanga",
+        "Thepha ifu",
+        "Thepha ifu",
+        "Thepha imvula",
+        "Thepha iqhwa",
+        "Thepha inyanga",
+        "Thepha umbani",
+        "Thepha inkungu"
+      ]
+    },
+    "xh": {
+      "g": [
+        "Molo ebusuku",
+        "Molo kusasa",
+        "Molo emva kwemini",
+        "Molo ngokuhlwa"
+      ],
+      "tap": [
+        "Cofa ilanga",
+        "Cofa kwilifu",
+        "Cofa kwilifu",
+        "Cofa imvula",
+        "Betha ikhephu",
+        "Cofa enyangeni",
+        "Cofa umbane",
+        "Cofa inkungu"
+      ]
+    },
+    "af": {
+      "g": [
+        "Goeie nag",
+        "Goeiemôre",
+        "Goeie middag",
+        "Goeienaand"
+      ],
+      "tap": [
+        "Tik die son",
+        "Tik die wolk",
+        "Tik op die wolk",
+        "Tik op die reën",
+        "Tik die sneeu",
+        "Tik op die maan",
+        "Tik op die weerlig",
+        "Tik op die mis"
+      ]
+    },
+    "st": {
+      "g": [
+        "Dumelang hantle",
+        "Lumela",
+        "Lumela bosiu",
+        "Dumela"
+      ],
+      "tap": [
+        "Tobetsa letsatsi",
+        "Tobetsa leru",
+        "Tobetsa leru",
+        "Tobetsa pula",
+        "Tlanya lehloa",
+        "Tobetsa khoeling",
+        "Tlanya lehalima",
+        "Tlanya moholi"
+      ]
+    },
+    "tn": {
+      "g": [
+        "Robala sentle",
+        "Moso o montle",
+        "Motshegare o montle",
+        "Maitseboa a mantle"
+      ],
+      "tap": [
+        "Konya letsatsi",
+        "Tobetsa leru",
+        "Tobetsa leru",
+        "Konya pula",
+        "Konya kapoko",
+        "Konya ngwedi",
+        "Konya legadima",
+        "Konya mouwane"
+      ]
+    },
+    "ts": {
+      "g": [
+        "Vusiku lebyinene",
+        "Mixo lowunene",
+        "Madyambu lamanene",
+        "Madyambu lamanene"
+      ],
+      "tap": [
+        "Khoma dyambu",
+        "Khoma xirhendzevutani",
+        "Khoma xirhendzevutani",
+        "Khoma mpfula",
+        "Khoma xirhendzevutani",
+        "Khoma n'weti",
+        "Khoma rihati",
+        "Khoma nkungu"
+      ]
+    },
+    "ny": {
+      "g": [
+        "Usiku wabwino",
+        "M'mawa wabwino",
+        "Masana abwino",
+        "Usiku wabwino"
+      ],
+      "tap": [
+        "Dinani padzuwa",
+        "Dinani pamtambo",
+        "Dinani pamtambo",
+        "Dinani mvula",
+        "Gwirani chipale chofewa",
+        "Dinani pa mwezi",
+        "Dinani mphezi",
+        "Dinani chifunga"
+      ]
+    },
+    "rw": {
+      "g": [
+        "Ijoro ryiza",
+        "Mwaramutse",
+        "Mwaramutse",
+        "Umugoroba mwiza"
+      ],
+      "tap": [
+        "Kanda izuba",
+        "Kanda igicu",
+        "Kanda igicu",
+        "Kanda imvura",
+        "Kanda urubura",
+        "Kanda ukwezi",
+        "Kanda inkuba",
+        "Kanda igihu"
+      ]
+    },
+    "rn": {
+      "g": [
+        "Ijoro ryiza",
+        "Igitondo ciza",
+        "Umusi mwiza",
+        "Umugoroba mwiza"
+      ],
+      "tap": [
+        "Gutera izuba",
+        "Kanda ku gicu",
+        "Kanda ku gicu",
+        "Gutera imvura",
+        "Gukora ku rubura",
+        "Kora ku kwezi",
+        "Kanda ku muravyo",
+        "Kora ku gihu"
+      ]
+    },
+    "lg": {
+      "g": [
+        "Ekiro ekirungi",
+        "Amakya amalungi",
+        "Akawungeezi akalungi",
+        "Akawungeezi akalungi"
+      ],
+      "tap": [
+        "Koona ku musana",
+        "Koona ku kire",
+        "Koona ku kire",
+        "Koona ku nkuba",
+        "Koona ku muzira",
+        "Koona ku mwezi",
+        "Koona ku laddu",
+        "Koona ku kifu"
+      ]
+    },
+    "ti": {
+      "g": [
+        "ሰናይ ለይቲ",
+        "ሰናይ ንጉሆ",
+        "ሰናይ ቀትሪ",
+        "ሰናይ ምሸት"
+      ],
+      "tap": [
+        "ጸሓይ ምጥዋቕ",
+        "ነቲ ደበና ምጥዋቕ",
+        "ነቲ ደበና ምጥዋቕ",
+        "ዝናብ ምጥዋቕ",
+        "በረድ ምጥዋቕ",
+        "ወርሒ ምጥዋቕ",
+        "በርቂ ምጥዋቕ",
+        "ነቲ ዕንበባ ምጥዋቕ"
+      ]
+    },
+    "om": {
+      "g": [
+        "Halkan gaarii",
+        "Nagaa nagaa",
+        "Nagaa waaree booda",
+        "Galgala gaarii"
+      ],
+      "tap": [
+        "Aduu tuqaa",
+        "Duumessa tuquun",
+        "Duumessa tuquun",
+        "Rooba tuqaa",
+        "Qilleensaa tuqaa",
+        "Ji'a tuqaa",
+        "Balaqqeessa tuquun",
+        "Awwaara tuquun"
+      ]
+    },
+    "ku": {
+      "g": [
+        "Şev baş",
+        "Rojbaş",
+        "Êvar baş",
+        "Êvar baş"
+      ],
+      "tap": [
+        "Tavê tavê bike",
+        "Ewr bikirtînin",
+        "Ewr bikirtînin",
+        "Li baranê bixin",
+        "Li berfê bixin",
+        "Li heyvê bixin",
+        "Birûskê bixin",
+        "Li mijê bixin"
+      ]
+    },
+    "ps": {
+      "g": [
+        "ښه شپه",
+        "سهار مو پخیر",
+        "ماسپښین مو پخیر",
+        "ماښام مو پخیر"
+      ],
+      "tap": [
+        "لمر ټایپ کړئ",
+        "بادل ټایپ کړئ",
+        "بادل ټایپ کړئ",
+        "باران ټپ کړئ",
+        "واوره ټپ کړئ",
+        "سپوږمۍ ټپ کړئ",
+        "بریښنا ټک کړئ",
+        "ټوپ ټوپ کړئ"
+      ]
+    },
+    "sd": {
+      "g": [
+        "شب بخير",
+        "صبح جو سلام",
+        "صبح جو سلام",
+        "شام جو سلام"
+      ],
+      "tap": [
+        "سج کي ٽيپ ڪريو",
+        "ڪلائوڊ کي ٽيپ ڪريو",
+        "ڪلائوڊ کي ٽيپ ڪريو",
+        "مينهن کي ٽيپ ڪريو",
+        "برف تي ٽيپ ڪريو",
+        "چنڊ کي ٽيپ ڪريو",
+        "بجلي کي ٽيپ ڪريو",
+        "دھند کي ٽيپ ڪريو"
+      ]
+    },
+    "ug": {
+      "g": [
+        "خەيرلىك كەچ!",
+        "خەيرلىك!",
+        "خەيرلىك چۈشتىن كېيىن",
+        "خەيرلىك كەچ!"
+      ],
+      "tap": [
+        "قۇياشنى چېكىڭ",
+        "بۇلۇتنى چېكىڭ",
+        "بۇلۇتنى چېكىڭ",
+        "يامغۇرنى چېكىڭ",
+        "قارنى چېكىڭ",
+        "ئاينى چېكىڭ",
+        "چاقماقنى چېكىڭ",
+        "تۇماننى چېكىڭ"
+      ]
+    },
+    "bo": {
+      "g": [
+        "མཚན་མོ་བདེ་ལེགས།",
+        "ཞོགས་པ་བདེ་ལེགས།",
+        "ཉིན་གུང་བདེ་ལེགས།",
+        "དགོང་མོ་བདེ་ལེགས།"
+      ],
+      "tap": [
+        "ཉི་མ་ལ་རྡེབ།",
+        "སྤྲིན་པར་རྡེབ།",
+        "སྤྲིན་པར་རྡེབ།",
+        "ཆར་པ་རྡེབ།",
+        "གངས་ལ་རྡེབ་པ།",
+        "ཟླ་བ་ལ་རྡུངས།",
+        "གློག་འཁྱུག་ལ་རྡུངས།",
+        "སྨུག་པ་ལ་རྡེབ།"
+      ]
+    },
+    "ca": {
+      "g": [
+        "Bona nit",
+        "Bon dia",
+        "Bona tarda",
+        "Bona tarda"
+      ],
+      "tap": [
+        "Toca el sol",
+        "Toca el núvol",
+        "Toca el núvol",
+        "Toca la pluja",
+        "Toca la neu",
+        "Toca la lluna",
+        "Toca el llamp",
+        "Toca la boira"
+      ]
+    },
+    "eu": {
+      "g": [
+        "Gau on",
+        "Egun on",
+        "Arratsalde on",
+        "Arratsalde on"
+      ],
+      "tap": [
+        "Sakatu eguzkia",
+        "Sakatu hodeia",
+        "Sakatu hodeia",
+        "Sakatu euria",
+        "Sakatu elurra",
+        "Sakatu ilargia",
+        "Sakatu tximista",
+        "Sakatu lainoa"
+      ]
+    },
+    "gl": {
+      "g": [
+        "Boas noites",
+        "Bos días",
+        "Boas tardes",
+        "Boas noites"
+      ],
+      "tap": [
+        "Toca o sol",
+        "Toca a nube",
+        "Toca a nube",
+        "Toca a choiva",
+        "Toca a neve",
+        "Toca a lúa",
+        "Toca o raio",
+        "Toca a néboa"
+      ]
+    },
+    "cy": {
+      "g": [
+        "Nos da",
+        "Bore da",
+        "Prynhawn da",
+        "Noswaith dda"
+      ],
+      "tap": [
+        "Tapiwch yr haul",
+        "Tapiwch y cwmwl",
+        "Tapiwch y cwmwl",
+        "Tapiwch y glaw",
+        "Tapiwch yr eira",
+        "Tapiwch y lleuad",
+        "Tapiwch y mellt",
+        "Tapiwch y niwl"
+      ]
+    },
+    "ga": {
+      "g": [
+        "Oíche mhaith",
+        "Maidin mhaith",
+        "Tráthnóna maith",
+        "Oíche mhaith"
+      ],
+      "tap": [
+        "Beartaíonn an ghrian",
+        "Tapáil an scamall",
+        "Tapáil an scamall",
+        "Tapáil an bháisteach",
+        "Tapáil an sneachta",
+        "Tapáil an ghealach",
+        "Beartaíonn an tintreach",
+        "Tapáil an ceo"
+      ]
+    },
+    "is": {
+      "g": [
+        "Góða nótt",
+        "Góðan daginn",
+        "Góðan daginn",
+        "Gott kvöld"
+      ],
+      "tap": [
+        "Bankaðu á sólina",
+        "Pikkaðu á skýið",
+        "Pikkaðu á skýið",
+        "Bankaðu á rigninguna",
+        "Bankaðu á snjóinn",
+        "Bankaðu á tunglið",
+        "Bankaðu á eldinguna",
+        "Bankaðu á þokuna"
+      ]
+    },
+    "mt": {
+      "g": [
+        "Il-lejl it-tajjeb",
+        "L-għodwa t-tajba",
+        "Wara nofsinhar it-tajjeb",
+        "Il-lejla t-tajba"
+      ],
+      "tap": [
+        "Tektek ix-xemx",
+        "Tektek is-sħaba",
+        "Tektek is-sħaba",
+        "Tektek ix-xita",
+        "Tektek il-borra",
+        "Tektek il-qamar",
+        "Tektek is-sajjetti",
+        "Tektek iċ-ċpar"
+      ]
+    },
+    "lb": {
+      "g": [
+        "Gutt Nuecht",
+        "Gudde Moien",
+        "Gudde Mëtteg",
+        "Gudden Owend"
+      ],
+      "tap": [
+        "Tippen op d'Sonn",
+        "Tippen op d'Wollek",
+        "Tippen op d'Wollek",
+        "Tippen op de Reen",
+        "Tippen op de Schnéi",
+        "Tippen op de Mound",
+        "Tippen op de Blëtz",
+        "Tippen op den Niwwel"
+      ]
+    },
+    "be": {
+      "g": [
+        "Добрай ночы",
+        "Добрай раніцы",
+        "Добры дзень",
+        "Добры вечар"
+      ],
+      "tap": [
+        "Дакраніцеся да сонца",
+        "Націсніце на воблака",
+        "Націсніце на воблака",
+        "Націсніце дождж",
+        "Пастукайце па снезе",
+        "Націсніце на месяц",
+        "Націсніце на маланку",
+        "Націсніце на туман"
       ]
     }
   },
