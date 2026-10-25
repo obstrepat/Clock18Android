@@ -1,4 +1,4 @@
-name: Build mood-weather APK
+name: Build 100-language mood-weather APK
 on:
   push:
     branches: [mood-weather-android]
@@ -8,8 +8,23 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Translate and verify all 100 languages
+        run: python scripts/translate_messages.py
+      - name: Keep generated 100-language pack in source control
+        run: |
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add app/src/main/assets/messages.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add 100 translated languages [skip ci]"
+            git push origin HEAD:mood-weather-android
+          fi
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
@@ -19,14 +34,26 @@ jobs:
           gradle-version: '8.9'
       - name: Build native Android APK
         run: gradle --no-daemon assembleDebug
+      - name: Verify translations packaged in APK
+        run: |
+          python - <<'PY'
+          import json,zipfile
+          p=json.load(open("app/src/main/assets/messages.json"))
+          assert len(p['languages'])==len(p['phrases'])==len(p['labels'])==100
+          with zipfile.ZipFile("app/build/outputs/apk/debug/app-debug.apk") as z:
+            assert "assets/messages.json" in z.namelist()
+            packed=json.loads(z.read("assets/messages.json"))
+            assert len(packed['phrases'])==len(packed['labels'])==100
+          print("Verified: 100 language packs included in APK")
+          PY
       - name: Copy APK
-        run: cp app/build/outputs/apk/debug/app-debug.apk ehval-havasi.apk
+        run: cp app/build/outputs/apk/debug/app-debug.apk ehval-havasi-100-dil.apk
       - uses: actions/upload-artifact@v4
         with:
-          name: ehval-havasi-apk
-          path: ehval-havasi.apk
-      - name: Publish downloadable test APK
+          name: ehval-havasi-100-dil-apk
+          path: ehval-havasi-100-dil.apk
+      - name: Publish APK release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create ehval-v0.1.0 ehval-havasi.apk --title "Ehval Havasi Android v0.1.0" --notes "Test APK: MET Norway weather, interactive home widget; 7 fully translated languages, 100 locale selections with fallback." --target mood-weather-android --latest=false
+          gh release create ehval-v0.2.0 ehval-havasi-100-dil.apk --title "Ehval Havasi Android v0.2.0 • 100 Languages" --notes "Native Android weather app + home widget. Includes 100 automatically translated language packs. Original 18 Azerbaijani phrases kept unchanged. Translation quality requires review by native speakers." --target mood-weather-android --latest=false
