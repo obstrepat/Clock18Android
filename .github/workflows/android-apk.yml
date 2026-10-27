@@ -1,0 +1,36 @@
+name: Cedvel Studio Android APK
+on:
+  workflow_dispatch:
+  push:
+    branches: [cedvelstudio-mobile-apk]
+    paths:
+      - 'cedvelstudio-mobile/android/**'
+      - '.github/workflows/android-apk.yml'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Configure Android SDK
+        uses: android-actions/setup-android@v3
+      - name: Configure Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.7'
+      - name: Build Android debug APK
+        working-directory: cedvelstudio-mobile/android
+        run: gradle --no-daemon assembleDebug
+      - name: Upload installable APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: CedvelStudio-Mobile-Android-APK
+          path: cedvelstudio-mobile/android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 30
