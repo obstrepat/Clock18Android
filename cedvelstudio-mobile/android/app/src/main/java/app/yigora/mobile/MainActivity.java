@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
         EditText url=new EditText(this);url.setText(server);url.setSingleLine(true);url.setHint("http://100.101.102.103:8765");url.setInputType(InputType.TYPE_CLASS_TEXT|InputType.TYPE_TEXT_VARIATION_URI);c.addView(url);
         TextView note=text("HTTP bağlantısı yalnız Tailscale/lokal ünvanlarda aktivdir. Digər ünvanlar üçün HTTPS lazımdır.",12,Color.rgb(84,100,116));note.setPadding(0,dp(12),0,dp(22));c.addView(note);
         Button go=button("Qoşul →");c.addView(go);go.setOnClickListener(v->{String u=valid(url.getText().toString());if(u==null){url.setError("Düzgün HTTPS və ya lokal/Tailscale HTTP ünvanı daxil edin");return;}server=u;getPreferences(MODE_PRIVATE).edit().putString("server",u).apply();workspace();});
-        TextView help=text("İlk giriş: kompüterdə «Cihazlar və giriş» → «Telefon üçün kod yarat». Sonra telefonda «Telefonu qoş» seçərək kodu daxil edin. İdarəçi parolu ilə bütün uçot bölmələrinə giriş də mümkündür.",13,Color.rgb(84,100,116));help.setPadding(0,dp(24),0,0);c.addView(help);setContentView(c);
+        TextView help=text("İlk giriş: kompüterdə «Cihazlar və giriş» → «Telefon üçün kod yarat». Sonra telefonda «Telefonu qoş» seçərək kodu daxil edin. İdarəçi girişi yalnız Windows kompüterində mümkündür.",13,Color.rgb(84,100,116));help.setPadding(0,dp(24),0,0);c.addView(help);setContentView(c);
     }
     private boolean allowed(Uri u){Uri base=Uri.parse(server);return base.getScheme().equalsIgnoreCase(u.getScheme())&&base.getHost().equalsIgnoreCase(u.getHost())&&base.getPort()==u.getPort();}
     private void workspace(){dispose();LinearLayout c=new LinearLayout(this);c.setOrientation(1);c.setBackgroundColor(Color.WHITE);
