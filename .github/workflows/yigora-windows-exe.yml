@@ -45,6 +45,20 @@ jobs:
           if (!$found) { throw "Bundled Excel readers were not executed; runtime did not create marker" }
           Get-Process Yigora -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
           Remove-Item dist/server.py
+      - name: Smoke-test built-in SQLite backup without Python on target
+        working-directory: yigora-windows-builder
+        shell: pwsh
+        run: |
+          $data=Join-Path $env:LOCALAPPDATA 'Yigora\data'
+          New-Item -ItemType Directory -Path $data -Force | Out-Null
+          python -c "import sqlite3,os; c=sqlite3.connect(os.path.join(os.environ['LOCALAPPDATA'],'Yigora','data','studio.sqlite3')); c.execute('create table if not exists test_backup (id integer)'); c.execute('insert into test_backup values (1)'); c.commit(); c.close()"
+          $exe=(Resolve-Path dist/Yigora.exe).Path
+          $proc=Start-Process -FilePath $exe -ArgumentList '--backup' -WorkingDirectory (Resolve-Path dist) -Wait -PassThru
+          if ($proc.ExitCode -ne 0) { throw "Yigora --backup failed with exit code $($proc.ExitCode)" }
+          if (!(Test-Path (Join-Path $data 'SON_YEDEK.txt'))) { throw "Yigora backup result was not recorded" }
+          $backup=(Get-Content (Join-Path $data 'SON_YEDEK.txt') -Raw).Trim()
+          if (!(Test-Path $backup)) { throw "Backup file was not created" }
+          python -c "import sqlite3,sys; db=sqlite3.connect(sys.argv[1]); assert db.execute('select count(*) from test_backup').fetchone()[0]==1; db.close()" "$backup"
       - name: Upload Yigora.exe
         uses: actions/upload-artifact@v4
         with:
