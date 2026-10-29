@@ -39,7 +39,7 @@ jobs:
           begin=at+cookie_length-archive_length
           assert 0<begin<at, (begin,at,archive_length)
           buf=io.BytesIO()
-          with zipfile.ZipFile(buf,"w") as z: z.writestr("Windows/server.py","test")
+          with zipfile.ZipFile(buf,"w") as z: z.writestr("Windows/server.py","test"*600)
           data=buf.getvalue()
           mark=b"\x00YIGORA_INSTALL_PAYLOAD_v1_2_0_START\x00"
           end=b"\x00YIGORA_INSTALL_PAYLOAD_v1_2_0_END\x00"
