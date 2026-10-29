@@ -1,0 +1,59 @@
+name: Build Yigora Setup EXE
+on:
+  workflow_dispatch:
+  push:
+    branches: [yigora-local-v1-2-0]
+    paths:
+      - 'yigora-installer/**'
+      - '.github/workflows/yigora-installer.yml'
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions: {contents: read}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Install PyInstaller and Windows shortcuts dependency
+        run: python -m pip install --disable-pip-version-check pyinstaller==6.16.0 pywin32==311 pillow==11.3.0
+      - name: Create approved monochrome icon
+        working-directory: yigora-windows-builder
+        run: python make_icon.py
+      - name: Create real single-file setup EXE stub
+        shell: pwsh
+        run: |
+          python -m PyInstaller --clean --noconfirm --onefile --windowed --name Yigora_Setup --icon yigora-windows-builder/Yigora_1.0.0.ico --hidden-import win32com.client --hidden-import pythoncom --hidden-import pywintypes --collect-all win32com yigora-installer/installer.py
+      - name: Test EXE payload embedding and integrity-check on Windows
+        shell: pwsh
+        run: |
+          $script=@'
+          import io,zipfile,hashlib,struct,pathlib,subprocess,sys
+          from pathlib import Path
+          p=Path("dist/Yigora_Setup.exe")
+          stub=p.read_bytes()
+          magic=b"MEI\x0c\x0b\x0a\x0b\x0e"
+          at=stub.rfind(magic)
+          assert at>1000000, "Missing PyInstaller CArchive cookie"
+          cookie_length=88
+          archive_length=struct.unpack_from(">I",stub,at+8)[0]
+          begin=at+cookie_length-archive_length
+          assert 0<begin<at, (begin,at,archive_length)
+          buf=io.BytesIO()
+          with zipfile.ZipFile(buf,"w") as z: z.writestr("Windows/server.py","test")
+          data=buf.getvalue()
+          mark=b"\x00YIGORA_INSTALL_PAYLOAD_v1_2_0_START\x00"
+          end=b"\x00YIGORA_INSTALL_PAYLOAD_v1_2_0_END\x00"
+          embedded=stub[:begin]+mark+len(data).to_bytes(8,"little")+hashlib.sha256(data).digest()+data+end+stub[begin:]
+          test=Path("dist/Yigora_Setup_Test.exe")
+          test.write_bytes(embedded)
+          proc=subprocess.run([str(test.resolve()),"--selftest"],timeout=120)
+          assert proc.returncode==0, proc.returncode
+          print("Windows setup bootloader/payload smoke test OK")
+          '@
+          Set-Content test_embed.py -Value $script -Encoding UTF8
+          python test_embed.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Yigora_Setup_1.2.0_STUB
+          path: dist/Yigora_Setup.exe
+          retention-days: 30
