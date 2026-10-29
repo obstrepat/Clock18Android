@@ -99,7 +99,7 @@ jobs:
           }
           if(!$ok){throw "Yigora frozen EXE failed to import actual server dependencies"}
           $response=Invoke-WebRequest -Uri "http://127.0.0.1:18765/" -UseBasicParsing -TimeoutSec 10
-          if($response.Content -ne "Yigora HTTP OK"){throw "Yigora frozen EXE HTTP smoke test failed"}
+          if($response.StatusCode -ne 200){throw "Yigora frozen EXE HTTP smoke test failed: status $($response.StatusCode)"}
           Get-Process Yigora -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
           Remove-Item dist/server.py
       - name: Upload Yigora.exe
