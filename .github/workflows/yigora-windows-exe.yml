@@ -59,6 +59,49 @@ jobs:
           $backup=(Get-Content (Join-Path $data 'SON_YEDEK.txt') -Raw).Trim()
           if (!(Test-Path $backup)) { throw "Backup file was not created" }
           python -c "import sqlite3,sys; db=sqlite3.connect(sys.argv[1]); assert db.execute('select count(*) from test_backup').fetchone()[0]==1; db.close()" "$backup"
+      - name: Verify the actual server import graph inside frozen EXE
+        working-directory: yigora-windows-builder
+        shell: pwsh
+        run: |
+          $stub=@'
+          import base64,calendar,csv,datetime as dt,hashlib,hmac,io,ipaddress,json,os,pathlib,re,secrets,sqlite3,sys,threading,time,urllib.parse
+          from http import HTTPStatus
+          from http.cookies import SimpleCookie
+          from http.server import BaseHTTPRequestHandler,ThreadingHTTPServer
+          from contextlib import contextmanager
+          from wsgiref.handlers import format_date_time
+          import openpyxl,xlrd
+          from decimal import Decimal,InvalidOperation,ROUND_HALF_UP
+          import xml.etree.ElementTree
+          import ctypes
+          import zipfile
+          from collections import defaultdict
+          from email.utils import formatdate
+          from openpyxl import load_workbook,Workbook
+          from xlrd import open_workbook
+          pathlib.Path(os.environ["TEMP"],"Yigora_ActualImports_OK.txt").write_text("all imports loaded",encoding="utf-8")
+          class Handler(BaseHTTPRequestHandler):
+              def do_GET(self):
+                  self.send_response(200)
+                  self.end_headers()
+                  self.wfile.write(b"Yigora HTTP OK")
+          with ThreadingHTTPServer(("127.0.0.1", 18765),Handler) as httpd:
+              httpd.handle_request()
+          '@
+          Set-Content dist/server.py -Value $stub -Encoding UTF8
+          $marker=Join-Path $env:TEMP "Yigora_ActualImports_OK.txt"
+          if (Test-Path $marker) {Remove-Item $marker}
+          $proc=Start-Process -FilePath (Resolve-Path dist/Yigora.exe) -WorkingDirectory (Resolve-Path dist) -PassThru
+          $ok=$false
+          for($i=0;$i -lt 40;$i++){
+            if(Test-Path $marker){$ok=$true;break}
+            Start-Sleep -Seconds 1
+          }
+          if(!$ok){throw "Yigora frozen EXE failed to import actual server dependencies"}
+          $response=Invoke-WebRequest -Uri "http://127.0.0.1:18765/" -UseBasicParsing -TimeoutSec 10
+          if($response.Content -ne "Yigora HTTP OK"){throw "Yigora frozen EXE HTTP smoke test failed"}
+          Get-Process Yigora -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+          Remove-Item dist/server.py
       - name: Upload Yigora.exe
         uses: actions/upload-artifact@v4
         with:

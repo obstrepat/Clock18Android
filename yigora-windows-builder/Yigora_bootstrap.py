@@ -1,5 +1,12 @@
 """Yigora 1.2.0 portable Windows launcher. No local Python installation needed."""
 import sys, os, pathlib, runpy, threading, webbrowser, traceback, sqlite3, datetime
+# These modules are used by server.py loaded via runpy.run_path.
+# The PyInstaller analyzer cannot discover imports inside a runtime-loaded file.
+# Keep explicit imports here so the frozen Windows executable contains them.
+import base64, calendar, csv, hashlib, hmac, io, ipaddress, json, re, secrets, time
+import urllib.parse, http.server, http.cookies, wsgiref.handlers, contextlib
+import decimal, ctypes, xml.etree.ElementTree, zipfile, collections, email.utils
+import openpyxl, xlrd
 
 def main():
     folder=pathlib.Path(sys.executable if getattr(sys,'frozen',False) else __file__).resolve().parent
