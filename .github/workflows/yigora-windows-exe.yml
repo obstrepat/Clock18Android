@@ -1,0 +1,35 @@
+name: Build Yigora 1.0.0 Windows EXE
+on:
+  workflow_dispatch:
+  push:
+    branches: [cedvelstudio-mobile-apk]
+    paths:
+      - 'yigora-windows-builder/**'
+      - '.github/workflows/yigora-windows-exe.yml'
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions: {contents: read}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install build tools and Excel libraries
+        shell: pwsh
+        run: python -m pip install --disable-pip-version-check pyinstaller==6.16.0 openpyxl==3.1.5 xlrd==2.0.2 pillow==11.3.0
+      - name: Create monochrome Windows icon
+        working-directory: yigora-windows-builder
+        run: python make_icon.py
+      - name: Build Yigora.exe with embedded Python and Excel support
+        working-directory: yigora-windows-builder
+        shell: pwsh
+        run: |
+          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Yigora --icon Yigora_1.0.0.ico --hidden-import openpyxl --hidden-import xlrd --collect-all openpyxl --collect-all xlrd Yigora_bootstrap.py
+      - name: Upload Yigora.exe
+        uses: actions/upload-artifact@v4
+        with:
+          name: Yigora_1.0.0_Windows_EXE
+          path: yigora-windows-builder/dist/Yigora.exe
+          if-no-files-found: error
+          retention-days: 30
