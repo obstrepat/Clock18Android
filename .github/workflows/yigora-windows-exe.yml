@@ -1,8 +1,8 @@
-name: Build Yigora 1.0.0 Windows EXE
+name: Build Yigora Local 1.2.0 Windows EXE
 on:
   workflow_dispatch:
   push:
-    branches: [cedvelstudio-mobile-apk]
+    branches: [yigora-local-v1-2-0]
     paths:
       - 'yigora-windows-builder/**'
       - '.github/workflows/yigora-windows-exe.yml'
@@ -48,7 +48,7 @@ jobs:
       - name: Upload Yigora.exe
         uses: actions/upload-artifact@v4
         with:
-          name: Yigora_1.0.0_Windows_EXE
+          name: Yigora_1.2.0_Windows_EXE
           path: yigora-windows-builder/dist/Yigora.exe
           if-no-files-found: error
           retention-days: 30

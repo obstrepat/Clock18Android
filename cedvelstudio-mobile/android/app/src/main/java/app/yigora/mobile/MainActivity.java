@@ -59,13 +59,13 @@ public class MainActivity extends Activity {
         ImageView logo=new ImageView(this);logo.setImageResource(R.drawable.app_icon);c.addView(logo,new LinearLayout.LayoutParams(dp(72),dp(72)));
         TextView h=text("Yigora",27,NAVY);h.setPadding(0,0,0,dp(12));c.addView(h);
         TextView sub=text("MOBİL TƏTBİQ  •  SMART PRINT",12,Color.rgb(42,42,42));sub.setPadding(0,0,0,dp(30));c.addView(sub);
-        TextView desc=text("Windows kompüterinə internet üzərindən qoşulun. Bunun üçün telefon və kompüterdə Tailscale aktiv olmalıdır. Eyni Wi-Fi tələb edilmir.",16,NAVY);
+        TextView desc=text("Windows kompüterinə internet üzərindən qoşulun. Bunun üçün telefon və kompüterdə WireGuard (və ya Tailscale) aktiv olmalıdır. Eyni Wi-Fi tələb edilmir.",16,NAVY);
         desc.setPadding(0,0,0,dp(22));c.addView(desc);
         c.addView(text("Kompüterin ünvanı",15,NAVY));
-        EditText url=new EditText(this);url.setText(server);url.setSingleLine(true);url.setHint("http://100.101.102.103:8765");url.setInputType(InputType.TYPE_CLASS_TEXT|InputType.TYPE_TEXT_VARIATION_URI);c.addView(url);
-        TextView note=text("HTTP bağlantısı yalnız Tailscale/lokal ünvanlarda aktivdir. Digər ünvanlar üçün HTTPS lazımdır.",12,Color.rgb(84,100,116));note.setPadding(0,dp(12),0,dp(22));c.addView(note);
+        EditText url=new EditText(this);url.setText(server);url.setSingleLine(true);url.setHint("http://10.13.13.1:8765");url.setInputType(InputType.TYPE_CLASS_TEXT|InputType.TYPE_TEXT_VARIATION_URI);c.addView(url);
+        TextView note=text("HTTP bağlantısı yalnız WireGuard/Tailscale/lokal ünvanlarda aktivdir. Digər ünvanlar üçün HTTPS lazımdır.",12,Color.rgb(84,100,116));note.setPadding(0,dp(12),0,dp(22));c.addView(note);
         Button go=button("Qoşul →");c.addView(go);go.setOnClickListener(v->{String u=valid(url.getText().toString());if(u==null){url.setError("Düzgün HTTPS və ya lokal/Tailscale HTTP ünvanı daxil edin");return;}server=u;getPreferences(MODE_PRIVATE).edit().putString("server",u).apply();workspace();});
-        TextView help=text("İlk giriş: kompüterdə «Cihazlar və giriş» → «Telefon üçün kod yarat». Sonra telefonda «Telefonu qoş» seçərək kodu daxil edin. İdarəçi girişi yalnız Windows kompüterində mümkündür.",13,Color.rgb(84,100,116));help.setPadding(0,dp(24),0,0);c.addView(help);setContentView(c);
+        TextView help=text("İlk giriş: kompüterdə «Cihazlar və icazələr» → «Telefon üçün kod yarat». Sonra telefonda «Telefonu qoş» seçərək kodu daxil edin. İdarəçi girişi yalnız Windows kompüterində mümkündür.",13,Color.rgb(84,100,116));help.setPadding(0,dp(24),0,0);c.addView(help);setContentView(c);
     }
     private boolean allowed(Uri u){Uri base=Uri.parse(server);return base.getScheme().equalsIgnoreCase(u.getScheme())&&base.getHost().equalsIgnoreCase(u.getHost())&&base.getPort()==u.getPort();}
     private void workspace(){dispose();LinearLayout c=new LinearLayout(this);c.setOrientation(1);c.setBackgroundColor(Color.WHITE);
@@ -81,7 +81,7 @@ public class MainActivity extends Activity {
         web.setWebViewClient(new WebViewClient(){
             @Override public boolean shouldOverrideUrlLoading(WebView w,WebResourceRequest req){return !allowed(req.getUrl());}
             @Override public void onPageFinished(WebView w,String u){if(status!=null){status.setText("Bağlıdır • "+server);status.setTextColor(Color.rgb(23,122,84));}}
-            @Override public void onReceivedError(WebView w,WebResourceRequest req,WebResourceError e){if(req.isForMainFrame()&&status!=null){status.setText("Bağlantı yoxdur — kompüteri və Tailscale-i yoxlayın");status.setTextColor(Color.RED);}}
+            @Override public void onReceivedError(WebView w,WebResourceRequest req,WebResourceError e){if(req.isForMainFrame()&&status!=null){status.setText("Bağlantı yoxdur — kompüteri və VPN-i yoxlayın");status.setTextColor(Color.RED);}}
         });
         c.addView(web,new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,0,1));setContentView(c);
         reload.setOnClickListener(v->web.reload());
