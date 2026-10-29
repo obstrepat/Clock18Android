@@ -1,4 +1,4 @@
-package az.cedvelstudio.mobile;
+package app.yigora.mobile;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -18,14 +18,15 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.ProgressBar;
+import android.widget.ImageView;
 import android.text.InputType;
 import java.util.Locale;
 
-/** Native Android client for the user's Windows Cədvəl Studio server.
+/** Native Android client for the user's Windows Yigora server.
  * All financial data and print authorization are controlled by the Windows backend.
  */
 public class MainActivity extends Activity {
-    private static final int NAVY=Color.rgb(22,47,71), BG=Color.rgb(245,248,252);
+    private static final int NAVY=Color.rgb(18,18,18), BG=Color.rgb(248,248,248);
     private String server="";
     private WebView web;
     private TextView status;
@@ -55,8 +56,9 @@ public class MainActivity extends Activity {
     }
     private void dispose(){if(web!=null){web.destroy();web=null;}}
     private void settings(){dispose();LinearLayout c=new LinearLayout(this);c.setOrientation(1);c.setPadding(dp(24),dp(42),dp(24),dp(20));c.setBackgroundColor(BG);
-        TextView h=text("▦  Cədvəl Studio",27,NAVY);h.setPadding(0,0,0,dp(12));c.addView(h);
-        TextView sub=text("MOBİL TƏTBİQ  •  SMART PRINT",12,Color.rgb(15,114,184));sub.setPadding(0,0,0,dp(30));c.addView(sub);
+        ImageView logo=new ImageView(this);logo.setImageResource(R.drawable.app_icon);c.addView(logo,new LinearLayout.LayoutParams(dp(72),dp(72)));
+        TextView h=text("Yigora",27,NAVY);h.setPadding(0,0,0,dp(12));c.addView(h);
+        TextView sub=text("MOBİL TƏTBİQ  •  SMART PRINT",12,Color.rgb(42,42,42));sub.setPadding(0,0,0,dp(30));c.addView(sub);
         TextView desc=text("Windows kompüterinə internet üzərindən qoşulun. Bunun üçün telefon və kompüterdə Tailscale aktiv olmalıdır. Eyni Wi-Fi tələb edilmir.",16,NAVY);
         desc.setPadding(0,0,0,dp(22));c.addView(desc);
         c.addView(text("Kompüterin ünvanı",15,NAVY));
@@ -68,7 +70,7 @@ public class MainActivity extends Activity {
     private boolean allowed(Uri u){Uri base=Uri.parse(server);return base.getScheme().equalsIgnoreCase(u.getScheme())&&base.getHost().equalsIgnoreCase(u.getHost())&&base.getPort()==u.getPort();}
     private void workspace(){dispose();LinearLayout c=new LinearLayout(this);c.setOrientation(1);c.setBackgroundColor(Color.WHITE);
         LinearLayout head=new LinearLayout(this);head.setPadding(dp(10),dp(5),dp(8),dp(5));head.setBackgroundColor(NAVY);
-        TextView title=text("▦  Cədvəl Studio",18,Color.WHITE);title.setGravity(android.view.Gravity.CENTER_VERTICAL);head.addView(title,new LinearLayout.LayoutParams(0,dp(46),1));
+        TextView title=text("Yigora",18,Color.WHITE);title.setGravity(android.view.Gravity.CENTER_VERTICAL);head.addView(title,new LinearLayout.LayoutParams(0,dp(46),1));
         Button reload=button("Yenilə");head.addView(reload,new LinearLayout.LayoutParams(dp(82),dp(46)));
         Button edit=button("Ünvan");head.addView(edit,new LinearLayout.LayoutParams(dp(80),dp(46)));c.addView(head);
         status=text("Qoşulur...",12,Color.rgb(92,105,119));status.setPadding(dp(10),dp(6),dp(10),dp(6));c.addView(status);

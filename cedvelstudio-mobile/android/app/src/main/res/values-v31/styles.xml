@@ -1,0 +1,1 @@
+<resources><style name="YigoraTheme" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:windowSplashScreenBackground">#FFFFFFFF</item><item name="android:windowSplashScreenAnimatedIcon">@drawable/app_icon</item><item name="android:statusBarColor">#FF111111</item></style></resources>
