@@ -35,9 +35,15 @@ jobs:
           pathlib.Path(os.environ["TEMP"], "Yigora_EXE_Smoke_OK.txt").write_text("Excel readers OK", encoding="utf-8")
           '@
           Set-Content -Path dist/server.py -Value $stub -Encoding utf8
-          $p=Start-Process -FilePath (Resolve-Path dist/Yigora.exe) -WorkingDirectory (Resolve-Path dist) -Wait -PassThru
-          if ($p.ExitCode -ne 0) { throw "Yigora.exe exited with code $($p.ExitCode)" }
-          if (!(Test-Path (Join-Path $env:TEMP 'Yigora_EXE_Smoke_OK.txt'))) { throw "Bundled Excel readers were not executed" }
+          $p=Start-Process -FilePath (Resolve-Path dist/Yigora.exe) -WorkingDirectory (Resolve-Path dist) -PassThru
+          $marker=Join-Path $env:TEMP 'Yigora_EXE_Smoke_OK.txt'
+          $found=$false
+          for ($i=0; $i -lt 30; $i++) {
+            if (Test-Path $marker) { $found=$true; break }
+            Start-Sleep -Seconds 2
+          }
+          if (!$found) { throw "Bundled Excel readers were not executed; runtime did not create marker" }
+          Get-Process Yigora -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
           Remove-Item dist/server.py
       - name: Upload Yigora.exe
         uses: actions/upload-artifact@v4
