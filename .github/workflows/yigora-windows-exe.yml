@@ -1,11 +1,9 @@
-name: Build Yigora 1.0.0 Windows EXE
+name: Yigora Cloud 1.1.0 Windows EXE
 on:
   workflow_dispatch:
   push:
-    branches: [cedvelstudio-mobile-apk]
-    paths:
-      - 'yigora-windows-builder/**'
-      - '.github/workflows/yigora-windows-exe.yml'
+    branches: [yigora-cloud-v1-1-0]
+    paths: ['yigora-windows-builder/**','.github/workflows/yigora-windows-exe.yml']
 jobs:
   build:
     runs-on: windows-latest
@@ -13,42 +11,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Install build tools and Excel libraries
+        with: {python-version: '3.12'}
+      - name: Install packaged Firebase and spreadsheet dependencies
         shell: pwsh
-        run: python -m pip install --disable-pip-version-check pyinstaller==6.16.0 openpyxl==3.1.5 xlrd==2.0.2 pillow==11.3.0
-      - name: Create monochrome Windows icon
+        run: python -m pip install --disable-pip-version-check pyinstaller==6.16.0 openpyxl==3.1.5 xlrd==2.0.2 pillow==11.3.0 firebase-admin==7.1.0 google-cloud-firestore
+      - name: Create black and white Yigora icon
         working-directory: yigora-windows-builder
         run: python make_icon.py
-      - name: Build Yigora.exe with embedded Python and Excel support
+      - name: Build Yigora Cloud EXE
         working-directory: yigora-windows-builder
         shell: pwsh
         run: |
-          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Yigora --icon Yigora_1.0.0.ico --hidden-import openpyxl --hidden-import xlrd --collect-all openpyxl --collect-all xlrd Yigora_bootstrap.py
-      - name: Smoke test bundled Python and Excel readers on Windows
+          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Yigora --icon Yigora_1.0.0.ico --hidden-import openpyxl --hidden-import xlrd --hidden-import firebase_admin --hidden-import firebase_admin.firestore --hidden-import google.cloud.firestore --collect-all openpyxl --collect-all xlrd --collect-all firebase_admin --collect-all google.cloud.firestore --collect-all google.auth --collect-all google.oauth2 --collect-all grpc Yigora_bootstrap.py
+      - name: Smoke-test packaged Firebase libraries
         working-directory: yigora-windows-builder
         shell: pwsh
         run: |
-          $stub = @'
-          import pathlib, os, openpyxl, xlrd
-          pathlib.Path(os.environ["TEMP"], "Yigora_EXE_Smoke_OK.txt").write_text("Excel readers OK", encoding="utf-8")
+          $stub=@'
+          import pathlib,os,openpyxl,xlrd
+          import firebase_admin
+          from firebase_admin import firestore
+          from google.cloud import firestore as google_firestore
+          pathlib.Path(os.environ["TEMP"],"Yigora_Cloud_Exe_OK.txt").write_text("Cloud dependencies loaded",encoding="utf-8")
           '@
-          Set-Content -Path dist/server.py -Value $stub -Encoding utf8
+          Set-Content dist/server.py -Value $stub -Encoding UTF8
+          $marker=Join-Path $env:TEMP "Yigora_Cloud_Exe_OK.txt"
+          if (Test-Path $marker) { Remove-Item $marker }
           $p=Start-Process -FilePath (Resolve-Path dist/Yigora.exe) -WorkingDirectory (Resolve-Path dist) -PassThru
-          $marker=Join-Path $env:TEMP 'Yigora_EXE_Smoke_OK.txt'
           $found=$false
-          for ($i=0; $i -lt 30; $i++) {
-            if (Test-Path $marker) { $found=$true; break }
-            Start-Sleep -Seconds 2
-          }
-          if (!$found) { throw "Bundled Excel readers were not executed; runtime did not create marker" }
+          for ($i=0; $i -lt 45; $i++){if(Test-Path $marker){$found=$true;break};Start-Sleep -Seconds 2}
           Get-Process Yigora -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
+          if(!$found){throw "Yigora EXE did not load bundled Firebase SDK"}
           Remove-Item dist/server.py
-      - name: Upload Yigora.exe
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
-          name: Yigora_1.0.0_Windows_EXE
+          name: Yigora_Cloud_1.1.0_Windows_EXE
           path: yigora-windows-builder/dist/Yigora.exe
           if-no-files-found: error
           retention-days: 30
