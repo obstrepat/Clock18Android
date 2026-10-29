@@ -26,6 +26,19 @@ jobs:
         shell: pwsh
         run: |
           python -m PyInstaller --noconfirm --clean --onefile --windowed --name Yigora --icon Yigora_1.0.0.ico --hidden-import openpyxl --hidden-import xlrd --collect-all openpyxl --collect-all xlrd Yigora_bootstrap.py
+      - name: Smoke test bundled Python and Excel readers on Windows
+        working-directory: yigora-windows-builder
+        shell: pwsh
+        run: |
+          $stub = @'
+          import pathlib, os, openpyxl, xlrd
+          pathlib.Path(os.environ["TEMP"], "Yigora_EXE_Smoke_OK.txt").write_text("Excel readers OK", encoding="utf-8")
+          '@
+          Set-Content -Path dist/server.py -Value $stub -Encoding utf8
+          $p=Start-Process -FilePath (Resolve-Path dist/Yigora.exe) -WorkingDirectory (Resolve-Path dist) -Wait -PassThru
+          if ($p.ExitCode -ne 0) { throw "Yigora.exe exited with code $($p.ExitCode)" }
+          if (!(Test-Path (Join-Path $env:TEMP 'Yigora_EXE_Smoke_OK.txt'))) { throw "Bundled Excel readers were not executed" }
+          Remove-Item dist/server.py
       - name: Upload Yigora.exe
         uses: actions/upload-artifact@v4
         with:
