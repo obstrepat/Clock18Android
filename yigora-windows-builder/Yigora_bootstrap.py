@@ -1,12 +1,28 @@
-"""Yigora 1.0.0 portable Windows launcher. No local Python installation needed."""
-import sys, os, pathlib, runpy, threading, webbrowser, traceback
+"""Yigora 1.2.0 portable Windows launcher. No local Python installation needed."""
+import sys, os, pathlib, runpy, threading, webbrowser, traceback, sqlite3, datetime
 
 def main():
     folder=pathlib.Path(sys.executable if getattr(sys,'frozen',False) else __file__).resolve().parent
+    datadir=pathlib.Path(os.environ.get("LOCALAPPDATA",str(folder)))/"Yigora"/"data"
+    if "--backup" in sys.argv:
+        src=datadir/"studio.sqlite3"
+        if not src.is_file():
+            print("Yigora bazasi tapilmadi.")
+            return 3
+        dest=datadir/"backups"/("studio_"+datetime.datetime.now().strftime("%Y-%m-%d_%H%M%S")+".sqlite3")
+        dest.parent.mkdir(parents=True,exist_ok=True)
+        try:
+            with sqlite3.connect(src,timeout=30) as db,sqlite3.connect(dest) as backup:
+                db.backup(backup)
+            (datadir/"SON_YEDEK.txt").write_text(str(dest),encoding="utf-8")
+            return 0
+        except Exception:
+            traceback.print_exc()
+            return 4
     script=folder/"server.py"
     if not script.is_file():
         import ctypes
-        ctypes.windll.user32.MessageBoxW(0,"server.py not found beside Yigora.exe. Extract the full ZIP package first.","Yigora 1.0.0",0x10)
+        ctypes.windll.user32.MessageBoxW(0,"server.py not found beside Yigora.exe. Extract the full ZIP package first.","Yigora 1.2.0",0x10)
         return 1
     logdir=pathlib.Path(os.environ.get("LOCALAPPDATA",str(folder)))/"Yigora"/"logs"
     logdir.mkdir(parents=True,exist_ok=True)
