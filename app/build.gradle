@@ -1,16 +1,18 @@
 plugins {
     id 'com.android.application'
 }
-
 android {
-    namespace 'com.jeyhun.clock18'
+    namespace 'com.focusguard.local'
     compileSdk 35
-
     defaultConfig {
-        applicationId 'com.jeyhun.clock18'
+        applicationId 'com.focusguard.local'
         minSdk 26
-        targetSdk 35
+        targetSdk 34
         versionCode 1
-        versionName '1.0'
+        versionName '1.0.0'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 }
